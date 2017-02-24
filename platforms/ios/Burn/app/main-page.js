@@ -3,19 +3,50 @@ In NativeScript, a file with the same name as an XML file is known as
 a code-behind file. The code-behind is a great place to place your view
 logic, and to set up your page’s data binding.
 */
-
+var view = require("ui/core/view");
 var stackModule = require("ui/layouts/stack-layout");
 var gestures = require("ui/gestures");
+var absoluteLayout = require("ui/layouts/absolute-layout");
 
 function loaded(args){
-    
-    console.log("page was loaded");
-    
     var page = args.object;
-    
     var myPack = page.getViewById("packBG");
-    myPack.on(gestures.GestureTypes.swipe, function (args) {
-               console.log("Swipe Direction: " + args.direction);
+    var packTop = absoluteLayout.AbsoluteLayout.getTop(myPack);
+    var touchStart;
+    var touchEnd;
+    
+    page.on(gestures.GestureTypes.pan, function (args) {
+              
+              var touchY = args.deltaY;
+              touchY = touchY;
+            
+              
+              console.log('touchY: ',touchY);
+              console.log('packTop: ',packTop);
+              
+              var newTop = packTop + touchY;
+              
+              console.log('newTop: ',newTop);
+              
+              absoluteLayout.AbsoluteLayout.setTop(myPack, newTop);
+              
+              
+              
+              
+              // PHASE 1
+              // get the pack image top val
+              
+              // myPack.top = touchY;
+              
+              // change the pack image top val when the touchY changes
+              // dont let the pack image go too close to the top of the screen
+              // dont let the pack image go too far down the screen
+              // the whole screen should work with the touch event, not just the pack image
+              
+              // PHASE 2
+              // when the pack reaches the topmost point, and the user starts the touch action again, this time it moves the cigarette instead of the pack.
+              // when the cigarette is back down in the pack the user can start dragging down again to move the pack down
+              // cigarette and pack dragging are seperate processes
     });
     
     

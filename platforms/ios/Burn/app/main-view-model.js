@@ -78,16 +78,11 @@ function createViewModel() {
     
         
 
-        
-        // Need to create the spinning wheel that adds more to your reserve.
 
     // tap event
     viewModel.onTap = function() {
         
         
-        label.on(gestures.GestureTypes.swipe, function (args) {
-                 console.log("Swipe Direction: " + args.direction);
-                 });
 
         /*
 
