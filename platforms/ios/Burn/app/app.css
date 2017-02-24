@@ -1,0 +1,57 @@
+﻿/*
+In NativeScript, the app.css file is where you place CSS rules that
+you would like to apply to your entire application. Check out
+http://docs.nativescript.org/ui/styling for a full list of the CSS
+selectors and properties you can use to style UI components.
+
+/*
+For example, the following CSS rule changes the font size of all UI
+components that have the btn class name.
+*/
+
+
+body
+{
+  color:#fff;
+}
+
+.BG
+{
+    background-color:#1b1b1b;
+    width:100%;
+    height:100%;
+}
+
+.reserveMeter
+{
+  margin-top:25px;
+}
+
+.bigButton
+{
+  /*margin-top: 25px;*/
+  width: 244px;
+  height: 244px;
+  background-color:transparent;
+  background-image: url('~/images/bigButton-green-pressed-244@2x.png') no-repeat center center;
+  background-size:244px 244px;
+}
+
+.bigButton:highlighted,
+button:highlighted
+{
+  background-color:transparent;
+  background-image: url('~/images/bigButton-green-244@2x.png') no-repeat center center;
+}
+
+.navigation
+{
+  margin-top:35px;
+}
+
+/*
+In many cases you may want to use the NativeScript core theme instead
+of writing your own CSS rules. For a full list of class names in the theme
+refer to http://docs.nativescript.org/ui/theme.
+*/
+

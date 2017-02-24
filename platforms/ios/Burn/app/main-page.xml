@@ -1,0 +1,76 @@
+<!--
+The markup in NativeScript apps contains a series of user interface components, each
+of which NativeScript renders with a platform-specific iOS or Android native control.
+You can find a full list of user interface components you can use in your app at
+https://docs.nativescript.org/ui/components.
+-->
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" backgroundSpanUnderStatusBar="true" backgroundColor="#0077FE" loaded="loaded" navigatingTo="onNavigatingTo">
+
+     <!--<Page.actionBar>
+        <ActionBar title="Burn"></ActionBar>
+    </Page.actionBar>-->
+
+    <!--
+    The StackLayout stacks UI components on the screen—either vertically or horizontally.
+    In this case, the StackLayout does vertical stacking; you can change the stacking to
+    horizontal by applying a orientation="horizontal" attribute to the <StackLayout> element.
+    You can learn more about NativeScript layouts at
+    https://docs.nativescript.org/ui/layout-containers.
+
+    These components make use of several CSS class names that are part of the NativeScript
+    core theme, such as p-20, btn, h2, and text-center. You can view a full list of the
+    class names available for styling your app at https://docs.nativescript.org/ui/theme.
+    -->
+   
+
+    <StackLayout class="p-20 body">
+        
+<!--        <AbsoluteLayout id="reserveMeterLayout">          -->
+<!--            -->
+<!--            <image src="{{ imgSrc20 }}" left="160" top="25" width="19" height="19" class="reserveDot on"/>-->
+<!--            <image src="{{ imgSrc18 }}" left="180" top="37" width="19" height="19" class="reserveDot on"/>-->
+<!--            <image src="{{ imgSrc19 }}" left="200" top="25" width="19" height="19" class="reserveDot on"/>-->
+<!--           -->
+<!--            <image src="{{ imgSrc17 }}" left="160" top="48" width="19" height="19" class="reserveDot on"/>-->
+<!--            <image src="{{ imgSrc15 }}" left="180" top="60" width="19" height="19" class="reserveDot on"/>-->
+<!--            <image src="{{ imgSrc16 }}" left="200" top="48" width="19" height="19" class="reserveDot on"/>-->
+<!--            -->
+<!--            <image src="{{ imgSrc14 }}" left="160" top="71" width="19" height="19" class="reserveDot on"/>-->
+<!--            <image src="{{ imgSrc12 }}" left="180" top="83" width="19" height="19" class="reserveDot on"/>-->
+<!--            <image src="{{ imgSrc13 }}" left="200" top="71" width="19" height="19" class="reserveDot on"/>-->
+<!--           -->
+<!--            <image src="{{ imgSrc11 }}" left="160" top="94" width="19" height="19" class="reserveDot on"/>-->
+<!--            <image src="{{ imgSrc9 }}" left="180" top="106" width="19" height="19" class="reserveDot on"/>-->
+<!--            <image src="{{ imgSrc10 }}" left="200" top="94" width="19" height="19" class="reserveDot on"/>-->
+<!--          -->
+<!--            <image src="{{ imgSrc8 }}" left="160" top="117" width="19" height="19" class="reserveDot on"/>-->
+<!--            <image src="{{ imgSrc6 }}" left="180" top="129" width="19" height="19" class="reserveDot on"/>-->
+<!--            <image src="{{ imgSrc7 }}" left="200" top="117" width="19" height="19" class="reserveDot on"/>-->
+<!--            -->
+<!--            <image src="{{ imgSrc5 }}" left="160" top="140" width="19" height="19" class="reserveDot on"/>-->
+<!--            <image src="{{ imgSrc3 }}" left="180" top="152" width="19" height="19" class="reserveDot on"/>-->
+<!--            <image src="{{ imgSrc4 }}" left="200" top="140" width="19" height="19" class="reserveDot on"/>-->
+<!--            -->
+<!--            <image src="{{ imgSrc2 }}" left="160" top="163" width="19" height="19" class="reserveDot on"/>-->
+<!--            <image src="{{ imgSrc1 }}" left="200" top="163" width="19" height="19" class="reserveDot on"/>-->
+<!--        </AbsoluteLayout>-->
+<!--        <AbsoluteLayout id="bigButtonLayout">-->
+<!--            <image class="bigButtonBG" left="48" top="30" width="282" height="324" horizontalAlignment="center" src="~/images/buttonBG-282x324.png" />-->
+<!--            <Button left="67" top="48" tap="{{ onTap }}" horizontalAlignment="center" class="btn bigButton btn-primary btn-active"/>-->
+<!--            <image src="{{ imgSrc_statusLight }}" id="statusLight" />-->
+<!--            <Label text="{{ timeRemaining }}" id="statusLabel"/>-->
+<!--        </AbsoluteLayout>-->
+
+        <!--<Label horizontalAlignment="center" text="{{ message }}" class="h2 text-center" textWrap="true"/>
+        <Image width="375" height="74" class="navigation" src="~/images/nav-596x90@2x.png.png" />-->
+        
+        <AbsoluteLayout id="BG">
+            <Label text="" class="BG" />
+            <Image width="375" height="522" top="125" id="packBG" class="packBG" src="~/images/pack.png" />
+        </AbsoluteLayout>
+        
+        
+        
+        
+    </StackLayout>
+</Page>
