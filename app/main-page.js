@@ -11,11 +11,14 @@ var absoluteLayout = require("ui/layouts/absolute-layout");
 function loaded(args){
     var page = args.object;
     var myPack = page.getViewById("packBG");
+    var mainLayout = page.getViewById('mainLayout');
     var packTop = absoluteLayout.AbsoluteLayout.getTop(myPack);
     var touchStart;
     var touchEnd;
+
     
-    page.on(gestures.GestureTypes.pan, function (args) {
+    
+    mainLayout.on(gestures.GestureTypes.pan, function (args) {
               
               var touchY = args.deltaY;
               touchY = touchY;

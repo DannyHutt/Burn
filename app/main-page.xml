@@ -22,8 +22,8 @@ https://docs.nativescript.org/ui/components.
     class names available for styling your app at https://docs.nativescript.org/ui/theme.
     -->
    
-
-    <StackLayout class="p-20 body">
+<!--
+    <StackLayout class="p-20 body">-->
         
 <!--        <AbsoluteLayout id="reserveMeterLayout">          -->
 <!--            -->
@@ -64,7 +64,7 @@ https://docs.nativescript.org/ui/components.
         <!--<Label horizontalAlignment="center" text="{{ message }}" class="h2 text-center" textWrap="true"/>
         <Image width="375" height="74" class="navigation" src="~/images/nav-596x90@2x.png.png" />-->
         
-        <AbsoluteLayout id="BG">
+        <AbsoluteLayout id="mainLayout" class="body">
             <Label text="" class="BG" />
             <Image width="375" height="522" top="125" id="packBG" class="packBG" src="~/images/pack.png" />
         </AbsoluteLayout>
@@ -72,5 +72,5 @@ https://docs.nativescript.org/ui/components.
         
         
         
-    </StackLayout>
+    <!--</StackLayout>-->
 </Page>
