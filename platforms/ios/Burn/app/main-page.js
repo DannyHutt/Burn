@@ -11,24 +11,47 @@ var absoluteLayout = require("ui/layouts/absolute-layout");
 function loaded(args){
     var page = args.object;
     var myPack = page.getViewById("packBG");
-    var packTop = absoluteLayout.AbsoluteLayout.getTop(myPack);
+    var mainLayout = page.getViewById('mainLayout');
+
     var touchStart;
     var touchEnd;
-    
-    page.on(gestures.GestureTypes.pan, function (args) {
+
+    var packTop;
+
+    mainLayout.on(gestures.GestureTypes.pan, function (args) {
+
+        // *********************************************
+        //  Just got this to work so the pack wont jump 
+        //  to the bottom when you touch it
+        // *********************************************
+        
+        var touchY = args.deltaY;
+
+        if(args.state === 1){
+            // this is the 'began' state
+            console.log('BEGAN');
+            // get the current location
+            packTop = absoluteLayout.AbsoluteLayout.getTop(myPack);
+        }
+
+        if(args.state === 2){
+            // this is the 'changed' state
+            console.log('CHANGED');
+
+            var newTop = packTop + touchY;
+            absoluteLayout.AbsoluteLayout.setTop(myPack, newTop);
+        }
+
+        if(args.state === 3){
+            // this is the 'ended' state
+            console.log('ENDED');
+        }
+
+        
               
-              var touchY = args.deltaY;
-              touchY = touchY;
-            
-              
-              console.log('touchY: ',touchY);
-              console.log('packTop: ',packTop);
-              
-              var newTop = packTop + touchY;
-              
-              console.log('newTop: ',newTop);
-              
-              absoluteLayout.AbsoluteLayout.setTop(myPack, newTop);
+        
+        
+        
               
               
               
