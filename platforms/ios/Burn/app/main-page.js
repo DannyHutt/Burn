@@ -13,8 +13,8 @@ function loaded(args){
     var myPack = page.getViewById("packBG");
     var mainLayout = page.getViewById('mainLayout');
 
-    var touchStart;
-    var touchEnd;
+    var topMin = 125;
+    var topMax = 400;
 
     var packTop;
 
@@ -24,7 +24,7 @@ function loaded(args){
         //  Just got this to work so the pack wont jump 
         //  to the bottom when you touch it
         // *********************************************
-        
+
         var touchY = args.deltaY;
 
         if(args.state === 1){
@@ -39,7 +39,10 @@ function loaded(args){
             console.log('CHANGED');
 
             var newTop = packTop + touchY;
-            absoluteLayout.AbsoluteLayout.setTop(myPack, newTop);
+            if(newTop <= topMax && newTop >= topMin){
+                absoluteLayout.AbsoluteLayout.setTop(myPack, newTop);
+            }
+            
         }
 
         if(args.state === 3){
