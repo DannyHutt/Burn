@@ -8,24 +8,41 @@ var stackModule = require("ui/layouts/stack-layout");
 var gestures = require("ui/gestures");
 var absoluteLayout = require("ui/layouts/absolute-layout");
 var enums = require('ui/enums');
+var animation = require('ui/animation');
+var label = require('ui/label');
 
 function loaded(args){
+
     var page = args.object;
+    
     var myPack = page.getViewById("packBG");
+    var cig = page.getViewById("cig");
+    var packFront = page.getViewById('packFront');
     var mainLayout = page.getViewById('mainLayout');
 
-    var topMin = 125;
-    var topMax = 400;
+    // Debug labels
+    var lblStartPos = page.getViewById('lblStartPosition');
+    var lblDragDir = page.getViewById('lblDragDirection');
+    var lblDragDist = page.getViewById('lblDragDistance');
+    var lblThresholdBroken = page.getViewById('lblThresholdBroken');
+    var lblAnimateTo = page.getViewById('lblAnimateTo');
+    
+    var topMin = 100;
+    var topMax = 494;
     var centerVal = (topMax + topMin) / 2;
+    var dragThreshold = 50;
 
+    var startPosition = 'bottom';
     var packTop;
+    //var dragTravel;
 
     mainLayout.on(gestures.GestureTypes.pan, function (args) {
 
-        // *********************************************
-        //  Just got this to work so the pack wont jump 
-        //  to the bottom when you touch it
-        // *********************************************
+        /* ******************************************************************
+
+         This can be broken in some edge cases and should be fixed.
+
+        ******************************************************************** */
 
         var touchY = args.deltaY;
 
@@ -33,54 +50,100 @@ function loaded(args){
             // this is the 'began' state
             console.log('Pan state: began');
             // get the current location
-            packTop = absoluteLayout.AbsoluteLayout.getTop(myPack);
+            buttTop = absoluteLayout.AbsoluteLayout.getTop(cig);
+            //dragTravel = 0;
+
+            // if(packTop === topMin){
+            //     startPosition = 'top';
+            // }else if(packTop === topMax){
+            //     startPosition = 'bottom';
+            // }else{
+            //     startPosition = '! top is at '+packTop;
+            //     /*
+            //     we keep falling into this after the first drag, need to save a variable for resting location
+            //     using the exact location isnt really working.
+            //     */
+            // }
+
+            // debug labels
+            lblStartPos.text='Start Position: '+ startPosition;
         }
+
 
         if(args.state === 2){
-            // this is the 'changed' state
-            console.log('Pan state: changed');
 
-            var newTop = packTop + touchY;
+            //dragTravel++;
+
+            var newTop = buttTop + touchY;
+            //var cigTop = newTop + 69;
+
+            var curLoc = absoluteLayout.AbsoluteLayout.getTop(cig);
+            var travelDist = curLoc - buttTop;
+            var travelDir = travelDist>0?'down':'up';
+
+            // debug labels
+            lblDragDir.text='Drag Direction: '+ travelDir;
+            lblDragDist.text='Drag Distance: '+ travelDist;
+
+            //absoluteLayout.AbsoluteLayout.setTop(myPack, newTop);
             if(newTop <= topMax && newTop >= topMin){
-                absoluteLayout.AbsoluteLayout.setTop(myPack, newTop);
-            }
+                absoluteLayout.AbsoluteLayout.setTop(cig, newTop);
+                //absoluteLayout.AbsoluteLayout.setTop(cig, cigTop);
+                //absoluteLayout.AbsoluteLayout.setTop(packFront, newTop); 
+            } 
             
+            // if(travelDir === 'up'){
+            //     // move the butt only 
+            //     absoluteLayout.AbsoluteLayout.setTop(cig, cigTop);
+            // }
         }
 
-// ******************************
-// this shit does not work
-// *****************************
 
         if(args.state === 3){
             // this is the 'ended' state
 
             console.log('Pan state: ended');
 
-            var curLoc = absoluteLayout.AbsoluteLayout.getTop(myPack);
-            // if the current location is not the min or the max the animate to one of them
-            if(curLoc !== topMin && curLoc !== topMin){
-                // check if the current location is greater than the center location
-                // if it is then move it to the max spot
-                // otherwise, move it to the min spot
-                console.log('current location: ',curLoc + ' centerVal: ',centerVal);
-                if(curLoc > centerVal){
+            var curLoc = absoluteLayout.AbsoluteLayout.getTop(cig);
+            // if the current location is not the min or the max then animate to one of them
+            if(curLoc !== topMin && curLoc !== topMax){
+                
+                if(curLoc > centerVal){ // this does not work.. if at bottom going up and not going past center it animates up.
+                //if(dragTravel > dragThreshold){
+
+                    // debug labels
+                    var boolVal = startPosition === 'top'?'yes':'no';
+                    lblThresholdBroken.text='Threshold Broken: '+boolVal+' - curLoc: '+curLoc+' centerVal: '+centerVal;
+                    lblAnimateTo.text='Animate To: bottom';
+
                     // animate to max
                     var distance = topMax - curLoc;  
-                    console.log('topMax: ',topMax +' - curLoc: ',curLoc +' = distance: ',distance);
-                    myPack.animate({
-                        translate: {x: 0, y: distance},
-                        //duration: '',
-                        curve: enums.AnimationCurve.easeOut
-                    });
+                    console.log('distance: ',distance);
+                    var animationArray = [
+                        {target: cig, translate: {x: 0, y: distance}, curve: enums.AnimationCurve.easeOut},
+                        {target: myPack, translate: {x: 0, y: 0},curve: enums.AnimationCurve.easeIn},
+                        {target: packFront, translate: {x: 0, y: 0}, curve: enums.AnimationCurve.easeIn}
+                    ];
+                    var animations = new animation.Animation(animationArray);
+                    animations.play();
+                    startPosition = 'bottom';
                 }else{
+
+                    // debug labels
+                    var boolVal = startPosition === 'bottom'?'yes':'no';
+                    lblThresholdBroken.text='Threshold Broken: '+boolVal+' - curLoc: '+curLoc+' centerVal: '+centerVal;
+                    lblAnimateTo.text='Animate To: top';
+
                     // animate to min 
                     var distance = topMin - curLoc;  
-                    console.log('topMin: ',topMin +' - curLoc: ',curLoc +' = distance: ',distance);
-                    myPack.animate({
-                        translate: {x: 0, y: distance},
-                        //duration: '',
-                        curve: enums.AnimationCurve.easeOut
-                    });
+                    var animationArray = [
+                        {target: cig, translate: {x: 0, y: distance}, curve: enums.AnimationCurve.easeOut},
+                        {target: myPack, translate: {x: 0, y: 500},curve: enums.AnimationCurve.easeIn},
+                        {target: packFront, translate: {x: 0, y: 500}, curve: enums.AnimationCurve.easeIn}
+                    ];
+                    var animations = new animation.Animation(animationArray);
+                    animations.play();
+                    startPosition = 'top';
                 }
             }
         }
@@ -111,11 +174,6 @@ function loaded(args){
     });
     
     
-}
-
-function animatePack(targetLocation){
-    // animate the pack from the current location to the target
-
 }
 
 /*

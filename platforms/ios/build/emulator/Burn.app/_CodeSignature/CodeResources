@@ -6,39 +6,39 @@
 	<dict>
 		<key>AppIcon29x29.png</key>
 		<data>
-		qQui0uCIc9snP2RnHd1LEx0ImW4=
+		VekS+bzRBMZp9m7RiQyl8qpkT38=
 		</data>
 		<key>AppIcon29x29@2x.png</key>
 		<data>
-		aP6zUrltFtnGYSIl6DYUfYPrIWw=
+		qBTN3XvuJhjhXNLSz8MkSQ+eXp8=
 		</data>
 		<key>AppIcon29x29@2x~ipad.png</key>
 		<data>
-		aP6zUrltFtnGYSIl6DYUfYPrIWw=
+		qBTN3XvuJhjhXNLSz8MkSQ+eXp8=
 		</data>
 		<key>AppIcon29x29@3x.png</key>
 		<data>
-		DPbNQU+kDMqpYKIHBAP0NJgX7Ac=
+		7scveveaWmFDuNHyewFMI3hlrPs=
 		</data>
 		<key>AppIcon29x29~ipad.png</key>
 		<data>
-		qQui0uCIc9snP2RnHd1LEx0ImW4=
+		VekS+bzRBMZp9m7RiQyl8qpkT38=
 		</data>
 		<key>AppIcon40x40@2x.png</key>
 		<data>
-		3mVMZf8AAFWUdCWyXX5LpdcAQn8=
+		6V8XMt+ZFYRqtBinmfuAPf3ykpc=
 		</data>
 		<key>AppIcon40x40@2x~ipad.png</key>
 		<data>
-		3mVMZf8AAFWUdCWyXX5LpdcAQn8=
+		6V8XMt+ZFYRqtBinmfuAPf3ykpc=
 		</data>
 		<key>AppIcon40x40@3x.png</key>
 		<data>
-		ULjo/SboRUIkg/CMcxnZ/ObDQ9U=
+		UZ2v5wnQO3kG4PQ8ujx1FlLrWTc=
 		</data>
 		<key>AppIcon40x40~ipad.png</key>
 		<data>
-		yEwkqlDaJunA2OUJNHiRKaSKTW8=
+		NDyXkWK+jc1YFM8TdUn7eHS515E=
 		</data>
 		<key>AppIcon50x50@2x~ipad.png</key>
 		<data>
@@ -50,19 +50,19 @@
 		</data>
 		<key>AppIcon57x57.png</key>
 		<data>
-		VXuZWXMTDjDv40vPx13zoZQolh0=
+		WviY8EkfbphKLHqjybZjfh53Abc=
 		</data>
 		<key>AppIcon57x57@2x.png</key>
 		<data>
-		/MGiFJP+PfrsP4rfZw0V3xRBaO0=
+		tdcoLJ3IjAMv4XiSl7qxeFS3LxA=
 		</data>
 		<key>AppIcon60x60@2x.png</key>
 		<data>
-		m5Cu35JtSMkqXy6I3FbvnEw+3ws=
+		UZ2v5wnQO3kG4PQ8ujx1FlLrWTc=
 		</data>
 		<key>AppIcon60x60@3x.png</key>
 		<data>
-		urhpT50/nKC0wyTcdWHE1ZFOQeE=
+		h+TUTzFe+8w1CYkjW9iZZhx6aFw=
 		</data>
 		<key>AppIcon72x72@2x~ipad.png</key>
 		<data>
@@ -86,83 +86,115 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		SO2ksfnhk4wv6GnGYibyHXatBtM=
+		6g4U0kQPy+DEEpj+TOU4KBbr7NU=
 		</data>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
 		<data>
-		f8YbEHyMhhl9i1gFViP9307UuRQ=
+		k10lDReAp6DFsz30UCpIH8UiWvY=
 		</data>
 		<key>Frameworks/NativeScript.framework/NativeScript</key>
 		<data>
-		zxU6WF49ujBpVFQCdHUPQn7nn18=
+		v6rnm33xWzImu4PJtJzB2GuFjhc=
 		</data>
 		<key>Frameworks/NativeScript.framework/_CodeSignature/CodeResources</key>
 		<data>
-		CuoPXzQOkd/uMy49pmjY5hiYzAY=
+		CqyUnSiomEFTQRT/eq/zY0qAFwQ=
 		</data>
 		<key>Frameworks/TKLiveSync.framework/Info.plist</key>
 		<data>
-		NaGEewHyWAx48eEn1cd1DYJlwWk=
+		FoPMhCdhevxlC+NOBmwXuweGh88=
 		</data>
 		<key>Frameworks/TKLiveSync.framework/TKLiveSync</key>
 		<data>
-		oC+oLp2qqXWzxaHfRnFiRe+wCIw=
+		cY9tL6GUJ+EM6OxTsFp9/DFfFUQ=
 		</data>
 		<key>Frameworks/TKLiveSync.framework/_CodeSignature/CodeResources</key>
 		<data>
-		YqjPjjyCXYzRwGlJMNDm3txfEyQ=
+		/FBm8nxgWLnwiavCNjKT53KAWdY=
 		</data>
 		<key>Frameworks/TNSWidgets.framework/Info.plist</key>
 		<data>
-		cPNZkJKL3G7RJ72/F78SJ2/YZZ8=
+		Kn5JKKG9bQZaZ01rRgMfbFOgGjQ=
 		</data>
 		<key>Frameworks/TNSWidgets.framework/TNSWidgets</key>
 		<data>
-		i/AAooi8iF7elMd6H5Tt2JaVe3c=
+		blJ1azz0++9BHCHTInf6SW+yxhQ=
 		</data>
 		<key>Frameworks/TNSWidgets.framework/_CodeSignature/CodeResources</key>
 		<data>
-		nYcVjHTTYbUoFB+VFEZRNTWdL+A=
+		syoEie+evThyv6iYMObX9HorIfY=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Dd8bNDtR4JsVm3pwqctvie6wM+0=
+		Jp2/XYM53CAp/1btbXd5F6ffM3Q=
 		</data>
 		<key>LaunchImage-568h@2x.png</key>
 		<data>
-		VmHTptUrPuWY7yNjVc09e8tr7A0=
+		jD2XcWBZ9MxX1wEgUeJ9mwlM27Q=
 		</data>
 		<key>LaunchImage-700-568h@2x.png</key>
 		<data>
-		VmHTptUrPuWY7yNjVc09e8tr7A0=
+		jD2XcWBZ9MxX1wEgUeJ9mwlM27Q=
+		</data>
+		<key>LaunchImage-700-Landscape@2x~ipad.png</key>
+		<data>
+		UvI7MSvB4YdNLPD40yNzEfDM+jo=
+		</data>
+		<key>LaunchImage-700-Landscape~ipad.png</key>
+		<data>
+		NQ2gzdRt+UClXa0+veQ7oYHLb7s=
+		</data>
+		<key>LaunchImage-700-Portrait@2x~ipad.png</key>
+		<data>
+		W2hgY2yYKYmrdIjLFr4fm4H+z6s=
+		</data>
+		<key>LaunchImage-700-Portrait~ipad.png</key>
+		<data>
+		uVAg3FwM0zwc98qcDQel1Bn86NU=
 		</data>
 		<key>LaunchImage-700@2x.png</key>
 		<data>
-		eMCbvAXVQNO8hlB8z3BTD2UmgFc=
+		GBS1Eidtu3woxei+1tferOrQd2E=
 		</data>
 		<key>LaunchImage-800-667h@2x.png</key>
 		<data>
-		Z0H3WvqXNO46fcQRjJd4TG7T9lY=
+		TwRBa2MhAV6CaOk7MW7qO66e/Lg=
 		</data>
 		<key>LaunchImage-800-Landscape-736h@3x.png</key>
 		<data>
-		1uvU7ilcauI7R80FIhaEmEkvrB4=
+		Hy3OKCU2ILk1pakJbQbdm8PLDHY=
 		</data>
 		<key>LaunchImage-800-Portrait-736h@3x.png</key>
 		<data>
-		0gSilJHkuDQ3/f588EBoqhtJKLc=
+		S6wUpEwFKKULq/t1dRr6HUY/qS4=
+		</data>
+		<key>LaunchImage-Landscape@2x~ipad.png</key>
+		<data>
+		UvI7MSvB4YdNLPD40yNzEfDM+jo=
+		</data>
+		<key>LaunchImage-Landscape~ipad.png</key>
+		<data>
+		NQ2gzdRt+UClXa0+veQ7oYHLb7s=
+		</data>
+		<key>LaunchImage-Portrait@2x~ipad.png</key>
+		<data>
+		W2hgY2yYKYmrdIjLFr4fm4H+z6s=
+		</data>
+		<key>LaunchImage-Portrait~ipad.png</key>
+		<data>
+		uVAg3FwM0zwc98qcDQel1Bn86NU=
 		</data>
 		<key>LaunchImage.png</key>
 		<data>
-		YZ+cbcT29092ldR1HmJu95/PV+o=
+		cVqLUawJiGK/DngJqPUzGt4EhCA=
 		</data>
 		<key>LaunchImage@2x.png</key>
 		<data>
-		eMCbvAXVQNO8hlB8z3BTD2UmgFc=
+		GBS1Eidtu3woxei+1tferOrQd2E=
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		FiMo7a7UtMJh+bnZZHGDyZACuK8=
+		HbBw8K1+nGXxmEhVXKhV6Gp1vhU=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -170,19 +202,15 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		Eyz/1v1JpH5ocwlEH2fge8j+LIk=
+		885GbveEmdC7E6rW39PN3gp0I6o=
 		</data>
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
 		</data>
-		<key>app/40887979-illustration-of-alot-of-cigarette-filters-on-white-background.jpg</key>
-		<data>
-		/KMYHjCWvm2h2vsmOmrtauj6kHs=
-		</data>
 		<key>app/app.css</key>
 		<data>
-		xzlSthQFiwAslTip/Qa4xbTV2fc=
+		EwPG8U/v2h9I/ZkiZfKH+bL+O+0=
 		</data>
 		<key>app/app.js</key>
 		<data>
@@ -232,6 +260,18 @@
 		<data>
 		It1i2trOdP9eCHvSdGr2pYFw1Lo=
 		</data>
+		<key>app/images/pack-20@2x.png</key>
+		<data>
+		sMerGK+1Ayh/zTaSdD1kHW+hR3I=
+		</data>
+		<key>app/images/pack-front@2x.png</key>
+		<data>
+		nbHy6cWRp+XiW62ubBbeBkCU4W0=
+		</data>
+		<key>app/images/pack.png</key>
+		<data>
+		F8zEZBBvgjYpICdfISrW2Jg/xKM=
+		</data>
 		<key>app/images/reserveDotBlack-38.png</key>
 		<data>
 		skD/rbKCgwDiWIoebsnSM1N9ooo=
@@ -248,17 +288,21 @@
 		<data>
 		YcbBVjC/D9FUXRtNoRobFLk0l1E=
 		</data>
+		<key>app/images/tallButt@2x.png</key>
+		<data>
+		VePDXEXnSoGUYMG3UeK1LqS/STo=
+		</data>
 		<key>app/main-page.js</key>
 		<data>
-		ZGow1o/1hGKtAEc9J0u60jYPHUA=
+		ItG9Osn3FfXJa4BFDftOwBeIa9Q=
 		</data>
 		<key>app/main-page.xml</key>
 		<data>
-		JDUBitBNIxbkGO+x3/ERKzuxGm0=
+		Pw4GL/LjikWwPsOUMOj+/cQEJQc=
 		</data>
 		<key>app/main-view-model.js</key>
 		<data>
-		+JqYYQFRRtod4FCvihNL2IPcoMg=
+		3lFBxaLejTMIFjg/gLnSa7P0YJQ=
 		</data>
 		<key>app/package.json</key>
 		<data>
@@ -267,278 +311,6 @@
 		<key>app/references.d.ts</key>
 		<data>
 		RDq8rg96Dt2HnxRLRMukBbGbn1E=
-		</data>
-		<key>app/tns_modules/LICENSE</key>
-		<data>
-		/vWN4Un0q0BjiEv2dTySQaaIJ8w=
-		</data>
-		<key>app/tns_modules/application-settings/application-settings-common.js</key>
-		<data>
-		RngR2oT10HJ7bd21Q2qwyPmagcA=
-		</data>
-		<key>app/tns_modules/application-settings/application-settings.js</key>
-		<data>
-		KfSs4RkQHhIVQ8nb8gbE2QrqH5w=
-		</data>
-		<key>app/tns_modules/application-settings/package.json</key>
-		<data>
-		nwKHcqYz7OGJQ1+aAfgcxbfRmqk=
-		</data>
-		<key>app/tns_modules/application/application-common.js</key>
-		<data>
-		Fr+9dSC4k1YNNyi19xr6m+MB++Y=
-		</data>
-		<key>app/tns_modules/application/application.js</key>
-		<data>
-		4hOBUprt7SgwewRNTjZI70T9wNs=
-		</data>
-		<key>app/tns_modules/application/package.json</key>
-		<data>
-		5lxLRqUbx/oGD7u3Yqmc4KFZa9A=
-		</data>
-		<key>app/tns_modules/bundle-entry-points.js</key>
-		<data>
-		ZxbokIXI6NQGO9vMnSw+lfe+RN0=
-		</data>
-		<key>app/tns_modules/camera/camera-common.js</key>
-		<data>
-		vGdPA55vm9Qr4mMDv8mC0YvXpDY=
-		</data>
-		<key>app/tns_modules/camera/camera.js</key>
-		<data>
-		bNVifVXAEPpRy5HXGm6HSGc/ciY=
-		</data>
-		<key>app/tns_modules/camera/package.json</key>
-		<data>
-		t+2kuaPVxXshN3AM2tfm34z/crU=
-		</data>
-		<key>app/tns_modules/color/color-common.js</key>
-		<data>
-		aUrjARPOC164fdWK2JmCC+tywNo=
-		</data>
-		<key>app/tns_modules/color/color.js</key>
-		<data>
-		x506JTD5SckAtgMqZl14/zSdTWg=
-		</data>
-		<key>app/tns_modules/color/known-colors.js</key>
-		<data>
-		gSduNtNBevoa/HHZYuxm0D5HDwg=
-		</data>
-		<key>app/tns_modules/color/package.json</key>
-		<data>
-		GrUY+J0xSDXoR29JFaX+cRjwA9E=
-		</data>
-		<key>app/tns_modules/connectivity/connectivity-common.js</key>
-		<data>
-		zJi1S7UT+as4MUKcoEJnTVq7rgI=
-		</data>
-		<key>app/tns_modules/connectivity/connectivity.js</key>
-		<data>
-		pHjSboc132oDOfZEgCM+aX7/QGE=
-		</data>
-		<key>app/tns_modules/connectivity/package.json</key>
-		<data>
-		OqL20JQHh8PuoIr9r2V6rAm2Jao=
-		</data>
-		<key>app/tns_modules/console/console.js</key>
-		<data>
-		9PFQB1AD0Se2Es6F+aALlkn2BUY=
-		</data>
-		<key>app/tns_modules/console/package.json</key>
-		<data>
-		g3SsarbgQMSPi3lREsxmmyWasU8=
-		</data>
-		<key>app/tns_modules/css-value/index.js</key>
-		<data>
-		NbTclJWomE4e8B/2l6Amf4K30bw=
-		</data>
-		<key>app/tns_modules/css-value/package.json</key>
-		<data>
-		YgFxmYCBnWhxoKWU9Vcz19D7Sxw=
-		</data>
-		<key>app/tns_modules/css/index.js</key>
-		<data>
-		4toJYpugbAv7WgD9vsmaHhNV9gw=
-		</data>
-		<key>app/tns_modules/css/lib/parse/index.js</key>
-		<data>
-		ikSZ9R9J7wXEI5+KXwo0eDsqL1s=
-		</data>
-		<key>app/tns_modules/css/package.json</key>
-		<data>
-		JcQXxvmmgSqCtVJcjSSkt8tJnCU=
-		</data>
-		<key>app/tns_modules/data/observable-array/observable-array.js</key>
-		<data>
-		IxP5BQafptQlta604hCfqYeJKgA=
-		</data>
-		<key>app/tns_modules/data/observable-array/package.json</key>
-		<data>
-		1WmH6Z6CjwYodr8h3NAwVSoLfK8=
-		</data>
-		<key>app/tns_modules/data/observable/observable.js</key>
-		<data>
-		9np9piuKvEnr/em+frw97zroA5k=
-		</data>
-		<key>app/tns_modules/data/observable/package.json</key>
-		<data>
-		Yopa2sUAHZUyMryeWJm6NEe8nRA=
-		</data>
-		<key>app/tns_modules/data/package.json</key>
-		<data>
-		tJmSBZASRVaEq/tfsKUXh7N8qOE=
-		</data>
-		<key>app/tns_modules/data/virtual-array/package.json</key>
-		<data>
-		/r52ErTshrBgO+PhmyR7hxLDYS4=
-		</data>
-		<key>app/tns_modules/data/virtual-array/virtual-array.js</key>
-		<data>
-		1xrz52R20zaFWLZ7ssMU9bGQSfk=
-		</data>
-		<key>app/tns_modules/debugger/InspectorBackendCommands.js</key>
-		<data>
-		N39BH6Aa90W1i3lhSUiD3isN7aY=
-		</data>
-		<key>app/tns_modules/debugger/debugger.js</key>
-		<data>
-		fHiyzFWdTGqtIVQnp/NS0uSMxzA=
-		</data>
-		<key>app/tns_modules/debugger/package.json</key>
-		<data>
-		jBXIsU6oYHhnPCgcvJ8Tc0m9OEE=
-		</data>
-		<key>app/tns_modules/debugger/webinspector.js</key>
-		<data>
-		DO2D43UqhC4l7xjUz22dlWVgG5k=
-		</data>
-		<key>app/tns_modules/fetch/fetch.js</key>
-		<data>
-		nk0GpowrGIYRbFxT2/Fv59gtwqg=
-		</data>
-		<key>app/tns_modules/fetch/package.json</key>
-		<data>
-		jfIOBUuW72XWOZmOrf0bMJb/6os=
-		</data>
-		<key>app/tns_modules/file-system/file-name-resolver.js</key>
-		<data>
-		4HLUDsQSjNcjX4pVw5MGPO5hSFo=
-		</data>
-		<key>app/tns_modules/file-system/file-system-access.js</key>
-		<data>
-		H9Yfhtin76e2sPqfou1BZ5qKKUc=
-		</data>
-		<key>app/tns_modules/file-system/file-system.js</key>
-		<data>
-		cjnRCW5l9utveiZciWznr0xXfI8=
-		</data>
-		<key>app/tns_modules/file-system/package.json</key>
-		<data>
-		GiOBfS7H/nwfSYhk+F6vCi1lovE=
-		</data>
-		<key>app/tns_modules/fps-meter/fps-meter.js</key>
-		<data>
-		WKjoOrzTbaJktB7tvSxz+1oMDjE=
-		</data>
-		<key>app/tns_modules/fps-meter/fps-native.js</key>
-		<data>
-		sa5MUdCrK5maX+7cFE5X+89mzpk=
-		</data>
-		<key>app/tns_modules/fps-meter/package.json</key>
-		<data>
-		u1G1qtz6ti47vozC5xfdSyVyvFo=
-		</data>
-		<key>app/tns_modules/globals/decorators.js</key>
-		<data>
-		QOaWgTOcNK+h9oor13ZMDNMd+ZA=
-		</data>
-		<key>app/tns_modules/globals/globals.js</key>
-		<data>
-		i+0JDJAGxqA4U8zIjHPopFkpw2Y=
-		</data>
-		<key>app/tns_modules/globals/package.json</key>
-		<data>
-		OsYutOt86lb+jF6Ojp2DS5zEyzU=
-		</data>
-		<key>app/tns_modules/http/http-request.js</key>
-		<data>
-		0Rt6LbHSA2AdFdBVjoFErEUPhOY=
-		</data>
-		<key>app/tns_modules/http/http.js</key>
-		<data>
-		/AWLuOTBDX6KfixvN5zNtjJohCc=
-		</data>
-		<key>app/tns_modules/http/package.json</key>
-		<data>
-		qBsyCaUcD/cwAhibwT0mh+imMgE=
-		</data>
-		<key>app/tns_modules/image-asset/image-asset-common.js</key>
-		<data>
-		zSFT2KlB0H8ugp447s0zhABS0ys=
-		</data>
-		<key>app/tns_modules/image-asset/image-asset.js</key>
-		<data>
-		iQLmb+4zUL9ZyAvkakTzXrO09PU=
-		</data>
-		<key>app/tns_modules/image-asset/package.json</key>
-		<data>
-		+lPlGZqEGIa0uuUopEWEi5Al3ds=
-		</data>
-		<key>app/tns_modules/image-source/image-source-common.js</key>
-		<data>
-		Z71QwW4B9SctzpZwDttjmvINyT8=
-		</data>
-		<key>app/tns_modules/image-source/image-source.js</key>
-		<data>
-		/9LYFzyYObp7Cp5nrwWSCNdyXpM=
-		</data>
-		<key>app/tns_modules/image-source/package.json</key>
-		<data>
-		APQQfoqHZO/qmcHQoNw+2DcfwTY=
-		</data>
-		<key>app/tns_modules/inspector_modules.js</key>
-		<data>
-		elkeLybeWtFKG/3Etyjl+6V7w8g=
-		</data>
-		<key>app/tns_modules/js-libs/easysax/easysax.js</key>
-		<data>
-		RMqsvBfoOlZc8hXECKc34SGfwY4=
-		</data>
-		<key>app/tns_modules/js-libs/easysax/package.json</key>
-		<data>
-		f9SDH2+1tEkn9aT4QZcfG9PfDnY=
-		</data>
-		<key>app/tns_modules/js-libs/esprima/esprima.js</key>
-		<data>
-		TlGQaXASJY5KrQh5JxYDvlrA/fs=
-		</data>
-		<key>app/tns_modules/js-libs/esprima/package.json</key>
-		<data>
-		TT6xEZ0UXhWCPM7BKtT83Ofc81s=
-		</data>
-		<key>app/tns_modules/js-libs/polymer-expressions/package.json</key>
-		<data>
-		NtKMI/feYBhr2NLji2l/eY0yXew=
-		</data>
-		<key>app/tns_modules/js-libs/polymer-expressions/path-parser.js</key>
-		<data>
-		792T12FfCFSEP5yVtQtYTkY+zFg=
-		</data>
-		<key>app/tns_modules/js-libs/polymer-expressions/polymer-expressions.js</key>
-		<data>
-		L29pXlPZ/9BAIWlhG+VXr/5G5Y0=
-		</data>
-		<key>app/tns_modules/location/location-common.js</key>
-		<data>
-		T6OACt3HEwbwZQxR42f4isK3Y1Y=
-		</data>
-		<key>app/tns_modules/location/location.js</key>
-		<data>
-		iBFo6D6EqmsOskPX+Xz6S/FGQY0=
-		</data>
-		<key>app/tns_modules/location/package.json</key>
-		<data>
-		cqrCPaHXtsiUrA6HpqPmJaaZXvc=
 		</data>
 		<key>app/tns_modules/nativescript-theme-core/css/aqua.css</key>
 		<data>
@@ -594,7 +366,7 @@
 		</data>
 		<key>app/tns_modules/nativescript-theme-core/package.json</key>
 		<data>
-		SlxVhtxJvG2fV/TO/eKWshoF2ys=
+		FqAHKFiJAbruDVo82JP6+dLzbAU=
 		</data>
 		<key>app/tns_modules/nativescript-theme-core/readme.md</key>
 		<data>
@@ -932,50 +704,6 @@
 		<data>
 		QtAdzN/23lZ3S0lgkKXhvItVwZs=
 		</data>
-		<key>app/tns_modules/package.json</key>
-		<data>
-		HuZdsXtBdRXogI/ROl/slMGOizE=
-		</data>
-		<key>app/tns_modules/platform/package.json</key>
-		<data>
-		dLbkdozhbZEZ2mQ7HBT8b6NkZNw=
-		</data>
-		<key>app/tns_modules/platform/platform.js</key>
-		<data>
-		cEPV9bO+GNkIZhrxFLRrxPAR0vo=
-		</data>
-		<key>app/tns_modules/text/formatted-string-common.js</key>
-		<data>
-		Ua6GWhTJk+dEIqyskbpYpVGv/yY=
-		</data>
-		<key>app/tns_modules/text/formatted-string.js</key>
-		<data>
-		VIjT4LBXew3QnUkmVFeBpNULEXY=
-		</data>
-		<key>app/tns_modules/text/package.json</key>
-		<data>
-		9FER/LI6aOFAPouct3utvGwfY/Y=
-		</data>
-		<key>app/tns_modules/text/span-common.js</key>
-		<data>
-		aAN/y/q/u1mDaDNtDVVReK7wFt0=
-		</data>
-		<key>app/tns_modules/text/span.js</key>
-		<data>
-		ePI9VtPgwWeUf4sMUO/Rokkc3VE=
-		</data>
-		<key>app/tns_modules/text/text.js</key>
-		<data>
-		PeYJmd2dvGH3OR7nC7TbgUa/deY=
-		</data>
-		<key>app/tns_modules/timer/package.json</key>
-		<data>
-		uaoaODDwQqqo1RMajY/KKeIZqrg=
-		</data>
-		<key>app/tns_modules/timer/timer.js</key>
-		<data>
-		VxR3GiMjW7H99PSiWAu0BSKv0pE=
-		</data>
 		<key>app/tns_modules/tns-core-modules-widgets/LICENSE</key>
 		<data>
 		p8ynhW+Z+7dRoVvPF86gYCJ0HFM=
@@ -990,671 +718,987 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules-widgets/package.json</key>
 		<data>
-		DA4ghBBKRDko5iH9NQGsNa11ngU=
+		c+A0XqrQr2EHXciFPnBLuNJYORQ=
 		</data>
-		<key>app/tns_modules/trace/package.json</key>
+		<key>app/tns_modules/tns-core-modules/LICENSE</key>
+		<data>
+		/vWN4Un0q0BjiEv2dTySQaaIJ8w=
+		</data>
+		<key>app/tns_modules/tns-core-modules/application-settings/application-settings-common.js</key>
+		<data>
+		RngR2oT10HJ7bd21Q2qwyPmagcA=
+		</data>
+		<key>app/tns_modules/tns-core-modules/application-settings/application-settings.js</key>
+		<data>
+		KfSs4RkQHhIVQ8nb8gbE2QrqH5w=
+		</data>
+		<key>app/tns_modules/tns-core-modules/application-settings/package.json</key>
+		<data>
+		nwKHcqYz7OGJQ1+aAfgcxbfRmqk=
+		</data>
+		<key>app/tns_modules/tns-core-modules/application/application-common.js</key>
+		<data>
+		gf9WQRriZpqXIz/x7z/39p09Q2c=
+		</data>
+		<key>app/tns_modules/tns-core-modules/application/application.js</key>
+		<data>
+		R5IH0TJ4KE//CkkGuNp2UQjqspE=
+		</data>
+		<key>app/tns_modules/tns-core-modules/application/package.json</key>
+		<data>
+		5lxLRqUbx/oGD7u3Yqmc4KFZa9A=
+		</data>
+		<key>app/tns_modules/tns-core-modules/bundle-entry-points.js</key>
+		<data>
+		ZxbokIXI6NQGO9vMnSw+lfe+RN0=
+		</data>
+		<key>app/tns_modules/tns-core-modules/camera/camera-common.js</key>
+		<data>
+		vGdPA55vm9Qr4mMDv8mC0YvXpDY=
+		</data>
+		<key>app/tns_modules/tns-core-modules/camera/camera.js</key>
+		<data>
+		bNVifVXAEPpRy5HXGm6HSGc/ciY=
+		</data>
+		<key>app/tns_modules/tns-core-modules/camera/package.json</key>
+		<data>
+		t+2kuaPVxXshN3AM2tfm34z/crU=
+		</data>
+		<key>app/tns_modules/tns-core-modules/color/color-common.js</key>
+		<data>
+		aUrjARPOC164fdWK2JmCC+tywNo=
+		</data>
+		<key>app/tns_modules/tns-core-modules/color/color.js</key>
+		<data>
+		x506JTD5SckAtgMqZl14/zSdTWg=
+		</data>
+		<key>app/tns_modules/tns-core-modules/color/known-colors.js</key>
+		<data>
+		gSduNtNBevoa/HHZYuxm0D5HDwg=
+		</data>
+		<key>app/tns_modules/tns-core-modules/color/package.json</key>
+		<data>
+		GrUY+J0xSDXoR29JFaX+cRjwA9E=
+		</data>
+		<key>app/tns_modules/tns-core-modules/connectivity/connectivity-common.js</key>
+		<data>
+		zJi1S7UT+as4MUKcoEJnTVq7rgI=
+		</data>
+		<key>app/tns_modules/tns-core-modules/connectivity/connectivity.js</key>
+		<data>
+		pHjSboc132oDOfZEgCM+aX7/QGE=
+		</data>
+		<key>app/tns_modules/tns-core-modules/connectivity/package.json</key>
+		<data>
+		OqL20JQHh8PuoIr9r2V6rAm2Jao=
+		</data>
+		<key>app/tns_modules/tns-core-modules/console/console.js</key>
+		<data>
+		9PFQB1AD0Se2Es6F+aALlkn2BUY=
+		</data>
+		<key>app/tns_modules/tns-core-modules/console/package.json</key>
+		<data>
+		g3SsarbgQMSPi3lREsxmmyWasU8=
+		</data>
+		<key>app/tns_modules/tns-core-modules/css-value/index.js</key>
+		<data>
+		NbTclJWomE4e8B/2l6Amf4K30bw=
+		</data>
+		<key>app/tns_modules/tns-core-modules/css-value/package.json</key>
+		<data>
+		YgFxmYCBnWhxoKWU9Vcz19D7Sxw=
+		</data>
+		<key>app/tns_modules/tns-core-modules/css/index.js</key>
+		<data>
+		4toJYpugbAv7WgD9vsmaHhNV9gw=
+		</data>
+		<key>app/tns_modules/tns-core-modules/css/lib/parse/index.js</key>
+		<data>
+		ikSZ9R9J7wXEI5+KXwo0eDsqL1s=
+		</data>
+		<key>app/tns_modules/tns-core-modules/css/package.json</key>
+		<data>
+		JcQXxvmmgSqCtVJcjSSkt8tJnCU=
+		</data>
+		<key>app/tns_modules/tns-core-modules/data/observable-array/observable-array.js</key>
+		<data>
+		IxP5BQafptQlta604hCfqYeJKgA=
+		</data>
+		<key>app/tns_modules/tns-core-modules/data/observable-array/package.json</key>
+		<data>
+		1WmH6Z6CjwYodr8h3NAwVSoLfK8=
+		</data>
+		<key>app/tns_modules/tns-core-modules/data/observable/observable.js</key>
+		<data>
+		9np9piuKvEnr/em+frw97zroA5k=
+		</data>
+		<key>app/tns_modules/tns-core-modules/data/observable/package.json</key>
+		<data>
+		Yopa2sUAHZUyMryeWJm6NEe8nRA=
+		</data>
+		<key>app/tns_modules/tns-core-modules/data/package.json</key>
+		<data>
+		tJmSBZASRVaEq/tfsKUXh7N8qOE=
+		</data>
+		<key>app/tns_modules/tns-core-modules/data/virtual-array/package.json</key>
+		<data>
+		/r52ErTshrBgO+PhmyR7hxLDYS4=
+		</data>
+		<key>app/tns_modules/tns-core-modules/data/virtual-array/virtual-array.js</key>
+		<data>
+		1xrz52R20zaFWLZ7ssMU9bGQSfk=
+		</data>
+		<key>app/tns_modules/tns-core-modules/debugger/InspectorBackendCommands.js</key>
+		<data>
+		N39BH6Aa90W1i3lhSUiD3isN7aY=
+		</data>
+		<key>app/tns_modules/tns-core-modules/debugger/debugger.js</key>
+		<data>
+		fHiyzFWdTGqtIVQnp/NS0uSMxzA=
+		</data>
+		<key>app/tns_modules/tns-core-modules/debugger/package.json</key>
+		<data>
+		jBXIsU6oYHhnPCgcvJ8Tc0m9OEE=
+		</data>
+		<key>app/tns_modules/tns-core-modules/debugger/webinspector.js</key>
+		<data>
+		PdgyRzkdWWALKXWuxQqSLl2T2Ps=
+		</data>
+		<key>app/tns_modules/tns-core-modules/fetch/fetch.js</key>
+		<data>
+		nk0GpowrGIYRbFxT2/Fv59gtwqg=
+		</data>
+		<key>app/tns_modules/tns-core-modules/fetch/package.json</key>
+		<data>
+		jfIOBUuW72XWOZmOrf0bMJb/6os=
+		</data>
+		<key>app/tns_modules/tns-core-modules/file-system/file-name-resolver.js</key>
+		<data>
+		ygmhPm+IXWFELUNf3M+fJkW99hI=
+		</data>
+		<key>app/tns_modules/tns-core-modules/file-system/file-system-access.js</key>
+		<data>
+		H9Yfhtin76e2sPqfou1BZ5qKKUc=
+		</data>
+		<key>app/tns_modules/tns-core-modules/file-system/file-system.js</key>
+		<data>
+		cjnRCW5l9utveiZciWznr0xXfI8=
+		</data>
+		<key>app/tns_modules/tns-core-modules/file-system/package.json</key>
+		<data>
+		GiOBfS7H/nwfSYhk+F6vCi1lovE=
+		</data>
+		<key>app/tns_modules/tns-core-modules/fps-meter/fps-meter.js</key>
+		<data>
+		WKjoOrzTbaJktB7tvSxz+1oMDjE=
+		</data>
+		<key>app/tns_modules/tns-core-modules/fps-meter/fps-native.js</key>
+		<data>
+		sa5MUdCrK5maX+7cFE5X+89mzpk=
+		</data>
+		<key>app/tns_modules/tns-core-modules/fps-meter/package.json</key>
+		<data>
+		u1G1qtz6ti47vozC5xfdSyVyvFo=
+		</data>
+		<key>app/tns_modules/tns-core-modules/globals/decorators.js</key>
+		<data>
+		QOaWgTOcNK+h9oor13ZMDNMd+ZA=
+		</data>
+		<key>app/tns_modules/tns-core-modules/globals/globals.js</key>
+		<data>
+		i+0JDJAGxqA4U8zIjHPopFkpw2Y=
+		</data>
+		<key>app/tns_modules/tns-core-modules/globals/package.json</key>
+		<data>
+		OsYutOt86lb+jF6Ojp2DS5zEyzU=
+		</data>
+		<key>app/tns_modules/tns-core-modules/http/http-request.js</key>
+		<data>
+		lI+DWwhvvBOjKjkQCiOysK8hH1Y=
+		</data>
+		<key>app/tns_modules/tns-core-modules/http/http.js</key>
+		<data>
+		/AWLuOTBDX6KfixvN5zNtjJohCc=
+		</data>
+		<key>app/tns_modules/tns-core-modules/http/package.json</key>
+		<data>
+		qBsyCaUcD/cwAhibwT0mh+imMgE=
+		</data>
+		<key>app/tns_modules/tns-core-modules/image-asset/image-asset-common.js</key>
+		<data>
+		Nca3htLqasdXWZAcirevop6XiHM=
+		</data>
+		<key>app/tns_modules/tns-core-modules/image-asset/image-asset.js</key>
+		<data>
+		iQLmb+4zUL9ZyAvkakTzXrO09PU=
+		</data>
+		<key>app/tns_modules/tns-core-modules/image-asset/package.json</key>
+		<data>
+		+lPlGZqEGIa0uuUopEWEi5Al3ds=
+		</data>
+		<key>app/tns_modules/tns-core-modules/image-source/image-source-common.js</key>
+		<data>
+		Z71QwW4B9SctzpZwDttjmvINyT8=
+		</data>
+		<key>app/tns_modules/tns-core-modules/image-source/image-source.js</key>
+		<data>
+		trJlDGnNeZ5gkOeHyY5PUYn8T18=
+		</data>
+		<key>app/tns_modules/tns-core-modules/image-source/package.json</key>
+		<data>
+		APQQfoqHZO/qmcHQoNw+2DcfwTY=
+		</data>
+		<key>app/tns_modules/tns-core-modules/inspector_modules.js</key>
+		<data>
+		elkeLybeWtFKG/3Etyjl+6V7w8g=
+		</data>
+		<key>app/tns_modules/tns-core-modules/js-libs/easysax/easysax.js</key>
+		<data>
+		RMqsvBfoOlZc8hXECKc34SGfwY4=
+		</data>
+		<key>app/tns_modules/tns-core-modules/js-libs/easysax/package.json</key>
+		<data>
+		f9SDH2+1tEkn9aT4QZcfG9PfDnY=
+		</data>
+		<key>app/tns_modules/tns-core-modules/js-libs/esprima/esprima.js</key>
+		<data>
+		TlGQaXASJY5KrQh5JxYDvlrA/fs=
+		</data>
+		<key>app/tns_modules/tns-core-modules/js-libs/esprima/package.json</key>
+		<data>
+		TT6xEZ0UXhWCPM7BKtT83Ofc81s=
+		</data>
+		<key>app/tns_modules/tns-core-modules/js-libs/polymer-expressions/package.json</key>
+		<data>
+		NtKMI/feYBhr2NLji2l/eY0yXew=
+		</data>
+		<key>app/tns_modules/tns-core-modules/js-libs/polymer-expressions/path-parser.js</key>
+		<data>
+		792T12FfCFSEP5yVtQtYTkY+zFg=
+		</data>
+		<key>app/tns_modules/tns-core-modules/js-libs/polymer-expressions/polymer-expressions.js</key>
+		<data>
+		L29pXlPZ/9BAIWlhG+VXr/5G5Y0=
+		</data>
+		<key>app/tns_modules/tns-core-modules/location/location-common.js</key>
+		<data>
+		T6OACt3HEwbwZQxR42f4isK3Y1Y=
+		</data>
+		<key>app/tns_modules/tns-core-modules/location/location.js</key>
+		<data>
+		iBFo6D6EqmsOskPX+Xz6S/FGQY0=
+		</data>
+		<key>app/tns_modules/tns-core-modules/location/package.json</key>
+		<data>
+		cqrCPaHXtsiUrA6HpqPmJaaZXvc=
+		</data>
+		<key>app/tns_modules/tns-core-modules/package.json</key>
+		<data>
+		rb7ahWyo0i+VtlKQ9R0jFXnmFN0=
+		</data>
+		<key>app/tns_modules/tns-core-modules/platform/package.json</key>
+		<data>
+		dLbkdozhbZEZ2mQ7HBT8b6NkZNw=
+		</data>
+		<key>app/tns_modules/tns-core-modules/platform/platform.js</key>
+		<data>
+		eX2KvkEGd7dDO45DwhQLMaNhTxo=
+		</data>
+		<key>app/tns_modules/tns-core-modules/text/formatted-string-common.js</key>
+		<data>
+		Ua6GWhTJk+dEIqyskbpYpVGv/yY=
+		</data>
+		<key>app/tns_modules/tns-core-modules/text/formatted-string.js</key>
+		<data>
+		VIjT4LBXew3QnUkmVFeBpNULEXY=
+		</data>
+		<key>app/tns_modules/tns-core-modules/text/package.json</key>
+		<data>
+		9FER/LI6aOFAPouct3utvGwfY/Y=
+		</data>
+		<key>app/tns_modules/tns-core-modules/text/span-common.js</key>
+		<data>
+		aAN/y/q/u1mDaDNtDVVReK7wFt0=
+		</data>
+		<key>app/tns_modules/tns-core-modules/text/span.js</key>
+		<data>
+		ePI9VtPgwWeUf4sMUO/Rokkc3VE=
+		</data>
+		<key>app/tns_modules/tns-core-modules/text/text.js</key>
+		<data>
+		PeYJmd2dvGH3OR7nC7TbgUa/deY=
+		</data>
+		<key>app/tns_modules/tns-core-modules/timer/package.json</key>
+		<data>
+		uaoaODDwQqqo1RMajY/KKeIZqrg=
+		</data>
+		<key>app/tns_modules/tns-core-modules/timer/timer.js</key>
+		<data>
+		H38IkIFHPAQbLy0sZPci8vjLQuk=
+		</data>
+		<key>app/tns_modules/tns-core-modules/trace/package.json</key>
 		<data>
 		8KzbpZiZPH1VvpBkGOZDwYNUrF8=
 		</data>
-		<key>app/tns_modules/trace/trace.js</key>
+		<key>app/tns_modules/tns-core-modules/trace/trace.js</key>
 		<data>
 		s5HfnJRoDI9lhBdedjW+2KAFXTw=
 		</data>
-		<key>app/tns_modules/ui/action-bar/action-bar-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/action-bar/action-bar-common.js</key>
 		<data>
 		xsErGmYavkswPmKFAJqO63lL4uc=
 		</data>
-		<key>app/tns_modules/ui/action-bar/action-bar.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/action-bar/action-bar.js</key>
 		<data>
 		Q/uJoFwIXZta4NvzA93YvkcihYI=
 		</data>
-		<key>app/tns_modules/ui/action-bar/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/action-bar/package.json</key>
 		<data>
 		8NxwEHr+DdfqPTNaw4v+PdQKxYw=
 		</data>
-		<key>app/tns_modules/ui/activity-indicator/activity-indicator-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/activity-indicator/activity-indicator-common.js</key>
 		<data>
 		vcDPjqr3falky+Gu9pzetbbNBtg=
 		</data>
-		<key>app/tns_modules/ui/activity-indicator/activity-indicator.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/activity-indicator/activity-indicator.js</key>
 		<data>
 		tATAbEmKZvdbtKbkJIfovURaG2Y=
 		</data>
-		<key>app/tns_modules/ui/activity-indicator/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/activity-indicator/package.json</key>
 		<data>
 		Dl8q7g3VThsMkWnhIqGf5ypjCOU=
 		</data>
-		<key>app/tns_modules/ui/animation/animation-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/animation/animation-common.js</key>
 		<data>
 		6lVpl64UCAMGnp+i+ttEU/TkiM0=
 		</data>
-		<key>app/tns_modules/ui/animation/animation.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/animation/animation.js</key>
 		<data>
 		e6svANH+NZmAtBWldJQ+8CYvL18=
 		</data>
-		<key>app/tns_modules/ui/animation/keyframe-animation.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/animation/keyframe-animation.js</key>
 		<data>
 		qIf98gEDfCTGsagZeIA4tqC7IhY=
 		</data>
-		<key>app/tns_modules/ui/animation/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/animation/package.json</key>
 		<data>
 		9aPCPMW+MV2tKatkDdLHdraVuI0=
 		</data>
-		<key>app/tns_modules/ui/border/border.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/border/border.js</key>
 		<data>
 		FtFu5SgBOlv4GbgsugBBXGJ3P2s=
 		</data>
-		<key>app/tns_modules/ui/border/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/border/package.json</key>
 		<data>
 		OZEr2MxSCDdNVXeGMgLwk6l+41k=
 		</data>
-		<key>app/tns_modules/ui/builder/binding-builder.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/builder/binding-builder.js</key>
 		<data>
 		lyHL+EYIxv6/IizkuZiCk9JgVd0=
 		</data>
-		<key>app/tns_modules/ui/builder/builder.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/builder/builder.js</key>
 		<data>
-		jhFT4LsIJNIiv5W/EHmaiU27FYk=
+		qCsSWN80MMl8VEVdYFprVSFEL+M=
 		</data>
-		<key>app/tns_modules/ui/builder/component-builder.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/builder/component-builder.js</key>
 		<data>
 		r3AjDIjGkxNM2o5IHAhGaqhyy5g=
 		</data>
-		<key>app/tns_modules/ui/builder/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/builder/package.json</key>
 		<data>
 		OxH8i87YXvXFv/UB/ofx18ai6Aw=
 		</data>
-		<key>app/tns_modules/ui/builder/special-properties.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/builder/special-properties.js</key>
 		<data>
 		gDmk/vd0gmGy+u3BB/MYMq6Bbe4=
 		</data>
-		<key>app/tns_modules/ui/button/button-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/button/button-common.js</key>
 		<data>
 		GxHFkL1H4fjSI6MJ0Xg3Hw3ka7U=
 		</data>
-		<key>app/tns_modules/ui/button/button.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/button/button.js</key>
 		<data>
 		fP4lLBAMZIzdR73T+X2PXDaHN4s=
 		</data>
-		<key>app/tns_modules/ui/button/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/button/package.json</key>
 		<data>
 		6wpH1K2L4tG6UY06ruh0l3E9+ac=
 		</data>
-		<key>app/tns_modules/ui/content-view/content-view.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/content-view/content-view.js</key>
 		<data>
 		Kfbm0cEsGC1/etP18r8cqeVBobQ=
 		</data>
-		<key>app/tns_modules/ui/content-view/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/content-view/package.json</key>
 		<data>
 		XJUOJbFWRhz3I/qX8HXyT0gWsEc=
 		</data>
-		<key>app/tns_modules/ui/core/bindable.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/core/bindable.js</key>
 		<data>
 		cTtCP8P0wMb/nTKZyj4JANAk/Qs=
 		</data>
-		<key>app/tns_modules/ui/core/control-state-change.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/core/control-state-change.js</key>
 		<data>
 		9Dic6+XfwReKpN8hN04h8n2/b60=
 		</data>
-		<key>app/tns_modules/ui/core/dependency-observable.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/core/dependency-observable.js</key>
 		<data>
 		JypNIMKJQmmC14UtU1smv2denak=
 		</data>
-		<key>app/tns_modules/ui/core/proxy.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/core/proxy.js</key>
 		<data>
 		5RCdwFGHL0dS0W2wFZ7QgJVIC+s=
 		</data>
-		<key>app/tns_modules/ui/core/view-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/core/view-common.js</key>
 		<data>
 		dp5SmjFX6jQKoXC6dkmWjcDTAZo=
 		</data>
-		<key>app/tns_modules/ui/core/view.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/core/view.js</key>
 		<data>
-		DikD748nI4AKrU7aof4/Q8sxSdk=
+		SCurDc3JnzDz0rroc6bosRQVxw0=
 		</data>
-		<key>app/tns_modules/ui/core/weak-event-listener.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/core/weak-event-listener.js</key>
 		<data>
 		lF7EdZcQyBEe0ZmSyFKb3udzN3U=
 		</data>
-		<key>app/tns_modules/ui/date-picker/date-picker-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/date-picker/date-picker-common.js</key>
 		<data>
 		ETaAznhGpB65K6oxeE2L6M+cnys=
 		</data>
-		<key>app/tns_modules/ui/date-picker/date-picker.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/date-picker/date-picker.js</key>
 		<data>
 		4lIwo4aIv40J01aqTc1Gf5k7xuA=
 		</data>
-		<key>app/tns_modules/ui/date-picker/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/date-picker/package.json</key>
 		<data>
 		Ha6MIm8Y/CYyIkF6j2nr6n3tls0=
 		</data>
-		<key>app/tns_modules/ui/dialogs/dialogs-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/dialogs/dialogs-common.js</key>
 		<data>
-		GcDDS2Oohhz9YQfuso3FBR2amgs=
+		F+VWwQU6yVhmRjyf0HREiWZAO94=
 		</data>
-		<key>app/tns_modules/ui/dialogs/dialogs.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/dialogs/dialogs.js</key>
 		<data>
 		Saq6haC9IhNpA41ePM+kRMIsidY=
 		</data>
-		<key>app/tns_modules/ui/dialogs/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/dialogs/package.json</key>
 		<data>
 		9V0xPBqVms5jqhtplq+3TEquADw=
 		</data>
-		<key>app/tns_modules/ui/editable-text-base/editable-text-base-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/editable-text-base/editable-text-base-common.js</key>
 		<data>
 		Wiz8za/Wwb5OFW/vxnKtQOzmlN8=
 		</data>
-		<key>app/tns_modules/ui/editable-text-base/editable-text-base.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/editable-text-base/editable-text-base.js</key>
 		<data>
 		TioyVcgPRifpmfttCcngJvJX+EM=
 		</data>
-		<key>app/tns_modules/ui/editable-text-base/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/editable-text-base/package.json</key>
 		<data>
 		fnYl4+LSXJl3Ftm314YUefmI17M=
 		</data>
-		<key>app/tns_modules/ui/enums/enums.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/enums/enums.js</key>
 		<data>
-		cfhDhqmd92Sy6e98DSpZLbaCWPU=
+		yuqE+BGXg4D96pfmF0I8qzjbRGE=
 		</data>
-		<key>app/tns_modules/ui/enums/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/enums/package.json</key>
 		<data>
 		fE61KrFGzCAdZuuDuGuHjdzqaf4=
 		</data>
-		<key>app/tns_modules/ui/frame/frame-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/frame/frame-common.js</key>
 		<data>
-		kUJGH9PulTBRcweq7Y1gZRqirMk=
+		mrK45Fc7oEgAnrrWU9ALJoId0is=
 		</data>
-		<key>app/tns_modules/ui/frame/frame.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/frame/frame.js</key>
 		<data>
-		eyfiVXGSq9ixF2OLL1i9x0ELW8s=
+		+3yLfoqxNd9mX8GhRje/WE/IuNU=
 		</data>
-		<key>app/tns_modules/ui/frame/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/frame/package.json</key>
 		<data>
 		HTH7Xo3nPETn81IBYi8LQ6O/X4w=
 		</data>
-		<key>app/tns_modules/ui/gestures/gestures-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/gestures/gestures-common.js</key>
 		<data>
 		k4lxs7l3phtSNsAgAMu1+Z1d7q0=
 		</data>
-		<key>app/tns_modules/ui/gestures/gestures.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/gestures/gestures.js</key>
 		<data>
 		MeooTrDQzX2VKH1hRR3V3UZ+OGc=
 		</data>
-		<key>app/tns_modules/ui/gestures/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/gestures/package.json</key>
 		<data>
 		xpXkwyQSknUsJ9n7gy8Yy72V04Y=
 		</data>
-		<key>app/tns_modules/ui/html-view/html-view-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/html-view/html-view-common.js</key>
 		<data>
 		BTkIaAHXjILCwtxikuWVWPkY2lA=
 		</data>
-		<key>app/tns_modules/ui/html-view/html-view.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/html-view/html-view.js</key>
 		<data>
 		t05RUUWtKZ8L+aftYaVM2R0D4fo=
 		</data>
-		<key>app/tns_modules/ui/html-view/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/html-view/package.json</key>
 		<data>
 		+/bpy4J7++sZFb/UoErIcNmLHas=
 		</data>
-		<key>app/tns_modules/ui/image-cache/image-cache-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/image-cache/image-cache-common.js</key>
 		<data>
 		kQ0Z8vbxYJlk0vyFTF8WQzUF9U0=
 		</data>
-		<key>app/tns_modules/ui/image-cache/image-cache.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/image-cache/image-cache.js</key>
 		<data>
 		isjdEb8VdGt7HrGLqW8VR1UMaeU=
 		</data>
-		<key>app/tns_modules/ui/image-cache/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/image-cache/package.json</key>
 		<data>
 		B5Yg0OJIy3QWDyX87xfw69wmdpc=
 		</data>
-		<key>app/tns_modules/ui/image/image-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/image/image-common.js</key>
 		<data>
 		xEvGIxxcwsijOLugM8kaPkhIioI=
 		</data>
-		<key>app/tns_modules/ui/image/image.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/image/image.js</key>
 		<data>
 		Hu9kNSAtoWtTVhJX5rF0jZ1SIk8=
 		</data>
-		<key>app/tns_modules/ui/image/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/image/package.json</key>
 		<data>
 		eDKlxNVa4leCkXnjl5VLdYwAGaE=
 		</data>
-		<key>app/tns_modules/ui/label/label-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/label/label-common.js</key>
 		<data>
 		v1HUg498JXmVUaanWz6oktaZfP4=
 		</data>
-		<key>app/tns_modules/ui/label/label.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/label/label.js</key>
 		<data>
 		8xHWEMXAzC0XzfzWWia+zb3wjFo=
 		</data>
-		<key>app/tns_modules/ui/label/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/label/package.json</key>
 		<data>
 		v2sknvt6nT80TzD+YSVACfoe+a0=
 		</data>
-		<key>app/tns_modules/ui/layouts/absolute-layout/absolute-layout-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/absolute-layout/absolute-layout-common.js</key>
 		<data>
 		TwjO4gO2/G+6p084t4gwTKpdHN0=
 		</data>
-		<key>app/tns_modules/ui/layouts/absolute-layout/absolute-layout.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/absolute-layout/absolute-layout.js</key>
 		<data>
 		gqPZqk+kJLXM0hHOe+nuZOtzKi0=
 		</data>
-		<key>app/tns_modules/ui/layouts/absolute-layout/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/absolute-layout/package.json</key>
 		<data>
 		Y8NrGta3hophXkNPBWoeFu+0ZGk=
 		</data>
-		<key>app/tns_modules/ui/layouts/dock-layout/dock-layout-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/dock-layout/dock-layout-common.js</key>
 		<data>
 		F4f2Me4crlgTB/M5rIJ3ip0Ur/E=
 		</data>
-		<key>app/tns_modules/ui/layouts/dock-layout/dock-layout.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/dock-layout/dock-layout.js</key>
 		<data>
 		JU0LvbL1adrQXPblppNT9kdZYBg=
 		</data>
-		<key>app/tns_modules/ui/layouts/dock-layout/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/dock-layout/package.json</key>
 		<data>
 		P9Xwhn6mV5eTwqzexe0xSj2Dp2s=
 		</data>
-		<key>app/tns_modules/ui/layouts/flexbox-layout/flexbox-layout-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/flexbox-layout/flexbox-layout-common.js</key>
 		<data>
 		M0LKJWsqSZXlN7zvpuc59fGImBE=
 		</data>
-		<key>app/tns_modules/ui/layouts/flexbox-layout/flexbox-layout.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/flexbox-layout/flexbox-layout.js</key>
 		<data>
-		zIlgJdCFMbB1X7CrVw9Zcm5SGMQ=
+		CFvmVEFjMxmpoo3EA0ioPIk9Fzs=
 		</data>
-		<key>app/tns_modules/ui/layouts/flexbox-layout/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/flexbox-layout/package.json</key>
 		<data>
 		zypS6Bv0PcCeAW2ljyppsA5heQg=
 		</data>
-		<key>app/tns_modules/ui/layouts/grid-layout/grid-layout-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/grid-layout/grid-layout-common.js</key>
 		<data>
 		2v6LtCgVytRaMeoGPcBr/5QQmow=
 		</data>
-		<key>app/tns_modules/ui/layouts/grid-layout/grid-layout.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/grid-layout/grid-layout.js</key>
 		<data>
 		VK3wXISF3nofOkGopaB3WlPrGX4=
 		</data>
-		<key>app/tns_modules/ui/layouts/grid-layout/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/grid-layout/package.json</key>
 		<data>
 		vcHolIHN6LO1gS8rxM1jsbYwYYk=
 		</data>
-		<key>app/tns_modules/ui/layouts/layout-base-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/layout-base-common.js</key>
 		<data>
 		sB6H/zGjiNp7aqhfuatcl1wfRsk=
 		</data>
-		<key>app/tns_modules/ui/layouts/layout-base.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/layout-base.js</key>
 		<data>
 		do1L2UlLqdyuolJwDS5IIAoX0JU=
 		</data>
-		<key>app/tns_modules/ui/layouts/layout.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/layout.js</key>
 		<data>
 		MkA4cx24fiGu8lzDl63YZjhRVVg=
 		</data>
-		<key>app/tns_modules/ui/layouts/stack-layout/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/stack-layout/package.json</key>
 		<data>
 		jIDYNNB/l/rp684whs/NOywrRGs=
 		</data>
-		<key>app/tns_modules/ui/layouts/stack-layout/stack-layout-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/stack-layout/stack-layout-common.js</key>
 		<data>
 		3/hQ/FNzGFntD0+Vv/rgykPgpiE=
 		</data>
-		<key>app/tns_modules/ui/layouts/stack-layout/stack-layout.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/stack-layout/stack-layout.js</key>
 		<data>
 		K1x84/3Y9BPZ65C8UENLng00mOM=
 		</data>
-		<key>app/tns_modules/ui/layouts/wrap-layout/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/wrap-layout/package.json</key>
 		<data>
 		0c4q98tC5AAysmH6zeqiI61vR3o=
 		</data>
-		<key>app/tns_modules/ui/layouts/wrap-layout/wrap-layout-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/wrap-layout/wrap-layout-common.js</key>
 		<data>
 		/oakOb04+s48qhbB/uYWTkHxOYY=
 		</data>
-		<key>app/tns_modules/ui/layouts/wrap-layout/wrap-layout.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/wrap-layout/wrap-layout.js</key>
 		<data>
 		9Mnvp7Kuo6568SVFYd8+yD42Y3k=
 		</data>
-		<key>app/tns_modules/ui/list-picker/list-picker-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/list-picker/list-picker-common.js</key>
 		<data>
 		fJSnrDfKpkpepvTvW6utFDnL6Ic=
 		</data>
-		<key>app/tns_modules/ui/list-picker/list-picker.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/list-picker/list-picker.js</key>
 		<data>
-		6zuPSWNWgZe77T+pfPXSU732Atw=
+		jAxpS5U6CpcWXk6EMShO9V7rHgc=
 		</data>
-		<key>app/tns_modules/ui/list-picker/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/list-picker/package.json</key>
 		<data>
 		HLOGR1A1rlKFy9qZsh3GBRNuDlc=
 		</data>
-		<key>app/tns_modules/ui/list-view/list-view-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/list-view/list-view-common.js</key>
 		<data>
-		bKaKkbLho5UX3sYyXQdu4rq0qpA=
+		3wMUslS53fSBAg9aIeCINFVZHkU=
 		</data>
-		<key>app/tns_modules/ui/list-view/list-view.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/list-view/list-view.js</key>
 		<data>
-		OOsdg1wlbpwCoLKe166TrU+1JuY=
+		dNDHxgjZ0UDy43DDpcnId+gIQEY=
 		</data>
-		<key>app/tns_modules/ui/list-view/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/list-view/package.json</key>
 		<data>
 		vKeWvNfj+eJwokchrJ10TYuRQ7U=
 		</data>
-		<key>app/tns_modules/ui/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/package.json</key>
 		<data>
 		g05G7aWRG11g2zHDGwZLIbiQwlY=
 		</data>
-		<key>app/tns_modules/ui/page/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/page/package.json</key>
 		<data>
 		uZmxoiZTGB+Hq0f/+9kz3eG5nUA=
 		</data>
-		<key>app/tns_modules/ui/page/page-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/page/page-common.js</key>
 		<data>
-		+NJcg5OAeKI5D+LYYNIiykWoOBo=
+		H5OOYodY9LazozlqnzyRDv8USFU=
 		</data>
-		<key>app/tns_modules/ui/page/page.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/page/page.js</key>
 		<data>
-		380H0yLUPSGPiXJNOwRxail76q4=
+		g0UwXHSMLUmsFIfNTgaXHJWaHW8=
 		</data>
-		<key>app/tns_modules/ui/placeholder/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/placeholder/package.json</key>
 		<data>
 		t2+rzhvTXc1YarYmk4fe/n61Uj8=
 		</data>
-		<key>app/tns_modules/ui/placeholder/placeholder-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/placeholder/placeholder-common.js</key>
 		<data>
 		NOlqMvML3ZItAr/wN05S8n+Evm0=
 		</data>
-		<key>app/tns_modules/ui/placeholder/placeholder.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/placeholder/placeholder.js</key>
 		<data>
 		DTu8rMGfWef4yhEvI6IJFo47nD0=
 		</data>
-		<key>app/tns_modules/ui/progress/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/progress/package.json</key>
 		<data>
 		i+LpC+Mm96Gpzg2jJhAEgd/mRCk=
 		</data>
-		<key>app/tns_modules/ui/progress/progress-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/progress/progress-common.js</key>
 		<data>
 		yeCpgZNE5SYGYivLZ7IjNFzy4Xc=
 		</data>
-		<key>app/tns_modules/ui/progress/progress.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/progress/progress.js</key>
 		<data>
 		WhMyic3YcGFYHOKOcsaUn7wYQ1g=
 		</data>
-		<key>app/tns_modules/ui/proxy-view-container/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/proxy-view-container/package.json</key>
 		<data>
 		8r3vomuI8mtnEgqxAQBRAckhoHQ=
 		</data>
-		<key>app/tns_modules/ui/proxy-view-container/proxy-view-container.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/proxy-view-container/proxy-view-container.js</key>
 		<data>
-		ZHnbs6GDBG//cGjF0R1UeQ0Avm4=
+		6TGX3ru8PfpkPaOwrFn7f1M37Hw=
 		</data>
-		<key>app/tns_modules/ui/repeater/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/repeater/package.json</key>
 		<data>
 		FXSdPfzwAfFmfkK+Fkpjolp3xd8=
 		</data>
-		<key>app/tns_modules/ui/repeater/repeater.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/repeater/repeater.js</key>
 		<data>
 		zL0fmANb+xAJJa4cncbhDmS8sWA=
 		</data>
-		<key>app/tns_modules/ui/scroll-view/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/scroll-view/package.json</key>
 		<data>
 		FwiVJj4vprlGA7JOCAM7rG5gmzM=
 		</data>
-		<key>app/tns_modules/ui/scroll-view/scroll-view-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/scroll-view/scroll-view-common.js</key>
 		<data>
 		yTaAIIeouptIvnnCZNGkTm9UOHY=
 		</data>
-		<key>app/tns_modules/ui/scroll-view/scroll-view.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/scroll-view/scroll-view.js</key>
 		<data>
 		G/1Zf3Dz2HmnX4ySV2iFiW49X24=
 		</data>
-		<key>app/tns_modules/ui/search-bar/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/search-bar/package.json</key>
 		<data>
 		5prvcXEqwTiCmi1lQGpv1Bu4BNk=
 		</data>
-		<key>app/tns_modules/ui/search-bar/search-bar-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/search-bar/search-bar-common.js</key>
 		<data>
 		P86IemApyIvpHHxmS0gV3Fo7UE4=
 		</data>
-		<key>app/tns_modules/ui/search-bar/search-bar.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/search-bar/search-bar.js</key>
 		<data>
 		rmxpDgparxlipi3tInyr0kX4Roc=
 		</data>
-		<key>app/tns_modules/ui/segmented-bar/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/segmented-bar/package.json</key>
 		<data>
 		b8BExlxM3w8eVfAcyreFyCt8UI4=
 		</data>
-		<key>app/tns_modules/ui/segmented-bar/segmented-bar-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/segmented-bar/segmented-bar-common.js</key>
 		<data>
-		whAc5qc6v5+BGLVjAXtMx+XKs6I=
+		zyApZLcbauiw3tjINicelMZmCsY=
 		</data>
-		<key>app/tns_modules/ui/segmented-bar/segmented-bar.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/segmented-bar/segmented-bar.js</key>
 		<data>
 		bVFzJCY72cBO4r5rqwJ+vS+gFCo=
 		</data>
-		<key>app/tns_modules/ui/slider/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/slider/package.json</key>
 		<data>
 		n5Ivuiv3VwiQtuc94IPjjrjFC1c=
 		</data>
-		<key>app/tns_modules/ui/slider/slider-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/slider/slider-common.js</key>
 		<data>
 		7bTY963HTnLg81iVjRs1fk9tg7A=
 		</data>
-		<key>app/tns_modules/ui/slider/slider.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/slider/slider.js</key>
 		<data>
 		wS8uvgDWY6u7D0sY++tfEFXlbk4=
 		</data>
-		<key>app/tns_modules/ui/styling/background-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/styling/background-common.js</key>
 		<data>
 		ZQS16Kjn2PHSXw8w5JNid5NM2ZU=
 		</data>
-		<key>app/tns_modules/ui/styling/background.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/styling/background.js</key>
 		<data>
-		9mgiUHq5wr+4t3eGU1QBB4nOp54=
+		Cn+naRRJWiKFTXwjhXRRmT1hfIU=
 		</data>
-		<key>app/tns_modules/ui/styling/converters.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/styling/converters.js</key>
 		<data>
 		KbRTQalSfzt6NStfHCKdBV1J5NU=
 		</data>
-		<key>app/tns_modules/ui/styling/css-animation-parser.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/styling/css-animation-parser.js</key>
 		<data>
 		b9Edcgcic8ApctrSu9iuNQV2NlQ=
 		</data>
-		<key>app/tns_modules/ui/styling/css-selector-parser.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/styling/css-selector-parser.js</key>
 		<data>
 		Zobeyw/2vOxtaZimpI/9H11IKWk=
 		</data>
-		<key>app/tns_modules/ui/styling/css-selector.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/styling/css-selector.js</key>
 		<data>
 		ZIjOOHvcXbaTy+k/cFJ1uKhEU8s=
 		</data>
-		<key>app/tns_modules/ui/styling/font-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/styling/font-common.js</key>
 		<data>
 		sSVj3Q4aoKE9WY9pxWYVcp2/SiU=
 		</data>
-		<key>app/tns_modules/ui/styling/font.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/styling/font.js</key>
 		<data>
 		y6cr09+QJCzH4zse1gc+hASudSs=
 		</data>
-		<key>app/tns_modules/ui/styling/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/styling/package.json</key>
 		<data>
 		s/4+uKBxcNxIcBR4u18C7cUKUhk=
 		</data>
-		<key>app/tns_modules/ui/styling/style-property.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/styling/style-property.js</key>
 		<data>
 		j5f2hTXOUo8VqrFEZlDEVCw9ly0=
 		</data>
-		<key>app/tns_modules/ui/styling/style-scope.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/styling/style-scope.js</key>
 		<data>
 		tXNIedbd4SKOepIuZGUe7wIeYxg=
 		</data>
-		<key>app/tns_modules/ui/styling/style.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/styling/style.js</key>
 		<data>
-		ff6bnUS7gRG8xUJx7mGaiEbS8hQ=
+		2itXMBcpny0QmkUfdbEc5PaNPvM=
 		</data>
-		<key>app/tns_modules/ui/styling/styling.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/styling/styling.js</key>
 		<data>
 		VXxHWRO4JPcy+HO/CxMjrZIdMTU=
 		</data>
-		<key>app/tns_modules/ui/switch/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/switch/package.json</key>
 		<data>
 		YRFMygjkR1PXDIGvGmydfcmeisY=
 		</data>
-		<key>app/tns_modules/ui/switch/switch-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/switch/switch-common.js</key>
 		<data>
 		1kMEBnux+PsVEr6X9ix3bdw/0uM=
 		</data>
-		<key>app/tns_modules/ui/switch/switch.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/switch/switch.js</key>
 		<data>
 		p83L9P7oMnaNlL7pJIHFQ4Q+oA4=
 		</data>
-		<key>app/tns_modules/ui/tab-view/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/tab-view/package.json</key>
 		<data>
 		psdCEhhVaCL6EZGYdsDOMCbNdhQ=
 		</data>
-		<key>app/tns_modules/ui/tab-view/tab-view-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/tab-view/tab-view-common.js</key>
 		<data>
-		MyABXfytO8IiZPcL9KyZMunxXEU=
+		iB8RCfLSLchnKqT+eSM/0NJHTFQ=
 		</data>
-		<key>app/tns_modules/ui/tab-view/tab-view.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/tab-view/tab-view.js</key>
 		<data>
-		HN3NiHlyU2SXru83JD+xnKJxxA0=
+		89IQnM38BOhP/2inLdnikgrMmBg=
 		</data>
-		<key>app/tns_modules/ui/text-base/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/text-base/package.json</key>
 		<data>
 		R8teA5jKgRLyv0Ql9aSObHhYL+8=
 		</data>
-		<key>app/tns_modules/ui/text-base/text-base-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/text-base/text-base-common.js</key>
 		<data>
 		g2zEcwY8HXMzCfOzGvz0DnZ+5g0=
 		</data>
-		<key>app/tns_modules/ui/text-base/text-base-styler.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/text-base/text-base-styler.js</key>
 		<data>
 		xf0Qw3KCrlRyJUEy+drKlftecN8=
 		</data>
-		<key>app/tns_modules/ui/text-base/text-base.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/text-base/text-base.js</key>
 		<data>
 		DlWD3QD/PZ9b3x4nYReK1jzfCJg=
 		</data>
-		<key>app/tns_modules/ui/text-field/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/text-field/package.json</key>
 		<data>
 		G7KAWGtre5+pzI6Z8ONh1zzNlF8=
 		</data>
-		<key>app/tns_modules/ui/text-field/text-field-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/text-field/text-field-common.js</key>
 		<data>
 		E6NBX8NQko29T1qHTi2eLq7ckZE=
 		</data>
-		<key>app/tns_modules/ui/text-field/text-field.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/text-field/text-field.js</key>
 		<data>
 		cB2bsLpvAr7yqRf2hg7EgDqs65g=
 		</data>
-		<key>app/tns_modules/ui/text-view/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/text-view/package.json</key>
 		<data>
 		sI9IYhTYbpBihrslti6U5rlaTpk=
 		</data>
-		<key>app/tns_modules/ui/text-view/text-view-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/text-view/text-view-common.js</key>
 		<data>
 		ITSKDUg3s6rCPxVA5lZFHrDduIU=
 		</data>
-		<key>app/tns_modules/ui/text-view/text-view.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/text-view/text-view.js</key>
 		<data>
 		XoV2+kjmwauWURwHrewT7tgm7Zw=
 		</data>
-		<key>app/tns_modules/ui/time-picker/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/time-picker/package.json</key>
 		<data>
 		C8rbEbp11Kya7FuhO8poeYMWeeo=
 		</data>
-		<key>app/tns_modules/ui/time-picker/time-picker-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/time-picker/time-picker-common.js</key>
 		<data>
 		QmuuR4HxCcUKCy4Q40gf/9n3FTE=
 		</data>
-		<key>app/tns_modules/ui/time-picker/time-picker.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/time-picker/time-picker.js</key>
 		<data>
 		PVgi3pl0l4FJjn3Gh0QdcXA+9CA=
 		</data>
-		<key>app/tns_modules/ui/transition/fade-transition.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/transition/fade-transition.js</key>
 		<data>
 		YBwnBDWDKs33rLpK9LQxyUwA/pQ=
 		</data>
-		<key>app/tns_modules/ui/transition/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/transition/package.json</key>
 		<data>
 		1AoitivSAayvU0Mb3LhQd4J7q5s=
 		</data>
-		<key>app/tns_modules/ui/transition/slide-transition.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/transition/slide-transition.js</key>
 		<data>
 		+36SaYFo2G6mC9jPjZ9eszSzwk0=
 		</data>
-		<key>app/tns_modules/ui/transition/transition.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/transition/transition.js</key>
 		<data>
 		4rxFzYspMJUnqs3Jj86xyQBYAhg=
 		</data>
-		<key>app/tns_modules/ui/utils.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/utils.js</key>
 		<data>
 		/nSoKReiSqlVmEfUGkTFe6L3VIs=
 		</data>
-		<key>app/tns_modules/ui/web-view/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/web-view/package.json</key>
 		<data>
 		i5WHDFKbm4S9cG7XT+POZd4zrfA=
 		</data>
-		<key>app/tns_modules/ui/web-view/web-view-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/web-view/web-view-common.js</key>
 		<data>
 		FNX+Kidyr9agq4qSrvsD7RrcbwE=
 		</data>
-		<key>app/tns_modules/ui/web-view/web-view.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/web-view/web-view.js</key>
 		<data>
 		op1xq/Mh1K6Ht3a97ZOWP423SDQ=
 		</data>
-		<key>app/tns_modules/utils/debug-common.js</key>
+		<key>app/tns_modules/tns-core-modules/utils/debug-common.js</key>
 		<data>
 		6UV6D4TfMR38mvYvavI3Ngbel+w=
 		</data>
-		<key>app/tns_modules/utils/debug.js</key>
+		<key>app/tns_modules/tns-core-modules/utils/debug.js</key>
 		<data>
 		/zb2lV9LS3KZSb2bTZbmORu5X08=
 		</data>
-		<key>app/tns_modules/utils/lazy.js</key>
+		<key>app/tns_modules/tns-core-modules/utils/lazy.js</key>
 		<data>
 		kzAxoA38NOfov5HEY5VJgcS2ZZM=
 		</data>
-		<key>app/tns_modules/utils/module-merge.js</key>
+		<key>app/tns_modules/tns-core-modules/utils/module-merge.js</key>
 		<data>
 		i23WRMd15IbnRMmAMxD5spUiUI0=
 		</data>
-		<key>app/tns_modules/utils/number-utils.js</key>
+		<key>app/tns_modules/tns-core-modules/utils/number-utils.js</key>
 		<data>
 		7MsYG8qOc4T7nMr/kktQwdCEq18=
 		</data>
-		<key>app/tns_modules/utils/package.json</key>
+		<key>app/tns_modules/tns-core-modules/utils/package.json</key>
 		<data>
 		B9CsVNamlkbOGHcwMR/pxd45Yug=
 		</data>
-		<key>app/tns_modules/utils/types.js</key>
+		<key>app/tns_modules/tns-core-modules/utils/types.js</key>
 		<data>
 		OC6ZJczk8dsZ86o80qktuYnIxjc=
 		</data>
-		<key>app/tns_modules/utils/utils-common.js</key>
+		<key>app/tns_modules/tns-core-modules/utils/utils-common.js</key>
 		<data>
 		6rYdcP06DbcQxX3a20wgLs4mb4s=
 		</data>
-		<key>app/tns_modules/utils/utils.js</key>
+		<key>app/tns_modules/tns-core-modules/utils/utils.js</key>
 		<data>
 		na2yMnX/CkrbOXF8MaxuYVqEdxI=
 		</data>
-		<key>app/tns_modules/xhr/package.json</key>
+		<key>app/tns_modules/tns-core-modules/xhr/package.json</key>
 		<data>
 		ERvUQOYUd7jb5oMowYQhEs8j+x8=
 		</data>
-		<key>app/tns_modules/xhr/xhr.js</key>
+		<key>app/tns_modules/tns-core-modules/xhr/xhr.js</key>
 		<data>
 		+iUEfVIRSj1bgQbW6clAFO4AwK4=
 		</data>
-		<key>app/tns_modules/xml/package.json</key>
+		<key>app/tns_modules/tns-core-modules/xml/package.json</key>
 		<data>
 		Mr+lC7gOawLQ4hny3IdnPjYizTs=
 		</data>
-		<key>app/tns_modules/xml/xml.js</key>
+		<key>app/tns_modules/tns-core-modules/xml/xml.js</key>
 		<data>
-		cZuRlF6PBKAcVS0LmYzN+IzxI1I=
+		4qqIlK9DL77zY06+sgQwXTeChfE=
 		</data>
 		<key>build.xcconfig</key>
 		<data>
@@ -1676,99 +1720,99 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qQui0uCIc9snP2RnHd1LEx0ImW4=
+			VekS+bzRBMZp9m7RiQyl8qpkT38=
 			</data>
 			<key>hash2</key>
 			<data>
-			A2QI/dbzQjztL1b1hc7Zbsl5yB8KcJSLfCx5Y/GMpY0=
+			DQezQFXK6RgKqsAq5hZ4cs+7gP23o21QVCYImFVKc6g=
 			</data>
 		</dict>
 		<key>AppIcon29x29@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aP6zUrltFtnGYSIl6DYUfYPrIWw=
+			qBTN3XvuJhjhXNLSz8MkSQ+eXp8=
 			</data>
 			<key>hash2</key>
 			<data>
-			E+RfW3s8fWSA5jMOkMmwCGDh7YO0Zmb/Ob1tkiMovB4=
+			Kg55ECnuen4Vd4TPiWG5BKbOXV+YDPAoha57c6trFM4=
 			</data>
 		</dict>
 		<key>AppIcon29x29@2x~ipad.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aP6zUrltFtnGYSIl6DYUfYPrIWw=
+			qBTN3XvuJhjhXNLSz8MkSQ+eXp8=
 			</data>
 			<key>hash2</key>
 			<data>
-			E+RfW3s8fWSA5jMOkMmwCGDh7YO0Zmb/Ob1tkiMovB4=
+			Kg55ECnuen4Vd4TPiWG5BKbOXV+YDPAoha57c6trFM4=
 			</data>
 		</dict>
 		<key>AppIcon29x29@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DPbNQU+kDMqpYKIHBAP0NJgX7Ac=
+			7scveveaWmFDuNHyewFMI3hlrPs=
 			</data>
 			<key>hash2</key>
 			<data>
-			6TGBo9O/+q2uxsRQNhU5VG6hbSW5lun/3+dgazeLWl8=
+			HsWKkkDQTltehnvP8tl0r2vO+Ikl5+msZag3gbRmR1s=
 			</data>
 		</dict>
 		<key>AppIcon29x29~ipad.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qQui0uCIc9snP2RnHd1LEx0ImW4=
+			VekS+bzRBMZp9m7RiQyl8qpkT38=
 			</data>
 			<key>hash2</key>
 			<data>
-			A2QI/dbzQjztL1b1hc7Zbsl5yB8KcJSLfCx5Y/GMpY0=
+			DQezQFXK6RgKqsAq5hZ4cs+7gP23o21QVCYImFVKc6g=
 			</data>
 		</dict>
 		<key>AppIcon40x40@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3mVMZf8AAFWUdCWyXX5LpdcAQn8=
+			6V8XMt+ZFYRqtBinmfuAPf3ykpc=
 			</data>
 			<key>hash2</key>
 			<data>
-			xB367f6yVwDlVb+w/hVaqceBCApdawt0qzPsyetI94s=
+			GEWf7oOzh7hFaVaC2JB7wGwMiipnLLbHPx6NJby6zgE=
 			</data>
 		</dict>
 		<key>AppIcon40x40@2x~ipad.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3mVMZf8AAFWUdCWyXX5LpdcAQn8=
+			6V8XMt+ZFYRqtBinmfuAPf3ykpc=
 			</data>
 			<key>hash2</key>
 			<data>
-			xB367f6yVwDlVb+w/hVaqceBCApdawt0qzPsyetI94s=
+			GEWf7oOzh7hFaVaC2JB7wGwMiipnLLbHPx6NJby6zgE=
 			</data>
 		</dict>
 		<key>AppIcon40x40@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ULjo/SboRUIkg/CMcxnZ/ObDQ9U=
+			UZ2v5wnQO3kG4PQ8ujx1FlLrWTc=
 			</data>
 			<key>hash2</key>
 			<data>
-			2+sXb1G920o4gn8mUHOOys/vOwwBHqOaidSC4igPtQ0=
+			tUtCCDip0QGvikUP0DBatdZXgpOBJU/Oq5KoingLbLA=
 			</data>
 		</dict>
 		<key>AppIcon40x40~ipad.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yEwkqlDaJunA2OUJNHiRKaSKTW8=
+			NDyXkWK+jc1YFM8TdUn7eHS515E=
 			</data>
 			<key>hash2</key>
 			<data>
-			lMiJ/Fxy7J7fKDUeV2Ua2lIiFpODBWP4jWwDQObJgbs=
+			+QBPyrjT6pR64EawxUBNE7wp4OImFIPdYeO30Fb03O8=
 			</data>
 		</dict>
 		<key>AppIcon50x50@2x~ipad.png</key>
@@ -1797,44 +1841,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VXuZWXMTDjDv40vPx13zoZQolh0=
+			WviY8EkfbphKLHqjybZjfh53Abc=
 			</data>
 			<key>hash2</key>
 			<data>
-			g+LQCkNKvBMT5Ozs/9wrCqmx+Yqwfi9UE90bGasFKwQ=
+			wGYy6WmMLs75JodoYpIiWCVcpBSLIHN31NUxnR1enQM=
 			</data>
 		</dict>
 		<key>AppIcon57x57@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/MGiFJP+PfrsP4rfZw0V3xRBaO0=
+			tdcoLJ3IjAMv4XiSl7qxeFS3LxA=
 			</data>
 			<key>hash2</key>
 			<data>
-			EV7NnJXxu5kyKkLu1kXSlNGLKVecfgUMNgLPHo6bAdo=
+			gwtPgQrzLINl4gX+T8rMiyUiOfqpnqo3vKidCtMpb8M=
 			</data>
 		</dict>
 		<key>AppIcon60x60@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			m5Cu35JtSMkqXy6I3FbvnEw+3ws=
+			UZ2v5wnQO3kG4PQ8ujx1FlLrWTc=
 			</data>
 			<key>hash2</key>
 			<data>
-			S/kEGUycXIa+G7SL7FJzoswEUBWL8FLWlS9CVGVQ554=
+			tUtCCDip0QGvikUP0DBatdZXgpOBJU/Oq5KoingLbLA=
 			</data>
 		</dict>
 		<key>AppIcon60x60@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			urhpT50/nKC0wyTcdWHE1ZFOQeE=
+			h+TUTzFe+8w1CYkjW9iZZhx6aFw=
 			</data>
 			<key>hash2</key>
 			<data>
-			m18qbTYXSsKU7xcrP04BO075EoiYRiDrxUgoiDsOyXQ=
+			5maMhMT9WPkM8j2boebu6jpM4HV6Cb1aYTJGAaKh/YA=
 			</data>
 		</dict>
 		<key>AppIcon72x72@2x~ipad.png</key>
@@ -1896,209 +1940,297 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SO2ksfnhk4wv6GnGYibyHXatBtM=
+			6g4U0kQPy+DEEpj+TOU4KBbr7NU=
 			</data>
 			<key>hash2</key>
 			<data>
-			OBw5IqFlNMhReRUklO850PIqT7dtQCpLv1Z6MSEBbqU=
+			3/HU4872HItiKK767Ii23MtJVpKr7WJvHR90Kb6vRvc=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			f8YbEHyMhhl9i1gFViP9307UuRQ=
+			k10lDReAp6DFsz30UCpIH8UiWvY=
 			</data>
 			<key>hash2</key>
 			<data>
-			O/XcWB84R2rfELwGeJRWD2Ml6ToQO9BsNWtm3G/yS8k=
+			i8GRyBCa1yZCM8Vy2cpA1db7LuIcK7LHWKGYCeM60yg=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/NativeScript</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zxU6WF49ujBpVFQCdHUPQn7nn18=
+			v6rnm33xWzImu4PJtJzB2GuFjhc=
 			</data>
 			<key>hash2</key>
 			<data>
-			peVUXKpcYXXwUgwzouxOl90zxV7jFalOMjU11wLb2xk=
+			8lmUadmHsyJhO3UvRI9gTziHSZkaDer/Xn2I8opk8vI=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CuoPXzQOkd/uMy49pmjY5hiYzAY=
+			CqyUnSiomEFTQRT/eq/zY0qAFwQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			HHryuHrSKxfg+lfyBO3fuVDGc5cLIPZrwkuz/szR2ec=
+			og39Fu5MS3lp9kyVXkh03bc1DJ0ZsW3NgdsgTy9UUmc=
 			</data>
 		</dict>
 		<key>Frameworks/TKLiveSync.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NaGEewHyWAx48eEn1cd1DYJlwWk=
+			FoPMhCdhevxlC+NOBmwXuweGh88=
 			</data>
 			<key>hash2</key>
 			<data>
-			DPkzxt0sXd0s31JztzCF0nmNfz9ZsMbe8TfwKLZtbfc=
+			XwhKjVXYitdAEybWe4hWqsiyszMPr8hbIYnrT/4u+eI=
 			</data>
 		</dict>
 		<key>Frameworks/TKLiveSync.framework/TKLiveSync</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oC+oLp2qqXWzxaHfRnFiRe+wCIw=
+			cY9tL6GUJ+EM6OxTsFp9/DFfFUQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			EjtCE8j62Z3PcVa2nw97ZQS4LIDp5M50kTtDlDaaRJw=
+			G6WAbY6WLHCNrixJsxZMNKEQxA9uiDwb4O8C3nECOfM=
 			</data>
 		</dict>
 		<key>Frameworks/TKLiveSync.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YqjPjjyCXYzRwGlJMNDm3txfEyQ=
+			/FBm8nxgWLnwiavCNjKT53KAWdY=
 			</data>
 			<key>hash2</key>
 			<data>
-			gsnojp1WOmZ8CrACANH53AgicIxCHu+RJfFQOZXNffU=
+			Hoqy/Crt9/2ziezuk7JTxb//+bq7tU5TVs8/b/Ooc5M=
 			</data>
 		</dict>
 		<key>Frameworks/TNSWidgets.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cPNZkJKL3G7RJ72/F78SJ2/YZZ8=
+			Kn5JKKG9bQZaZ01rRgMfbFOgGjQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			lyTKvagyhBHRL37dEjSolLr20hkiCZEhIucEdH7yMvI=
+			SaYDWOi1nWP0b/rPvLJ4NKP13xFJMog4J1rwNIj/yKk=
 			</data>
 		</dict>
 		<key>Frameworks/TNSWidgets.framework/TNSWidgets</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			i/AAooi8iF7elMd6H5Tt2JaVe3c=
+			blJ1azz0++9BHCHTInf6SW+yxhQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			NyoGhC2JcQZR/UouLY1/nK08+l+OMunzO6XOctpEXoA=
+			3c9p8HWxYpqtgsvUbf/WADImZW4Zl54c1HN2Pi3y/jg=
 			</data>
 		</dict>
 		<key>Frameworks/TNSWidgets.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nYcVjHTTYbUoFB+VFEZRNTWdL+A=
+			syoEie+evThyv6iYMObX9HorIfY=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y7PzcXWjTvXD1UCc01PSgbSCdkp+qEu0R15XDxjRKP8=
+			4ZPBHDE0hJqUOo7IM832ltQpuipcnAy2G62+39Lx8us=
 			</data>
 		</dict>
 		<key>LaunchImage-568h@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VmHTptUrPuWY7yNjVc09e8tr7A0=
+			jD2XcWBZ9MxX1wEgUeJ9mwlM27Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			VWzYdlTORuAgRRGDMfw4XKZGPuAeRKHMYz6Zm2pPW4U=
+			q8RkuvSnH8D5ptN4ceKWpb0FneWFjseCEJAnBDNPyR8=
 			</data>
 		</dict>
 		<key>LaunchImage-700-568h@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VmHTptUrPuWY7yNjVc09e8tr7A0=
+			jD2XcWBZ9MxX1wEgUeJ9mwlM27Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			VWzYdlTORuAgRRGDMfw4XKZGPuAeRKHMYz6Zm2pPW4U=
+			q8RkuvSnH8D5ptN4ceKWpb0FneWFjseCEJAnBDNPyR8=
+			</data>
+		</dict>
+		<key>LaunchImage-700-Landscape@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UvI7MSvB4YdNLPD40yNzEfDM+jo=
+			</data>
+			<key>hash2</key>
+			<data>
+			1Po4vs34zGUO1GcioOOUWvodowBKlUAjLP1Hrdxs+CA=
+			</data>
+		</dict>
+		<key>LaunchImage-700-Landscape~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NQ2gzdRt+UClXa0+veQ7oYHLb7s=
+			</data>
+			<key>hash2</key>
+			<data>
+			wL5q5YCjzhpAEyxk6Jb11QC1d3FfRLRWmYgR29AaB7U=
+			</data>
+		</dict>
+		<key>LaunchImage-700-Portrait@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			W2hgY2yYKYmrdIjLFr4fm4H+z6s=
+			</data>
+			<key>hash2</key>
+			<data>
+			0iAg+j8vzLlj23V/xjlo9hpUHk0qpbOwkAjy3yQOp4U=
+			</data>
+		</dict>
+		<key>LaunchImage-700-Portrait~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uVAg3FwM0zwc98qcDQel1Bn86NU=
+			</data>
+			<key>hash2</key>
+			<data>
+			Qv70PQk2M0ylwf6L9BF0UGYlDp6jd5HU2kt8rseboAs=
 			</data>
 		</dict>
 		<key>LaunchImage-700@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eMCbvAXVQNO8hlB8z3BTD2UmgFc=
+			GBS1Eidtu3woxei+1tferOrQd2E=
 			</data>
 			<key>hash2</key>
 			<data>
-			gN60Q5fWucWzJVBVqrwHT61m0teKHGy7+tzG63Q++PU=
+			neZw/hWxhmeWG4I2I6WDvIH7WGnEeZzMP9R3OrxsnQc=
 			</data>
 		</dict>
 		<key>LaunchImage-800-667h@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Z0H3WvqXNO46fcQRjJd4TG7T9lY=
+			TwRBa2MhAV6CaOk7MW7qO66e/Lg=
 			</data>
 			<key>hash2</key>
 			<data>
-			yfCkk1+aBwzYoAdWvMgzM2NtxVdFb+73WPttVxF/3GE=
+			1Fx7/l487BfjFrxIB+ZxPd+kLzlH37afZCyg+3F/XRQ=
 			</data>
 		</dict>
 		<key>LaunchImage-800-Landscape-736h@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1uvU7ilcauI7R80FIhaEmEkvrB4=
+			Hy3OKCU2ILk1pakJbQbdm8PLDHY=
 			</data>
 			<key>hash2</key>
 			<data>
-			JRjDn4eHBZ/d4r6sRixI7oMG4hGMUy2e/T0xfjZYCr0=
+			HvRqwz8ryej7a6bFGKPTRPJWEJrFpmFGwP288i74syw=
 			</data>
 		</dict>
 		<key>LaunchImage-800-Portrait-736h@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0gSilJHkuDQ3/f588EBoqhtJKLc=
+			S6wUpEwFKKULq/t1dRr6HUY/qS4=
 			</data>
 			<key>hash2</key>
 			<data>
-			gqt89v1Cua6sNMpn30Bf0bskIST5djHbOQ0ctMFLhUU=
+			JUSO25UJl7ZwE1EJYJvIQsUFJYxbkKo1RwT05gxZxPc=
+			</data>
+		</dict>
+		<key>LaunchImage-Landscape@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UvI7MSvB4YdNLPD40yNzEfDM+jo=
+			</data>
+			<key>hash2</key>
+			<data>
+			1Po4vs34zGUO1GcioOOUWvodowBKlUAjLP1Hrdxs+CA=
+			</data>
+		</dict>
+		<key>LaunchImage-Landscape~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NQ2gzdRt+UClXa0+veQ7oYHLb7s=
+			</data>
+			<key>hash2</key>
+			<data>
+			wL5q5YCjzhpAEyxk6Jb11QC1d3FfRLRWmYgR29AaB7U=
+			</data>
+		</dict>
+		<key>LaunchImage-Portrait@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			W2hgY2yYKYmrdIjLFr4fm4H+z6s=
+			</data>
+			<key>hash2</key>
+			<data>
+			0iAg+j8vzLlj23V/xjlo9hpUHk0qpbOwkAjy3yQOp4U=
+			</data>
+		</dict>
+		<key>LaunchImage-Portrait~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uVAg3FwM0zwc98qcDQel1Bn86NU=
+			</data>
+			<key>hash2</key>
+			<data>
+			Qv70PQk2M0ylwf6L9BF0UGYlDp6jd5HU2kt8rseboAs=
 			</data>
 		</dict>
 		<key>LaunchImage.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YZ+cbcT29092ldR1HmJu95/PV+o=
+			cVqLUawJiGK/DngJqPUzGt4EhCA=
 			</data>
 			<key>hash2</key>
 			<data>
-			4CsSJgNNKw34Ywb1z0I7RiPzrcMZSDWkqOfJlHdsymU=
+			tH5dDAq57Cl81+D5nIvsFlHqKMfoiHzV83oo/6dG7dU=
 			</data>
 		</dict>
 		<key>LaunchImage@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eMCbvAXVQNO8hlB8z3BTD2UmgFc=
+			GBS1Eidtu3woxei+1tferOrQd2E=
 			</data>
 			<key>hash2</key>
 			<data>
-			gN60Q5fWucWzJVBVqrwHT61m0teKHGy7+tzG63Q++PU=
+			neZw/hWxhmeWG4I2I6WDvIH7WGnEeZzMP9R3OrxsnQc=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FiMo7a7UtMJh+bnZZHGDyZACuK8=
+			HbBw8K1+nGXxmEhVXKhV6Gp1vhU=
 			</data>
 			<key>hash2</key>
 			<data>
-			onZeqrmoaRF3GvPJ7PBwaRf+xaUEcQo89+PyZewUG/I=
+			dGQFTfZvWiEHSVT3H6KWDluDgsT3S7JuxF7OH6LM5e0=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -2116,33 +2248,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Eyz/1v1JpH5ocwlEH2fge8j+LIk=
+			885GbveEmdC7E6rW39PN3gp0I6o=
 			</data>
 			<key>hash2</key>
 			<data>
-			1qQXkuARvn8y0tZ7tRfOUIphYAkUJxqBf14dk5VB8cY=
-			</data>
-		</dict>
-		<key>app/40887979-illustration-of-alot-of-cigarette-filters-on-white-background.jpg</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/KMYHjCWvm2h2vsmOmrtauj6kHs=
-			</data>
-			<key>hash2</key>
-			<data>
-			A9V3+EFbo6wXD1zfajZoKuTgHzAigBCtR7wFz9Fd4Xo=
+			XuLni4vXgkqCCvDaJ9zArQt1i8eE1cO0COh/sR+LH24=
 			</data>
 		</dict>
 		<key>app/app.css</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xzlSthQFiwAslTip/Qa4xbTV2fc=
+			EwPG8U/v2h9I/ZkiZfKH+bL+O+0=
 			</data>
 			<key>hash2</key>
 			<data>
-			vPbWfQAL/azIz5H/sAgTaAbB6fOIip2Po7WufXL7RK8=
+			umT+xakoMtlk2b/9Zs7ilhRyAiwEgWmwuAgOnfzdqAk=
 			</data>
 		</dict>
 		<key>app/app.js</key>
@@ -2277,6 +2398,39 @@
 			grRJE/C1SpqE9on5hlKD8ueM8fbds+xne/tic3VagfI=
 			</data>
 		</dict>
+		<key>app/images/pack-20@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sMerGK+1Ayh/zTaSdD1kHW+hR3I=
+			</data>
+			<key>hash2</key>
+			<data>
+			RybZnAY3IlxoIdy84XjH9J4DIHDinN/Ltx2OKQBBYV4=
+			</data>
+		</dict>
+		<key>app/images/pack-front@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nbHy6cWRp+XiW62ubBbeBkCU4W0=
+			</data>
+			<key>hash2</key>
+			<data>
+			aGODM78pCeBxhTd9grbDLvuQ/RwCKzoeYCdMBfYNgWo=
+			</data>
+		</dict>
+		<key>app/images/pack.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			F8zEZBBvgjYpICdfISrW2Jg/xKM=
+			</data>
+			<key>hash2</key>
+			<data>
+			z22lDl4Wa047jCvRbsLNLmyLXFx+FUyN8b+fUctJ+e0=
+			</data>
+		</dict>
 		<key>app/images/reserveDotBlack-38.png</key>
 		<dict>
 			<key>hash</key>
@@ -2321,37 +2475,48 @@
 			m6VEYRoRJtvChZsgEkxqSDXa/BXzEPLcEh+b1Qrvz/I=
 			</data>
 		</dict>
+		<key>app/images/tallButt@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VePDXEXnSoGUYMG3UeK1LqS/STo=
+			</data>
+			<key>hash2</key>
+			<data>
+			q5RvzjdKy1LMLqZ+EeXOrj3EwXlKfy1zL8vjIHXRixs=
+			</data>
+		</dict>
 		<key>app/main-page.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZGow1o/1hGKtAEc9J0u60jYPHUA=
+			ItG9Osn3FfXJa4BFDftOwBeIa9Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			bb2aEsBQM4IouUIGE5YCyDboCnRGUfhNs3u3Aw5qO7M=
+			rVzDLskv/ff5+S8XW/DnPgeRE2xehKdU5SQXkKN7OtU=
 			</data>
 		</dict>
 		<key>app/main-page.xml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JDUBitBNIxbkGO+x3/ERKzuxGm0=
+			Pw4GL/LjikWwPsOUMOj+/cQEJQc=
 			</data>
 			<key>hash2</key>
 			<data>
-			V5s/Fvvy1tLIrW/perPIg/dYzUuJkCR8cgQtHFgHkGA=
+			ZC+ur56jYoejWZdt1ULxtMIk5XNDvCtvELBdFmlmzyM=
 			</data>
 		</dict>
 		<key>app/main-view-model.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+JqYYQFRRtod4FCvihNL2IPcoMg=
+			3lFBxaLejTMIFjg/gLnSa7P0YJQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			ezgmnxvFHHkAxwD/uFysFBZ6zp/VY6uR4mkybZeQbSI=
+			oF301vWq/YOY+Ztl5Z0U0TdSygeKGSZ4tETmMc2YLIA=
 			</data>
 		</dict>
 		<key>app/package.json</key>
@@ -2374,754 +2539,6 @@
 			<key>hash2</key>
 			<data>
 			urwJamJWcWdoNcnYu0yhEN4pthCkZr8JkbSvyuQYXQc=
-			</data>
-		</dict>
-		<key>app/tns_modules/LICENSE</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/vWN4Un0q0BjiEv2dTySQaaIJ8w=
-			</data>
-			<key>hash2</key>
-			<data>
-			3CRxicB/pMBcvvJ2VgYHCsJcpQLab0lB4S4ZjuVKUXY=
-			</data>
-		</dict>
-		<key>app/tns_modules/application-settings/application-settings-common.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RngR2oT10HJ7bd21Q2qwyPmagcA=
-			</data>
-			<key>hash2</key>
-			<data>
-			kS3up6pO6OexOfZvzzicP82R0utI8AT5iuVRgNkhwzM=
-			</data>
-		</dict>
-		<key>app/tns_modules/application-settings/application-settings.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			KfSs4RkQHhIVQ8nb8gbE2QrqH5w=
-			</data>
-			<key>hash2</key>
-			<data>
-			MqF9UGhqxXB941VknaubuHpp5dhAhbxnuY3yN/VFFyw=
-			</data>
-		</dict>
-		<key>app/tns_modules/application-settings/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			nwKHcqYz7OGJQ1+aAfgcxbfRmqk=
-			</data>
-			<key>hash2</key>
-			<data>
-			sWW0doCACoYIMk/SVnE5inACuDGqI/ygQa800p3wdxs=
-			</data>
-		</dict>
-		<key>app/tns_modules/application/application-common.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Fr+9dSC4k1YNNyi19xr6m+MB++Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			HbCxOV7eenBuOfztjeaJGXDTwrfAIql2OcCZ71h/Jgk=
-			</data>
-		</dict>
-		<key>app/tns_modules/application/application.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4hOBUprt7SgwewRNTjZI70T9wNs=
-			</data>
-			<key>hash2</key>
-			<data>
-			lWL1QKxSiSdy/e1mAGa08ilsUiFHC70ex4B1ebYjNRE=
-			</data>
-		</dict>
-		<key>app/tns_modules/application/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5lxLRqUbx/oGD7u3Yqmc4KFZa9A=
-			</data>
-			<key>hash2</key>
-			<data>
-			f4K+X5StxTCRH9ItYXSpysNTSoYuUUAXU3US4TM11dw=
-			</data>
-		</dict>
-		<key>app/tns_modules/bundle-entry-points.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ZxbokIXI6NQGO9vMnSw+lfe+RN0=
-			</data>
-			<key>hash2</key>
-			<data>
-			DlVuY+U/htCx4ufNC9ckURYXxS+3Xarf28UlVOAksMU=
-			</data>
-		</dict>
-		<key>app/tns_modules/camera/camera-common.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vGdPA55vm9Qr4mMDv8mC0YvXpDY=
-			</data>
-			<key>hash2</key>
-			<data>
-			RldQaHPqhrLVX9PYc7vj00BUzwC+T/kxEpyvnJhaycU=
-			</data>
-		</dict>
-		<key>app/tns_modules/camera/camera.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bNVifVXAEPpRy5HXGm6HSGc/ciY=
-			</data>
-			<key>hash2</key>
-			<data>
-			xNtxOG9ee67wInWY4TAQ4HYWCVTUmtH7W607cIYZ4qM=
-			</data>
-		</dict>
-		<key>app/tns_modules/camera/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			t+2kuaPVxXshN3AM2tfm34z/crU=
-			</data>
-			<key>hash2</key>
-			<data>
-			NaHsf7xAsTHXqlNuUAvCRUnos/HhOaKI9bKulNdOu+Y=
-			</data>
-		</dict>
-		<key>app/tns_modules/color/color-common.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aUrjARPOC164fdWK2JmCC+tywNo=
-			</data>
-			<key>hash2</key>
-			<data>
-			zfIUOn6QIlxz8QK2BhZWMMMbcefga2/KGxafU/11MuA=
-			</data>
-		</dict>
-		<key>app/tns_modules/color/color.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			x506JTD5SckAtgMqZl14/zSdTWg=
-			</data>
-			<key>hash2</key>
-			<data>
-			bYBt3fQAUe6IydxjAJv1rTQt7/C2/hxGdz9Mdqy3aK4=
-			</data>
-		</dict>
-		<key>app/tns_modules/color/known-colors.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			gSduNtNBevoa/HHZYuxm0D5HDwg=
-			</data>
-			<key>hash2</key>
-			<data>
-			0cGPqDIgfHR9XvgckTdzn9aWfeugqxsdIpLiPY8cKQw=
-			</data>
-		</dict>
-		<key>app/tns_modules/color/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			GrUY+J0xSDXoR29JFaX+cRjwA9E=
-			</data>
-			<key>hash2</key>
-			<data>
-			56pG/i7lVWLMn0NGyWOUJ43OmjdpDbvBA2nVPSiBN6A=
-			</data>
-		</dict>
-		<key>app/tns_modules/connectivity/connectivity-common.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zJi1S7UT+as4MUKcoEJnTVq7rgI=
-			</data>
-			<key>hash2</key>
-			<data>
-			bC9+Bdxbwtwr1FvrQxqqFyG4aSUDr/sfr1tjtn30q3s=
-			</data>
-		</dict>
-		<key>app/tns_modules/connectivity/connectivity.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			pHjSboc132oDOfZEgCM+aX7/QGE=
-			</data>
-			<key>hash2</key>
-			<data>
-			AcCO7tlOS2PAEQgu72KJq14sWymL9Lf4UEAFoLsOLx8=
-			</data>
-		</dict>
-		<key>app/tns_modules/connectivity/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			OqL20JQHh8PuoIr9r2V6rAm2Jao=
-			</data>
-			<key>hash2</key>
-			<data>
-			QK8/x6NrA2Mopn0492muoaOOD0HK/uyhvZZcNptcnRg=
-			</data>
-		</dict>
-		<key>app/tns_modules/console/console.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9PFQB1AD0Se2Es6F+aALlkn2BUY=
-			</data>
-			<key>hash2</key>
-			<data>
-			fvi3duut+Ps4CHaAjcgybDmfGDPadflUkhlCfceNMQA=
-			</data>
-		</dict>
-		<key>app/tns_modules/console/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			g3SsarbgQMSPi3lREsxmmyWasU8=
-			</data>
-			<key>hash2</key>
-			<data>
-			KMvv9Mv0iBBHzhh4cv3zENtGyrksM9wBV8e5nlOSCnk=
-			</data>
-		</dict>
-		<key>app/tns_modules/css-value/index.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			NbTclJWomE4e8B/2l6Amf4K30bw=
-			</data>
-			<key>hash2</key>
-			<data>
-			9izvN2COqR86CmPX9r9cbjqCgVzXd9jBOVxLgsX9DZc=
-			</data>
-		</dict>
-		<key>app/tns_modules/css-value/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YgFxmYCBnWhxoKWU9Vcz19D7Sxw=
-			</data>
-			<key>hash2</key>
-			<data>
-			QEG2IMT3k5Tj9qEKLLRCWUsLqqvAD3AejUlgpJ100Zo=
-			</data>
-		</dict>
-		<key>app/tns_modules/css/index.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4toJYpugbAv7WgD9vsmaHhNV9gw=
-			</data>
-			<key>hash2</key>
-			<data>
-			M0bw/vAJwMU89Q3itKFh/7gBA1JCR6ZRlSdXg3PACjY=
-			</data>
-		</dict>
-		<key>app/tns_modules/css/lib/parse/index.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ikSZ9R9J7wXEI5+KXwo0eDsqL1s=
-			</data>
-			<key>hash2</key>
-			<data>
-			grB4lUeSk/0n0XUw2Y0KzVzqIgxC7Ck/Asdk/VyWMc4=
-			</data>
-		</dict>
-		<key>app/tns_modules/css/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			JcQXxvmmgSqCtVJcjSSkt8tJnCU=
-			</data>
-			<key>hash2</key>
-			<data>
-			uXp8HGSr0k4h8WHaMCFp+YeNCmyWv0z5iC0sJLUoA7I=
-			</data>
-		</dict>
-		<key>app/tns_modules/data/observable-array/observable-array.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			IxP5BQafptQlta604hCfqYeJKgA=
-			</data>
-			<key>hash2</key>
-			<data>
-			rt1OXb9SSgRZyuO6WXnnt50ZJqA4Be9/b7QjtJN+KEw=
-			</data>
-		</dict>
-		<key>app/tns_modules/data/observable-array/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			1WmH6Z6CjwYodr8h3NAwVSoLfK8=
-			</data>
-			<key>hash2</key>
-			<data>
-			OKeWHSnBhmKfRuVb4EsskOFb4yg6L0UJbAlFaKWhPts=
-			</data>
-		</dict>
-		<key>app/tns_modules/data/observable/observable.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9np9piuKvEnr/em+frw97zroA5k=
-			</data>
-			<key>hash2</key>
-			<data>
-			q+UsHGUdNVdaZKCMW6lRtvCLz16Qt5QiSwoWf7Rkk4c=
-			</data>
-		</dict>
-		<key>app/tns_modules/data/observable/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Yopa2sUAHZUyMryeWJm6NEe8nRA=
-			</data>
-			<key>hash2</key>
-			<data>
-			Ec/yJOzkhiKl9i+aWNXw8cn+ugdchrDoWJ9ua7gGnKc=
-			</data>
-		</dict>
-		<key>app/tns_modules/data/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tJmSBZASRVaEq/tfsKUXh7N8qOE=
-			</data>
-			<key>hash2</key>
-			<data>
-			v4c5Pa2v4HFiNMnR1yFpqe5OdpRYWddbacu97oUuAHE=
-			</data>
-		</dict>
-		<key>app/tns_modules/data/virtual-array/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/r52ErTshrBgO+PhmyR7hxLDYS4=
-			</data>
-			<key>hash2</key>
-			<data>
-			ssjf+kKTxZt5p0y/RYafdNIh1CE7ZrrRm/J+4KiYrM0=
-			</data>
-		</dict>
-		<key>app/tns_modules/data/virtual-array/virtual-array.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			1xrz52R20zaFWLZ7ssMU9bGQSfk=
-			</data>
-			<key>hash2</key>
-			<data>
-			p2jbi7muVTE19lIRgzVajHM21DqnLDqjHcdvrjQkVKw=
-			</data>
-		</dict>
-		<key>app/tns_modules/debugger/InspectorBackendCommands.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			N39BH6Aa90W1i3lhSUiD3isN7aY=
-			</data>
-			<key>hash2</key>
-			<data>
-			5fBuA1PExz6gbekNRNvxSR07JyojgmGk1K3pTirqlzM=
-			</data>
-		</dict>
-		<key>app/tns_modules/debugger/debugger.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			fHiyzFWdTGqtIVQnp/NS0uSMxzA=
-			</data>
-			<key>hash2</key>
-			<data>
-			7dJFHUXlw/B3x0iZWAkYrZzf3bGFOQRBt51j3694nfI=
-			</data>
-		</dict>
-		<key>app/tns_modules/debugger/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			jBXIsU6oYHhnPCgcvJ8Tc0m9OEE=
-			</data>
-			<key>hash2</key>
-			<data>
-			dZaVtBtVOAk6WY/YLiVLjTcgcqiCOlOiPzUqqY07drQ=
-			</data>
-		</dict>
-		<key>app/tns_modules/debugger/webinspector.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			DO2D43UqhC4l7xjUz22dlWVgG5k=
-			</data>
-			<key>hash2</key>
-			<data>
-			bnwlSxT6Tkoir80FZuU6VIA168Gw27YyZkldhz8Htig=
-			</data>
-		</dict>
-		<key>app/tns_modules/fetch/fetch.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			nk0GpowrGIYRbFxT2/Fv59gtwqg=
-			</data>
-			<key>hash2</key>
-			<data>
-			olzcKQW2VPnsodXW3a6dpdaarqNMKtdmqpFKblgrSbs=
-			</data>
-		</dict>
-		<key>app/tns_modules/fetch/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			jfIOBUuW72XWOZmOrf0bMJb/6os=
-			</data>
-			<key>hash2</key>
-			<data>
-			xa9WK98aRvvZ9o+PvLHMWtfkH5Q2rjTZvFDB5DS6jlk=
-			</data>
-		</dict>
-		<key>app/tns_modules/file-system/file-name-resolver.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4HLUDsQSjNcjX4pVw5MGPO5hSFo=
-			</data>
-			<key>hash2</key>
-			<data>
-			F+AQa1xlkKgERTpJ78nwWKs59YjBv2kQvz6DmbTF7ZY=
-			</data>
-		</dict>
-		<key>app/tns_modules/file-system/file-system-access.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			H9Yfhtin76e2sPqfou1BZ5qKKUc=
-			</data>
-			<key>hash2</key>
-			<data>
-			lEJUOayocmuBI/mWQM5jCCHrkw9CWkngfqPORds9htQ=
-			</data>
-		</dict>
-		<key>app/tns_modules/file-system/file-system.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			cjnRCW5l9utveiZciWznr0xXfI8=
-			</data>
-			<key>hash2</key>
-			<data>
-			ktZow3nKZ1gePiUL6Hllc+sXQ3YjjrvCrH/sD1XsCpA=
-			</data>
-		</dict>
-		<key>app/tns_modules/file-system/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			GiOBfS7H/nwfSYhk+F6vCi1lovE=
-			</data>
-			<key>hash2</key>
-			<data>
-			VYFji3IuiLcB8AlTJdPifD/7hs1L6MstcIlGyFc6Th4=
-			</data>
-		</dict>
-		<key>app/tns_modules/fps-meter/fps-meter.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			WKjoOrzTbaJktB7tvSxz+1oMDjE=
-			</data>
-			<key>hash2</key>
-			<data>
-			2GQtiO6xqkLjPuU6y9QJg67W9k4LfbClghn6c8RvWRM=
-			</data>
-		</dict>
-		<key>app/tns_modules/fps-meter/fps-native.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			sa5MUdCrK5maX+7cFE5X+89mzpk=
-			</data>
-			<key>hash2</key>
-			<data>
-			xQybpyEYmczdnlJPCF9p102KX37ONbp9YFR2lP6gy6g=
-			</data>
-		</dict>
-		<key>app/tns_modules/fps-meter/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			u1G1qtz6ti47vozC5xfdSyVyvFo=
-			</data>
-			<key>hash2</key>
-			<data>
-			YgwjKBdUmg3HmeUGjLROuEe3EI8TaO6TycN3PAyAWR4=
-			</data>
-		</dict>
-		<key>app/tns_modules/globals/decorators.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			QOaWgTOcNK+h9oor13ZMDNMd+ZA=
-			</data>
-			<key>hash2</key>
-			<data>
-			dsBOtEz32gY+Xel5bGRsl/fuPOWisvAU9POrGQlmGhM=
-			</data>
-		</dict>
-		<key>app/tns_modules/globals/globals.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			i+0JDJAGxqA4U8zIjHPopFkpw2Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			+1FiqEuV0zdRsGJNwRx+uM/Uzh7PoNyy4MAi13ImPQU=
-			</data>
-		</dict>
-		<key>app/tns_modules/globals/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			OsYutOt86lb+jF6Ojp2DS5zEyzU=
-			</data>
-			<key>hash2</key>
-			<data>
-			PZr+h0HswwefyaBQQlXWlnwOgPdXqRf4Rkq3p5Vjthk=
-			</data>
-		</dict>
-		<key>app/tns_modules/http/http-request.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			0Rt6LbHSA2AdFdBVjoFErEUPhOY=
-			</data>
-			<key>hash2</key>
-			<data>
-			utO2adgwAkI+bWB1pp8NO1wfHr0yNBqcWYrPm2sZcy4=
-			</data>
-		</dict>
-		<key>app/tns_modules/http/http.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/AWLuOTBDX6KfixvN5zNtjJohCc=
-			</data>
-			<key>hash2</key>
-			<data>
-			JAn2fCqKyWmQ1rGYZikr67anUOWshr/Q/H8GKhYVevY=
-			</data>
-		</dict>
-		<key>app/tns_modules/http/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			qBsyCaUcD/cwAhibwT0mh+imMgE=
-			</data>
-			<key>hash2</key>
-			<data>
-			08a0LDmW2ai2DbtZPA9dJpdjgaJnu/OQLBo52WQ7Jc8=
-			</data>
-		</dict>
-		<key>app/tns_modules/image-asset/image-asset-common.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zSFT2KlB0H8ugp447s0zhABS0ys=
-			</data>
-			<key>hash2</key>
-			<data>
-			7PhPz7J9c6L+nNtcRk3LM7dNT5ObzrKTR55boRToueQ=
-			</data>
-		</dict>
-		<key>app/tns_modules/image-asset/image-asset.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			iQLmb+4zUL9ZyAvkakTzXrO09PU=
-			</data>
-			<key>hash2</key>
-			<data>
-			ntPFUK3117BQlcl8c80NtqCkrTCnInS4sRoTfP9PBLk=
-			</data>
-		</dict>
-		<key>app/tns_modules/image-asset/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+lPlGZqEGIa0uuUopEWEi5Al3ds=
-			</data>
-			<key>hash2</key>
-			<data>
-			sefgrL/77EGx9xtVa5dGZ801si4HmHVnUGkSjb0QDYU=
-			</data>
-		</dict>
-		<key>app/tns_modules/image-source/image-source-common.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Z71QwW4B9SctzpZwDttjmvINyT8=
-			</data>
-			<key>hash2</key>
-			<data>
-			wfpCWCNr3SYttpigDgwEgcZg3Tvj3M1fdmhGWbdY8CY=
-			</data>
-		</dict>
-		<key>app/tns_modules/image-source/image-source.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/9LYFzyYObp7Cp5nrwWSCNdyXpM=
-			</data>
-			<key>hash2</key>
-			<data>
-			nJR8VTzghl8lmV8MO97GQlRf8HyKktJGpIyVjxkpb+U=
-			</data>
-		</dict>
-		<key>app/tns_modules/image-source/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			APQQfoqHZO/qmcHQoNw+2DcfwTY=
-			</data>
-			<key>hash2</key>
-			<data>
-			xmUueebpXhJZgqpvrsuzcuqdOmGZK3M6c9QQBihfT+c=
-			</data>
-		</dict>
-		<key>app/tns_modules/inspector_modules.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			elkeLybeWtFKG/3Etyjl+6V7w8g=
-			</data>
-			<key>hash2</key>
-			<data>
-			GmHxkuKph9oGUdTSesiMXybAIxq8RCMIHj0UH5oO6XI=
-			</data>
-		</dict>
-		<key>app/tns_modules/js-libs/easysax/easysax.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RMqsvBfoOlZc8hXECKc34SGfwY4=
-			</data>
-			<key>hash2</key>
-			<data>
-			uBjz5AmQPK1m2VA8zVsqW9uX7T9i8kMdQP17GQuczDE=
-			</data>
-		</dict>
-		<key>app/tns_modules/js-libs/easysax/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			f9SDH2+1tEkn9aT4QZcfG9PfDnY=
-			</data>
-			<key>hash2</key>
-			<data>
-			G1CEo4ljGQ2GMaqDQ+b2RtIGESFxqlAJ65gs4Zor+a0=
-			</data>
-		</dict>
-		<key>app/tns_modules/js-libs/esprima/esprima.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TlGQaXASJY5KrQh5JxYDvlrA/fs=
-			</data>
-			<key>hash2</key>
-			<data>
-			F03F/Fbbz0Iyl+ufMIFQrPERZPec6i0tptC4Nqzh7RM=
-			</data>
-		</dict>
-		<key>app/tns_modules/js-libs/esprima/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TT6xEZ0UXhWCPM7BKtT83Ofc81s=
-			</data>
-			<key>hash2</key>
-			<data>
-			L8E90/EvVyPw7RMf1jTVSUFyPRv+Oc2fsBh6Yuha8VU=
-			</data>
-		</dict>
-		<key>app/tns_modules/js-libs/polymer-expressions/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			NtKMI/feYBhr2NLji2l/eY0yXew=
-			</data>
-			<key>hash2</key>
-			<data>
-			8Zk5i2Uvv4BxTl8aHF8IwiZY280YNbC0ULcEe+aFZU0=
-			</data>
-		</dict>
-		<key>app/tns_modules/js-libs/polymer-expressions/path-parser.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			792T12FfCFSEP5yVtQtYTkY+zFg=
-			</data>
-			<key>hash2</key>
-			<data>
-			+B2HGv6zo5hBADL6dRk4ADD/uQ+ejhPG2EQfUE5ukkw=
-			</data>
-		</dict>
-		<key>app/tns_modules/js-libs/polymer-expressions/polymer-expressions.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			L29pXlPZ/9BAIWlhG+VXr/5G5Y0=
-			</data>
-			<key>hash2</key>
-			<data>
-			ACzlSI+tA2LBXuWgzeeQ14Ehjs+Z3MunUkemXeBLgfk=
-			</data>
-		</dict>
-		<key>app/tns_modules/location/location-common.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			T6OACt3HEwbwZQxR42f4isK3Y1Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			PUU057NS0WU+gvVwf9qbIZfJWADWgzH3OTN/4g8Z7hM=
-			</data>
-		</dict>
-		<key>app/tns_modules/location/location.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			iBFo6D6EqmsOskPX+Xz6S/FGQY0=
-			</data>
-			<key>hash2</key>
-			<data>
-			inEteAj/ShEVsmgiyKMc09TmViZsIpxhVGHb3YXLiZY=
-			</data>
-		</dict>
-		<key>app/tns_modules/location/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			cqrCPaHXtsiUrA6HpqPmJaaZXvc=
-			</data>
-			<key>hash2</key>
-			<data>
-			fbgmwRafRglDxVmQ2T8/puD0vAKQAKoWTrJgePnmBBY=
 			</data>
 		</dict>
 		<key>app/tns_modules/nativescript-theme-core/css/aqua.css</key>
@@ -3271,11 +2688,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SlxVhtxJvG2fV/TO/eKWshoF2ys=
+			FqAHKFiJAbruDVo82JP6+dLzbAU=
 			</data>
 			<key>hash2</key>
 			<data>
-			5I9lkdzBK/YszKtXnQl89IntFQ2XVXVXv/63rWW1uMY=
+			ib0TSTLn9xU984aUU+1xYTKHSyhqegigWy+pqU9aI+M=
 			</data>
 		</dict>
 		<key>app/tns_modules/nativescript-theme-core/readme.md</key>
@@ -4202,127 +3619,6 @@
 			WaN/yl+Xncgtnpfgl4DVmNqXYyJ5ZhXJaS5kRHA8uTM=
 			</data>
 		</dict>
-		<key>app/tns_modules/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HuZdsXtBdRXogI/ROl/slMGOizE=
-			</data>
-			<key>hash2</key>
-			<data>
-			ymIyEwij6BrWPGJEJHnSFyuzrQ6a8JcTC11QxLLu3+M=
-			</data>
-		</dict>
-		<key>app/tns_modules/platform/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			dLbkdozhbZEZ2mQ7HBT8b6NkZNw=
-			</data>
-			<key>hash2</key>
-			<data>
-			FUe0lvtXwnJmwyzJRw/PJ2tIwJHknjv6cgv4Kmq8DwE=
-			</data>
-		</dict>
-		<key>app/tns_modules/platform/platform.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			cEPV9bO+GNkIZhrxFLRrxPAR0vo=
-			</data>
-			<key>hash2</key>
-			<data>
-			edQZ4spoG0UZaKyLoVfIuh4SuGQatvSgER6rN/hwmIg=
-			</data>
-		</dict>
-		<key>app/tns_modules/text/formatted-string-common.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Ua6GWhTJk+dEIqyskbpYpVGv/yY=
-			</data>
-			<key>hash2</key>
-			<data>
-			0p7ustx3YrkKh3jW1M2jmgCL+kIwQRHdBGeIbmngF/0=
-			</data>
-		</dict>
-		<key>app/tns_modules/text/formatted-string.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			VIjT4LBXew3QnUkmVFeBpNULEXY=
-			</data>
-			<key>hash2</key>
-			<data>
-			SFzDlFcKj/M/f6dfDS7fv0zz88BKcuA10mAVISYDXT8=
-			</data>
-		</dict>
-		<key>app/tns_modules/text/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9FER/LI6aOFAPouct3utvGwfY/Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			uSFVuZzxAnoVr9pUejhaeKjEwAR9ObbE9Ywcz6b2gRw=
-			</data>
-		</dict>
-		<key>app/tns_modules/text/span-common.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aAN/y/q/u1mDaDNtDVVReK7wFt0=
-			</data>
-			<key>hash2</key>
-			<data>
-			HIY7JYIit+ug8ZJSJ1VVHGioDrLVe4Uyh9nseH8CmgA=
-			</data>
-		</dict>
-		<key>app/tns_modules/text/span.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ePI9VtPgwWeUf4sMUO/Rokkc3VE=
-			</data>
-			<key>hash2</key>
-			<data>
-			vvRD3JGJieoGk/QGaiwgz5dWXQuc1td6uHQHyN12Zvk=
-			</data>
-		</dict>
-		<key>app/tns_modules/text/text.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			PeYJmd2dvGH3OR7nC7TbgUa/deY=
-			</data>
-			<key>hash2</key>
-			<data>
-			VD2lmhJ4b2p5/J3LLVr9CthJ8UQOLQ9xnOVqqriKhlE=
-			</data>
-		</dict>
-		<key>app/tns_modules/timer/package.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			uaoaODDwQqqo1RMajY/KKeIZqrg=
-			</data>
-			<key>hash2</key>
-			<data>
-			jeNdpgUSXQAAlglPamhn3VPGh1tpU+o2fvwcBn1kw3A=
-			</data>
-		</dict>
-		<key>app/tns_modules/timer/timer.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			VxR3GiMjW7H99PSiWAu0BSKv0pE=
-			</data>
-			<key>hash2</key>
-			<data>
-			IBmfXtZvLsKdUM01d96F0dSkc19DqDgbzusa0dlstI0=
-			</data>
-		</dict>
 		<key>app/tns_modules/tns-core-modules-widgets/LICENSE</key>
 		<dict>
 			<key>hash</key>
@@ -4360,14 +3656,883 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DA4ghBBKRDko5iH9NQGsNa11ngU=
+			c+A0XqrQr2EHXciFPnBLuNJYORQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			v3ndnOj+TzS7sqLIgcjlBBOA+QY2H0TtkW903NmbIHU=
+			BGUpzY5XR4QHF9m3SZqVVDCfGY9mRgmawQ270cA801Q=
 			</data>
 		</dict>
-		<key>app/tns_modules/trace/package.json</key>
+		<key>app/tns_modules/tns-core-modules/LICENSE</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/vWN4Un0q0BjiEv2dTySQaaIJ8w=
+			</data>
+			<key>hash2</key>
+			<data>
+			3CRxicB/pMBcvvJ2VgYHCsJcpQLab0lB4S4ZjuVKUXY=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/application-settings/application-settings-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RngR2oT10HJ7bd21Q2qwyPmagcA=
+			</data>
+			<key>hash2</key>
+			<data>
+			kS3up6pO6OexOfZvzzicP82R0utI8AT5iuVRgNkhwzM=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/application-settings/application-settings.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KfSs4RkQHhIVQ8nb8gbE2QrqH5w=
+			</data>
+			<key>hash2</key>
+			<data>
+			MqF9UGhqxXB941VknaubuHpp5dhAhbxnuY3yN/VFFyw=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/application-settings/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nwKHcqYz7OGJQ1+aAfgcxbfRmqk=
+			</data>
+			<key>hash2</key>
+			<data>
+			sWW0doCACoYIMk/SVnE5inACuDGqI/ygQa800p3wdxs=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/application/application-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gf9WQRriZpqXIz/x7z/39p09Q2c=
+			</data>
+			<key>hash2</key>
+			<data>
+			Frt0Fckpj+3YJYNYUeiXCFFGVZbyNDyFxZHQQoHGqI0=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/application/application.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			R5IH0TJ4KE//CkkGuNp2UQjqspE=
+			</data>
+			<key>hash2</key>
+			<data>
+			4RJZdxG0osuvPBmOi0Jilf6SSBXJdHpC6v6pEUY1pNU=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/application/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5lxLRqUbx/oGD7u3Yqmc4KFZa9A=
+			</data>
+			<key>hash2</key>
+			<data>
+			f4K+X5StxTCRH9ItYXSpysNTSoYuUUAXU3US4TM11dw=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/bundle-entry-points.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZxbokIXI6NQGO9vMnSw+lfe+RN0=
+			</data>
+			<key>hash2</key>
+			<data>
+			DlVuY+U/htCx4ufNC9ckURYXxS+3Xarf28UlVOAksMU=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/camera/camera-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vGdPA55vm9Qr4mMDv8mC0YvXpDY=
+			</data>
+			<key>hash2</key>
+			<data>
+			RldQaHPqhrLVX9PYc7vj00BUzwC+T/kxEpyvnJhaycU=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/camera/camera.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bNVifVXAEPpRy5HXGm6HSGc/ciY=
+			</data>
+			<key>hash2</key>
+			<data>
+			xNtxOG9ee67wInWY4TAQ4HYWCVTUmtH7W607cIYZ4qM=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/camera/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			t+2kuaPVxXshN3AM2tfm34z/crU=
+			</data>
+			<key>hash2</key>
+			<data>
+			NaHsf7xAsTHXqlNuUAvCRUnos/HhOaKI9bKulNdOu+Y=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/color/color-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aUrjARPOC164fdWK2JmCC+tywNo=
+			</data>
+			<key>hash2</key>
+			<data>
+			zfIUOn6QIlxz8QK2BhZWMMMbcefga2/KGxafU/11MuA=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/color/color.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			x506JTD5SckAtgMqZl14/zSdTWg=
+			</data>
+			<key>hash2</key>
+			<data>
+			bYBt3fQAUe6IydxjAJv1rTQt7/C2/hxGdz9Mdqy3aK4=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/color/known-colors.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gSduNtNBevoa/HHZYuxm0D5HDwg=
+			</data>
+			<key>hash2</key>
+			<data>
+			0cGPqDIgfHR9XvgckTdzn9aWfeugqxsdIpLiPY8cKQw=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/color/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GrUY+J0xSDXoR29JFaX+cRjwA9E=
+			</data>
+			<key>hash2</key>
+			<data>
+			56pG/i7lVWLMn0NGyWOUJ43OmjdpDbvBA2nVPSiBN6A=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/connectivity/connectivity-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zJi1S7UT+as4MUKcoEJnTVq7rgI=
+			</data>
+			<key>hash2</key>
+			<data>
+			bC9+Bdxbwtwr1FvrQxqqFyG4aSUDr/sfr1tjtn30q3s=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/connectivity/connectivity.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pHjSboc132oDOfZEgCM+aX7/QGE=
+			</data>
+			<key>hash2</key>
+			<data>
+			AcCO7tlOS2PAEQgu72KJq14sWymL9Lf4UEAFoLsOLx8=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/connectivity/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OqL20JQHh8PuoIr9r2V6rAm2Jao=
+			</data>
+			<key>hash2</key>
+			<data>
+			QK8/x6NrA2Mopn0492muoaOOD0HK/uyhvZZcNptcnRg=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/console/console.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9PFQB1AD0Se2Es6F+aALlkn2BUY=
+			</data>
+			<key>hash2</key>
+			<data>
+			fvi3duut+Ps4CHaAjcgybDmfGDPadflUkhlCfceNMQA=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/console/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			g3SsarbgQMSPi3lREsxmmyWasU8=
+			</data>
+			<key>hash2</key>
+			<data>
+			KMvv9Mv0iBBHzhh4cv3zENtGyrksM9wBV8e5nlOSCnk=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/css-value/index.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NbTclJWomE4e8B/2l6Amf4K30bw=
+			</data>
+			<key>hash2</key>
+			<data>
+			9izvN2COqR86CmPX9r9cbjqCgVzXd9jBOVxLgsX9DZc=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/css-value/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YgFxmYCBnWhxoKWU9Vcz19D7Sxw=
+			</data>
+			<key>hash2</key>
+			<data>
+			QEG2IMT3k5Tj9qEKLLRCWUsLqqvAD3AejUlgpJ100Zo=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/css/index.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4toJYpugbAv7WgD9vsmaHhNV9gw=
+			</data>
+			<key>hash2</key>
+			<data>
+			M0bw/vAJwMU89Q3itKFh/7gBA1JCR6ZRlSdXg3PACjY=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/css/lib/parse/index.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ikSZ9R9J7wXEI5+KXwo0eDsqL1s=
+			</data>
+			<key>hash2</key>
+			<data>
+			grB4lUeSk/0n0XUw2Y0KzVzqIgxC7Ck/Asdk/VyWMc4=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/css/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JcQXxvmmgSqCtVJcjSSkt8tJnCU=
+			</data>
+			<key>hash2</key>
+			<data>
+			uXp8HGSr0k4h8WHaMCFp+YeNCmyWv0z5iC0sJLUoA7I=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/data/observable-array/observable-array.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IxP5BQafptQlta604hCfqYeJKgA=
+			</data>
+			<key>hash2</key>
+			<data>
+			rt1OXb9SSgRZyuO6WXnnt50ZJqA4Be9/b7QjtJN+KEw=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/data/observable-array/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1WmH6Z6CjwYodr8h3NAwVSoLfK8=
+			</data>
+			<key>hash2</key>
+			<data>
+			OKeWHSnBhmKfRuVb4EsskOFb4yg6L0UJbAlFaKWhPts=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/data/observable/observable.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9np9piuKvEnr/em+frw97zroA5k=
+			</data>
+			<key>hash2</key>
+			<data>
+			q+UsHGUdNVdaZKCMW6lRtvCLz16Qt5QiSwoWf7Rkk4c=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/data/observable/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Yopa2sUAHZUyMryeWJm6NEe8nRA=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ec/yJOzkhiKl9i+aWNXw8cn+ugdchrDoWJ9ua7gGnKc=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/data/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tJmSBZASRVaEq/tfsKUXh7N8qOE=
+			</data>
+			<key>hash2</key>
+			<data>
+			v4c5Pa2v4HFiNMnR1yFpqe5OdpRYWddbacu97oUuAHE=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/data/virtual-array/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/r52ErTshrBgO+PhmyR7hxLDYS4=
+			</data>
+			<key>hash2</key>
+			<data>
+			ssjf+kKTxZt5p0y/RYafdNIh1CE7ZrrRm/J+4KiYrM0=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/data/virtual-array/virtual-array.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1xrz52R20zaFWLZ7ssMU9bGQSfk=
+			</data>
+			<key>hash2</key>
+			<data>
+			p2jbi7muVTE19lIRgzVajHM21DqnLDqjHcdvrjQkVKw=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/debugger/InspectorBackendCommands.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			N39BH6Aa90W1i3lhSUiD3isN7aY=
+			</data>
+			<key>hash2</key>
+			<data>
+			5fBuA1PExz6gbekNRNvxSR07JyojgmGk1K3pTirqlzM=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/debugger/debugger.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fHiyzFWdTGqtIVQnp/NS0uSMxzA=
+			</data>
+			<key>hash2</key>
+			<data>
+			7dJFHUXlw/B3x0iZWAkYrZzf3bGFOQRBt51j3694nfI=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/debugger/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jBXIsU6oYHhnPCgcvJ8Tc0m9OEE=
+			</data>
+			<key>hash2</key>
+			<data>
+			dZaVtBtVOAk6WY/YLiVLjTcgcqiCOlOiPzUqqY07drQ=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/debugger/webinspector.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PdgyRzkdWWALKXWuxQqSLl2T2Ps=
+			</data>
+			<key>hash2</key>
+			<data>
+			YbO9Natueu9xQLMqcV2OqJXg9w31xaIOWl6oHrhfOuI=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/fetch/fetch.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nk0GpowrGIYRbFxT2/Fv59gtwqg=
+			</data>
+			<key>hash2</key>
+			<data>
+			olzcKQW2VPnsodXW3a6dpdaarqNMKtdmqpFKblgrSbs=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/fetch/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jfIOBUuW72XWOZmOrf0bMJb/6os=
+			</data>
+			<key>hash2</key>
+			<data>
+			xa9WK98aRvvZ9o+PvLHMWtfkH5Q2rjTZvFDB5DS6jlk=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/file-system/file-name-resolver.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ygmhPm+IXWFELUNf3M+fJkW99hI=
+			</data>
+			<key>hash2</key>
+			<data>
+			34rjkVrmr7zXD1nYsfCKYo0sfPWzxIp2FGaAAuLPA98=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/file-system/file-system-access.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			H9Yfhtin76e2sPqfou1BZ5qKKUc=
+			</data>
+			<key>hash2</key>
+			<data>
+			lEJUOayocmuBI/mWQM5jCCHrkw9CWkngfqPORds9htQ=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/file-system/file-system.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cjnRCW5l9utveiZciWznr0xXfI8=
+			</data>
+			<key>hash2</key>
+			<data>
+			ktZow3nKZ1gePiUL6Hllc+sXQ3YjjrvCrH/sD1XsCpA=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/file-system/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GiOBfS7H/nwfSYhk+F6vCi1lovE=
+			</data>
+			<key>hash2</key>
+			<data>
+			VYFji3IuiLcB8AlTJdPifD/7hs1L6MstcIlGyFc6Th4=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/fps-meter/fps-meter.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WKjoOrzTbaJktB7tvSxz+1oMDjE=
+			</data>
+			<key>hash2</key>
+			<data>
+			2GQtiO6xqkLjPuU6y9QJg67W9k4LfbClghn6c8RvWRM=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/fps-meter/fps-native.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sa5MUdCrK5maX+7cFE5X+89mzpk=
+			</data>
+			<key>hash2</key>
+			<data>
+			xQybpyEYmczdnlJPCF9p102KX37ONbp9YFR2lP6gy6g=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/fps-meter/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			u1G1qtz6ti47vozC5xfdSyVyvFo=
+			</data>
+			<key>hash2</key>
+			<data>
+			YgwjKBdUmg3HmeUGjLROuEe3EI8TaO6TycN3PAyAWR4=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/globals/decorators.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QOaWgTOcNK+h9oor13ZMDNMd+ZA=
+			</data>
+			<key>hash2</key>
+			<data>
+			dsBOtEz32gY+Xel5bGRsl/fuPOWisvAU9POrGQlmGhM=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/globals/globals.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			i+0JDJAGxqA4U8zIjHPopFkpw2Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			+1FiqEuV0zdRsGJNwRx+uM/Uzh7PoNyy4MAi13ImPQU=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/globals/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OsYutOt86lb+jF6Ojp2DS5zEyzU=
+			</data>
+			<key>hash2</key>
+			<data>
+			PZr+h0HswwefyaBQQlXWlnwOgPdXqRf4Rkq3p5Vjthk=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/http/http-request.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lI+DWwhvvBOjKjkQCiOysK8hH1Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			FqNigKyFa3pddK1ze5A/Vpb4D+jJD0oIY5NlJcAJuuQ=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/http/http.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/AWLuOTBDX6KfixvN5zNtjJohCc=
+			</data>
+			<key>hash2</key>
+			<data>
+			JAn2fCqKyWmQ1rGYZikr67anUOWshr/Q/H8GKhYVevY=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/http/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qBsyCaUcD/cwAhibwT0mh+imMgE=
+			</data>
+			<key>hash2</key>
+			<data>
+			08a0LDmW2ai2DbtZPA9dJpdjgaJnu/OQLBo52WQ7Jc8=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/image-asset/image-asset-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Nca3htLqasdXWZAcirevop6XiHM=
+			</data>
+			<key>hash2</key>
+			<data>
+			a1EnmHCZ2P+8SQ+e3ATSvxvC9bhXQtilQTpM9vzw8UU=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/image-asset/image-asset.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iQLmb+4zUL9ZyAvkakTzXrO09PU=
+			</data>
+			<key>hash2</key>
+			<data>
+			ntPFUK3117BQlcl8c80NtqCkrTCnInS4sRoTfP9PBLk=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/image-asset/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+lPlGZqEGIa0uuUopEWEi5Al3ds=
+			</data>
+			<key>hash2</key>
+			<data>
+			sefgrL/77EGx9xtVa5dGZ801si4HmHVnUGkSjb0QDYU=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/image-source/image-source-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Z71QwW4B9SctzpZwDttjmvINyT8=
+			</data>
+			<key>hash2</key>
+			<data>
+			wfpCWCNr3SYttpigDgwEgcZg3Tvj3M1fdmhGWbdY8CY=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/image-source/image-source.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			trJlDGnNeZ5gkOeHyY5PUYn8T18=
+			</data>
+			<key>hash2</key>
+			<data>
+			Nm4haAUzzyFBX8VM255GfI5GCMaiEFzHCKuEXhujB6c=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/image-source/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			APQQfoqHZO/qmcHQoNw+2DcfwTY=
+			</data>
+			<key>hash2</key>
+			<data>
+			xmUueebpXhJZgqpvrsuzcuqdOmGZK3M6c9QQBihfT+c=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/inspector_modules.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			elkeLybeWtFKG/3Etyjl+6V7w8g=
+			</data>
+			<key>hash2</key>
+			<data>
+			GmHxkuKph9oGUdTSesiMXybAIxq8RCMIHj0UH5oO6XI=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/js-libs/easysax/easysax.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RMqsvBfoOlZc8hXECKc34SGfwY4=
+			</data>
+			<key>hash2</key>
+			<data>
+			uBjz5AmQPK1m2VA8zVsqW9uX7T9i8kMdQP17GQuczDE=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/js-libs/easysax/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			f9SDH2+1tEkn9aT4QZcfG9PfDnY=
+			</data>
+			<key>hash2</key>
+			<data>
+			G1CEo4ljGQ2GMaqDQ+b2RtIGESFxqlAJ65gs4Zor+a0=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/js-libs/esprima/esprima.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TlGQaXASJY5KrQh5JxYDvlrA/fs=
+			</data>
+			<key>hash2</key>
+			<data>
+			F03F/Fbbz0Iyl+ufMIFQrPERZPec6i0tptC4Nqzh7RM=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/js-libs/esprima/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TT6xEZ0UXhWCPM7BKtT83Ofc81s=
+			</data>
+			<key>hash2</key>
+			<data>
+			L8E90/EvVyPw7RMf1jTVSUFyPRv+Oc2fsBh6Yuha8VU=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/js-libs/polymer-expressions/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NtKMI/feYBhr2NLji2l/eY0yXew=
+			</data>
+			<key>hash2</key>
+			<data>
+			8Zk5i2Uvv4BxTl8aHF8IwiZY280YNbC0ULcEe+aFZU0=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/js-libs/polymer-expressions/path-parser.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			792T12FfCFSEP5yVtQtYTkY+zFg=
+			</data>
+			<key>hash2</key>
+			<data>
+			+B2HGv6zo5hBADL6dRk4ADD/uQ+ejhPG2EQfUE5ukkw=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/js-libs/polymer-expressions/polymer-expressions.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			L29pXlPZ/9BAIWlhG+VXr/5G5Y0=
+			</data>
+			<key>hash2</key>
+			<data>
+			ACzlSI+tA2LBXuWgzeeQ14Ehjs+Z3MunUkemXeBLgfk=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/location/location-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			T6OACt3HEwbwZQxR42f4isK3Y1Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			PUU057NS0WU+gvVwf9qbIZfJWADWgzH3OTN/4g8Z7hM=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/location/location.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iBFo6D6EqmsOskPX+Xz6S/FGQY0=
+			</data>
+			<key>hash2</key>
+			<data>
+			inEteAj/ShEVsmgiyKMc09TmViZsIpxhVGHb3YXLiZY=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/location/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cqrCPaHXtsiUrA6HpqPmJaaZXvc=
+			</data>
+			<key>hash2</key>
+			<data>
+			fbgmwRafRglDxVmQ2T8/puD0vAKQAKoWTrJgePnmBBY=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rb7ahWyo0i+VtlKQ9R0jFXnmFN0=
+			</data>
+			<key>hash2</key>
+			<data>
+			7Y+3UalAfH/luI8KRScOztXm8ZF4zCrTtV3fv+ki1tY=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/platform/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dLbkdozhbZEZ2mQ7HBT8b6NkZNw=
+			</data>
+			<key>hash2</key>
+			<data>
+			FUe0lvtXwnJmwyzJRw/PJ2tIwJHknjv6cgv4Kmq8DwE=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/platform/platform.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eX2KvkEGd7dDO45DwhQLMaNhTxo=
+			</data>
+			<key>hash2</key>
+			<data>
+			7C0GwDs5gPaVFy0BgGwGR9HMSkWm21VZsZkG/12eetY=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/text/formatted-string-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ua6GWhTJk+dEIqyskbpYpVGv/yY=
+			</data>
+			<key>hash2</key>
+			<data>
+			0p7ustx3YrkKh3jW1M2jmgCL+kIwQRHdBGeIbmngF/0=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/text/formatted-string.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VIjT4LBXew3QnUkmVFeBpNULEXY=
+			</data>
+			<key>hash2</key>
+			<data>
+			SFzDlFcKj/M/f6dfDS7fv0zz88BKcuA10mAVISYDXT8=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/text/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9FER/LI6aOFAPouct3utvGwfY/Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			uSFVuZzxAnoVr9pUejhaeKjEwAR9ObbE9Ywcz6b2gRw=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/text/span-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aAN/y/q/u1mDaDNtDVVReK7wFt0=
+			</data>
+			<key>hash2</key>
+			<data>
+			HIY7JYIit+ug8ZJSJ1VVHGioDrLVe4Uyh9nseH8CmgA=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/text/span.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ePI9VtPgwWeUf4sMUO/Rokkc3VE=
+			</data>
+			<key>hash2</key>
+			<data>
+			vvRD3JGJieoGk/QGaiwgz5dWXQuc1td6uHQHyN12Zvk=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/text/text.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PeYJmd2dvGH3OR7nC7TbgUa/deY=
+			</data>
+			<key>hash2</key>
+			<data>
+			VD2lmhJ4b2p5/J3LLVr9CthJ8UQOLQ9xnOVqqriKhlE=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/timer/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uaoaODDwQqqo1RMajY/KKeIZqrg=
+			</data>
+			<key>hash2</key>
+			<data>
+			jeNdpgUSXQAAlglPamhn3VPGh1tpU+o2fvwcBn1kw3A=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/timer/timer.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			H38IkIFHPAQbLy0sZPci8vjLQuk=
+			</data>
+			<key>hash2</key>
+			<data>
+			B6j4adNn7GynS+HOLENeIKM9r/pVNW9HdNstngXE+50=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/trace/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4378,7 +4543,7 @@
 			mdyqw37AFWd6nT4eqjCxSa0YfTUL9yT8x+xj7oWgzqw=
 			</data>
 		</dict>
-		<key>app/tns_modules/trace/trace.js</key>
+		<key>app/tns_modules/tns-core-modules/trace/trace.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4389,7 +4554,7 @@
 			PyxRA6wQbjzvX/yLpd50/j6K0ttCXDKScguHTaJ29f4=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/action-bar/action-bar-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/action-bar/action-bar-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4400,7 +4565,7 @@
 			fY/TJi+ugKFVkM4dck/q6iHx638u3J09lAnrcf4WBqk=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/action-bar/action-bar.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/action-bar/action-bar.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4411,7 +4576,7 @@
 			tr9nN60guf6v0ekngrwbYS9aP1x/LJE6dgmUu9y9UyQ=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/action-bar/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/action-bar/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4422,7 +4587,7 @@
 			5kMSm6yxys6pAKh6wPFXSYTRHwLcPbHn/woYKgmZb1g=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/activity-indicator/activity-indicator-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/activity-indicator/activity-indicator-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4433,7 +4598,7 @@
 			8fWtT+FH9ezr4H91QSexSvUnhzYzwl8BPXxT5ukh+Kg=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/activity-indicator/activity-indicator.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/activity-indicator/activity-indicator.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4444,7 +4609,7 @@
 			Dv+Jau4jU+1MY16gl1NX+qI4fLHkkw57Oky5Zj0eSRM=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/activity-indicator/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/activity-indicator/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4455,7 +4620,7 @@
 			sfb/+9WtODaJ7OGCfEzT44vFNeHMKHGptL9iS9eHEcQ=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/animation/animation-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/animation/animation-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4466,7 +4631,7 @@
 			CD5RYsaaeoPGVstxrg4gCmeM76swTSYalISN6SRAySA=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/animation/animation.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/animation/animation.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4477,7 +4642,7 @@
 			6AmnB9OuffywzRBPDfL/jgK9J/BnvHHMEy6jR1SCJVQ=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/animation/keyframe-animation.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/animation/keyframe-animation.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4488,7 +4653,7 @@
 			SeDHihjx3+/WQGxLQ0cBKxNteatOtVPxD2R0K1k4ig0=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/animation/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/animation/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4499,7 +4664,7 @@
 			9clKnZkbWUVC1bgGURV86Op7FWrmtqnBDWMAruw6zLk=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/border/border.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/border/border.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4510,7 +4675,7 @@
 			cw/3wK0K07VAwCnLnEEeR83o7kzVPWpQ4TwJeCAuE2A=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/border/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/border/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4521,7 +4686,7 @@
 			8qzU3YCOcUi9GuJGfgtOwMuMV1P5BL4y+cFzvh7TbWs=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/builder/binding-builder.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/builder/binding-builder.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4532,18 +4697,18 @@
 			k2sr0A4j7jPSp/AsUBfInK3bA3b60j9IiTWomKFnkEM=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/builder/builder.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/builder/builder.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jhFT4LsIJNIiv5W/EHmaiU27FYk=
+			qCsSWN80MMl8VEVdYFprVSFEL+M=
 			</data>
 			<key>hash2</key>
 			<data>
-			rkLTpK42Nvg2U9LWwkYk8DaDHmeVJrGf4fSszN3NWh8=
+			EzF6tGRoS3Cxth3zCLdBPEA+6Y2SxATEmhlfJSKpvHc=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/builder/component-builder.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/builder/component-builder.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4554,7 +4719,7 @@
 			Jkgsl4hzqtODCD1vLcEdId63dChQ77/8DoOZj7YX8CY=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/builder/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/builder/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4565,7 +4730,7 @@
 			WO5L2qPAzJTaJlSKZpgAqswLL6YRvo09Ulk/YencMKw=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/builder/special-properties.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/builder/special-properties.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4576,7 +4741,7 @@
 			AJMXw9vQs0aFeIhtCnCDy+tCts6OfpZTWLIjtX/oejM=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/button/button-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/button/button-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4587,7 +4752,7 @@
 			U8kWkzS6U448w66GkzO+ClgSWfwrMCcKB29hqQHMfl8=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/button/button.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/button/button.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4598,7 +4763,7 @@
 			CBDvOEX4pluP2m2DvnTCbWJLEbFp+LlQhg1Gm6LuLfc=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/button/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/button/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4609,7 +4774,7 @@
 			EN63nzktqlt6Zk/vrON8mYdeJWfjzoar+qpWo3wwvz0=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/content-view/content-view.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/content-view/content-view.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4620,7 +4785,7 @@
 			ud5QNVXFo17819foSenlz7aLQjBcKhEKau6WuiTHfco=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/content-view/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/content-view/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4631,7 +4796,7 @@
 			yq7JOBuy9Iuyv9DbFXpLXO79eikUF+QhSSwzW2Jukks=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/core/bindable.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/core/bindable.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4642,7 +4807,7 @@
 			SkU2aGE98RP8rqMZbu9jmGweCReP89v/pBxRNCNil/g=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/core/control-state-change.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/core/control-state-change.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4653,7 +4818,7 @@
 			2lygcDZUUZaPpW9iGfS85F4SP05auVwk8ZGYMI0po50=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/core/dependency-observable.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/core/dependency-observable.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4664,7 +4829,7 @@
 			w2z3rKYuKppoXtwzHXPZRSqh/vTgwiFZN0RLC9YjO0c=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/core/proxy.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/core/proxy.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4675,7 +4840,7 @@
 			zm0NmDyKjnwpzUiiQJmR72PqIkPYS36dCxRFm/fnHgo=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/core/view-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/core/view-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4686,18 +4851,18 @@
 			7BQ5dWV7FKveqYnppEB4wRUCzvTOwcrexu+FY+Vp4uE=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/core/view.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/core/view.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DikD748nI4AKrU7aof4/Q8sxSdk=
+			SCurDc3JnzDz0rroc6bosRQVxw0=
 			</data>
 			<key>hash2</key>
 			<data>
-			QhNsuf8LME9oFB44NNHHrhPZEJtmO8iDjQi16l1PfrU=
+			chhcBb9iVrphOeBdqV6nHmGoGZsaF9QMzoY832BrOec=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/core/weak-event-listener.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/core/weak-event-listener.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4708,7 +4873,7 @@
 			vOmYQiVEoy/yIMsDwV2PPcfIkywBFVayQuPx9NDWQas=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/date-picker/date-picker-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/date-picker/date-picker-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4719,7 +4884,7 @@
 			pL7g+ehVZyu4sODjP7Vq/XvAuzCEqNOW8x02JPRhWEw=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/date-picker/date-picker.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/date-picker/date-picker.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4730,7 +4895,7 @@
 			PRdhXiOR4M7/Y76BYMOlLVclYxCQH7dCb8S7l82shPs=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/date-picker/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/date-picker/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4741,18 +4906,18 @@
 			A5ivEEwCz5JGfLSxJ9jR0H/jHCf+xV5YuOfrWMRjJWk=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/dialogs/dialogs-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/dialogs/dialogs-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GcDDS2Oohhz9YQfuso3FBR2amgs=
+			F+VWwQU6yVhmRjyf0HREiWZAO94=
 			</data>
 			<key>hash2</key>
 			<data>
-			YN/ai4X8O886zG3UAjS2Q0we2eV5y0BwGfEq+Iwk5ak=
+			DzhCqVX3C0xfPN/gxKc9hrgUXG5Z1axOssfjFnUNiEI=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/dialogs/dialogs.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/dialogs/dialogs.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4763,7 +4928,7 @@
 			qB5MVbplrjDVAKBwBrWIXsOorOgYpDW9WNXbxPXw4kc=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/dialogs/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/dialogs/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4774,7 +4939,7 @@
 			3KC8QHpV7Lckc8Fe+vjRCkR0T2lR4jAppGoAuegoZVw=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/editable-text-base/editable-text-base-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/editable-text-base/editable-text-base-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4785,7 +4950,7 @@
 			xgPWPKUxjwMqUO7PaIpkKtoRIRYiaxxHkOJMIoN+G+g=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/editable-text-base/editable-text-base.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/editable-text-base/editable-text-base.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4796,7 +4961,7 @@
 			updhCqwiOzZiJzwTRg7kLuPUR0Za36wLcfP/u8up93Y=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/editable-text-base/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/editable-text-base/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4807,18 +4972,18 @@
 			QZVtn831n95Fwt0KdfVk6bMhXMPTFJQXTp7qGUndiHg=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/enums/enums.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/enums/enums.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cfhDhqmd92Sy6e98DSpZLbaCWPU=
+			yuqE+BGXg4D96pfmF0I8qzjbRGE=
 			</data>
 			<key>hash2</key>
 			<data>
-			NmUo/2erteFVrEgRxoEk8ZH88VCzso35fFbmSapVBWY=
+			jkIvqdZBXgipsUGy8wMRkh4cyoVkB2ER+DHS63Qpa+Q=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/enums/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/enums/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4829,29 +4994,29 @@
 			T4ZZLyFtclVrO0uTkN6L8CBLEol/bCA9hwHjmXFSrtM=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/frame/frame-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/frame/frame-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kUJGH9PulTBRcweq7Y1gZRqirMk=
+			mrK45Fc7oEgAnrrWU9ALJoId0is=
 			</data>
 			<key>hash2</key>
 			<data>
-			WjOu+bJtRRtE1s7nGlodCuY7bWc/ys+NTGtg0tOv6og=
+			a0spKqJfo37622t6KyK2czvdRaxi0Uu1JLCsPB3TtIg=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/frame/frame.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/frame/frame.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eyfiVXGSq9ixF2OLL1i9x0ELW8s=
+			+3yLfoqxNd9mX8GhRje/WE/IuNU=
 			</data>
 			<key>hash2</key>
 			<data>
-			FLtHaXdF6Fj/ScbqEHtHN4n7YKSYuUa8Db2n9Dd/TmQ=
+			qKHwjLEt6ERo2+rSl37uFapOakMrxZKvF0ge9DDEZ74=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/frame/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/frame/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4862,7 +5027,7 @@
 			lTaFWJkk3ySvbZdeEs3hmRP89uhmjCjZ4DWN4tVbj6k=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/gestures/gestures-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/gestures/gestures-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4873,7 +5038,7 @@
 			nlIRR7Uv/MCivhxNbJ+67d3+WHFokG9mEXcKTzhvEkM=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/gestures/gestures.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/gestures/gestures.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4884,7 +5049,7 @@
 			nHSR8Iu/Kfwy/Ttb9iDjuNopM/5/6jPYoMRlyAXgGzA=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/gestures/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/gestures/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4895,7 +5060,7 @@
 			swwA8ZenJoaTnNxx2eyKlETvRWvPk7RAyJtM9eWtK8E=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/html-view/html-view-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/html-view/html-view-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4906,7 +5071,7 @@
 			xr7ZZak8x4ptRaLGij9rwkKtRgDYIeUwAbr01iJsFQc=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/html-view/html-view.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/html-view/html-view.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4917,7 +5082,7 @@
 			YG9ACfezNhiXzHiLuSnY8a339AKSWFR8fhoBKBw7Z/8=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/html-view/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/html-view/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4928,7 +5093,7 @@
 			gcDpqi3Cm5qr95atpE8DHd8V1ltVg0cbBCoP0PGdO5w=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/image-cache/image-cache-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/image-cache/image-cache-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4939,7 +5104,7 @@
 			//j790AukhkR32HrSBTqlFZxbjKkbUWsMg2k/sUGdo8=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/image-cache/image-cache.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/image-cache/image-cache.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4950,7 +5115,7 @@
 			LUK9kIATrcPFpWhd8ers4GaNoSxyc4uYvJdVqzePgqM=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/image-cache/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/image-cache/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4961,7 +5126,7 @@
 			KtnyVruaOpbvlhhB0lhM82d0PYprPF1/j3s7oJDjGEI=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/image/image-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/image/image-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4972,7 +5137,7 @@
 			RRenu0HXfFW9inX0/p+nz69MuBhGqLuR78vbjn2UOm0=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/image/image.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/image/image.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4983,7 +5148,7 @@
 			8S14U+w745KpXFXoTqrUltD3lVNtprW+iCokQkDzwh0=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/image/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/image/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -4994,7 +5159,7 @@
 			CUyKZDREtrKc+YdD929BFrHxIrnCXVpfD9VgqUjiX5I=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/label/label-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/label/label-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5005,7 +5170,7 @@
 			MPNk+NIW4Z+RIwgL4t9ik6h1HCg3bF/uRV6dLdnCdSo=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/label/label.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/label/label.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5016,7 +5181,7 @@
 			5Wsig+6YtbGvKI2qe78vuFTizkrjixFkLvYXtVW7In4=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/label/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/label/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5027,7 +5192,7 @@
 			0fVxITjWkGTbwl8QjYfKz428kSn8FkLrusZRUA+cRjQ=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/layouts/absolute-layout/absolute-layout-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/absolute-layout/absolute-layout-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5038,7 +5203,7 @@
 			YuIuwuttDEEfJnmtc2a4IgDfFv/NBUL6gqXk5XkFOWs=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/layouts/absolute-layout/absolute-layout.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/absolute-layout/absolute-layout.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5049,7 +5214,7 @@
 			fNc7vTww32lpO3WEMIQ+Fj3sWFuy8uE2FNKQPHQZ65U=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/layouts/absolute-layout/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/absolute-layout/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5060,7 +5225,7 @@
 			HzWRqlTbJANt0Gyz/oSOIvh2m1JPLzlaYeNzX4wwplo=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/layouts/dock-layout/dock-layout-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/dock-layout/dock-layout-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5071,7 +5236,7 @@
 			zzexL7MKy1a8loWEe8INnUSB7afyCgZBr8ZG6dOQueg=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/layouts/dock-layout/dock-layout.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/dock-layout/dock-layout.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5082,7 +5247,7 @@
 			2jGpuJWs/J3GaPF5JCCs6ijuKE6oCQE4Qyzzxi/R9yQ=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/layouts/dock-layout/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/dock-layout/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5093,7 +5258,7 @@
 			JlbKMU9zyLSxuspjSjStPx9NJABhJEp6fJ3h9OL2Xts=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/layouts/flexbox-layout/flexbox-layout-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/flexbox-layout/flexbox-layout-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5104,18 +5269,18 @@
 			23WgMPZCORcsbFEwwnMRsdZH1XUWo2b5ALQTnP6D6Ao=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/layouts/flexbox-layout/flexbox-layout.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/flexbox-layout/flexbox-layout.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zIlgJdCFMbB1X7CrVw9Zcm5SGMQ=
+			CFvmVEFjMxmpoo3EA0ioPIk9Fzs=
 			</data>
 			<key>hash2</key>
 			<data>
-			kIA0XDSIQRtXU0vee7S7TOF00szZexitQzxg5O2fKlM=
+			z7EB9+qFXeAYT8+LTbKWPDHR1817orTQ5uFcEP7wAIg=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/layouts/flexbox-layout/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/flexbox-layout/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5126,7 +5291,7 @@
 			hSm7R7Bire+DZ5gvvjCxC97SUCSrM1iiC9JeR7uVE2k=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/layouts/grid-layout/grid-layout-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/grid-layout/grid-layout-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5137,7 +5302,7 @@
 			d6tZtY/rjG/mHveBPtgES4m/Nb3YdOIUW0Y6MPFaqsc=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/layouts/grid-layout/grid-layout.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/grid-layout/grid-layout.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5148,7 +5313,7 @@
 			+QLA8/PIXsV8HjQaxyhOAtJpcFoblmEbNJ3cLo0LALA=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/layouts/grid-layout/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/grid-layout/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5159,7 +5324,7 @@
 			FYXDQ4uktnQ+E+AvbqtdtZ4WyyNYdi66KLOTeUHyugs=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/layouts/layout-base-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/layout-base-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5170,7 +5335,7 @@
 			61kYsnYN2rvMGIcNsXk/A/wj3D0TQZNg8UXwCG7u0cI=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/layouts/layout-base.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/layout-base.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5181,7 +5346,7 @@
 			yoIIuQjHw5e7E4NTnYz2r2RmTEKXX0P2ZWveUzkk9rE=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/layouts/layout.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/layout.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5192,7 +5357,7 @@
 			l/m2F5FkZE/t4QBj0haDB/1seRODTvK8jpKXFI++7WQ=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/layouts/stack-layout/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/stack-layout/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5203,7 +5368,7 @@
 			GWRa6V1UOF/0oNSlQ74KFEMdTNXqKLru3k7cZvGvHWo=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/layouts/stack-layout/stack-layout-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/stack-layout/stack-layout-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5214,7 +5379,7 @@
 			bsmmT0jHzS3ZVoA0ZoQ8OSrwsWDOGyo5pZ4MYgaKPwA=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/layouts/stack-layout/stack-layout.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/stack-layout/stack-layout.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5225,7 +5390,7 @@
 			J3eXRHxMDG0Yjm+UZeJx54R4avIgIh869JjK/JdVQOg=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/layouts/wrap-layout/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/wrap-layout/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5236,7 +5401,7 @@
 			O9yDoobft5SefD4nJpxjxLUPeEaVLRxFjkPgoa0kIds=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/layouts/wrap-layout/wrap-layout-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/wrap-layout/wrap-layout-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5247,7 +5412,7 @@
 			6hCHXO8cJK6a+z40uQOhxZYu3ejsVzslv0YnyXW9gzA=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/layouts/wrap-layout/wrap-layout.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/layouts/wrap-layout/wrap-layout.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5258,7 +5423,7 @@
 			m4h0/OYF8pIRwb4Q7vTMymnZOeJYivz7ZZNcpM5NagI=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/list-picker/list-picker-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/list-picker/list-picker-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5269,18 +5434,18 @@
 			tDu3VqG+z4oSpwdv0nGoAUO46AwCuxb2+oy4fqBwngs=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/list-picker/list-picker.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/list-picker/list-picker.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6zuPSWNWgZe77T+pfPXSU732Atw=
+			jAxpS5U6CpcWXk6EMShO9V7rHgc=
 			</data>
 			<key>hash2</key>
 			<data>
-			MDRe0LO4R1HOmi+xnamqEyvK3vH/canYWTTuR60nTn0=
+			cKPwwdnE2UiNWfC6pN1BmYfKlOyz9jgsZVeUesqsFF0=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/list-picker/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/list-picker/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5291,29 +5456,29 @@
 			7ddojBGLL8mQ6cp2DsszsAHLbvMBpTRza1x5wrjwhJ8=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/list-view/list-view-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/list-view/list-view-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bKaKkbLho5UX3sYyXQdu4rq0qpA=
+			3wMUslS53fSBAg9aIeCINFVZHkU=
 			</data>
 			<key>hash2</key>
 			<data>
-			YAIxbRr+yriIPWtHTi2QAJprhDp7Y9Nj2LYvFxg/9uo=
+			pKQqPFY/WhfOP4To8djL2LUGxwZs+kPEWWrRVyy4C9g=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/list-view/list-view.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/list-view/list-view.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OOsdg1wlbpwCoLKe166TrU+1JuY=
+			dNDHxgjZ0UDy43DDpcnId+gIQEY=
 			</data>
 			<key>hash2</key>
 			<data>
-			gT907J7jJ5JrZ6Cy1qlWnKxCpCP+TGDroi413L9Bf3c=
+			rEJVwkq9fIg300Fju7XGXC21U9rlB1ZgLEiqwG7KT3w=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/list-view/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/list-view/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5324,7 +5489,7 @@
 			SvQrbNR5a6fl9D2ELeF1UuhciKJVfILoQL0s/d/y480=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5335,7 +5500,7 @@
 			Z7SEbzYkwx2vqhkK2SpkgxYW1m+TtBErGBVyjyFthGI=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/page/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/page/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5346,29 +5511,29 @@
 			eUIRbyshEOZkJz4fpM93/efFTeUaljBoRqX4g2+/iZk=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/page/page-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/page/page-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+NJcg5OAeKI5D+LYYNIiykWoOBo=
+			H5OOYodY9LazozlqnzyRDv8USFU=
 			</data>
 			<key>hash2</key>
 			<data>
-			RqSNCNl7Pd3XI4zGaWAKjFbuy4w3/5XeSoh6XGSYkP8=
+			dGqkRbmW++8WeufC+1C8GsMXzN6oKwogCP6HYbkUuCs=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/page/page.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/page/page.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			380H0yLUPSGPiXJNOwRxail76q4=
+			g0UwXHSMLUmsFIfNTgaXHJWaHW8=
 			</data>
 			<key>hash2</key>
 			<data>
-			RdOH2BHdLvYspMdop0rCJ/yGLDPfHOpWjnStaWfYqrM=
+			rIq97fqnX4pagQcTF6pVMbxJYfM3HWgfziVMo2kMMl4=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/placeholder/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/placeholder/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5379,7 +5544,7 @@
 			0L+rC9jCHJdcJ9Uvh8qRpd4vmnbyKyOZTdpulp//SYM=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/placeholder/placeholder-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/placeholder/placeholder-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5390,7 +5555,7 @@
 			yEvryHU4Sy5l8XlhMb/t/0XJ6hKNzVhG86e9UVXbBLA=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/placeholder/placeholder.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/placeholder/placeholder.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5401,7 +5566,7 @@
 			eGjwwP9SKJ9wObqGLTSLtF6zFkSNAgmubKcj5YTyw1w=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/progress/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/progress/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5412,7 +5577,7 @@
 			DyFIt92eyGehNS7fXUAZIvvagfC0cRREMDUkS3cRSdk=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/progress/progress-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/progress/progress-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5423,7 +5588,7 @@
 			M5v/LhljhPVmHU6rvm4jgQER9vdaf3Sbl/rGSujz7xE=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/progress/progress.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/progress/progress.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5434,7 +5599,7 @@
 			bg8hUPHYZvG8YBaidfhfQoEYP0ZPGUP4tomTuUiCHfc=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/proxy-view-container/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/proxy-view-container/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5445,18 +5610,18 @@
 			bbaXQ4wgdXtDAt/qi8DU8E4jiZ0MPTuulqcbsd7EsNM=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/proxy-view-container/proxy-view-container.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/proxy-view-container/proxy-view-container.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZHnbs6GDBG//cGjF0R1UeQ0Avm4=
+			6TGX3ru8PfpkPaOwrFn7f1M37Hw=
 			</data>
 			<key>hash2</key>
 			<data>
-			MuQ3jeTQsC7hfe/6d6/ByA4Ba9DH3FyKbXwoPzCKS7k=
+			LqNGJaiD19oUbbFok4hcedeb+yMr7lLFfbuYWOK4GNM=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/repeater/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/repeater/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5467,7 +5632,7 @@
 			RIn5Fpki1ziRG0Hb8cULHDTmGZBm/InczrJ464znACI=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/repeater/repeater.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/repeater/repeater.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5478,7 +5643,7 @@
 			dyyvAZHK28MgRmJCAwxfFZH0HMNiAA2lfjVVyXLnjCU=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/scroll-view/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/scroll-view/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5489,7 +5654,7 @@
 			LU/0BdOsoH7BpYBHy6K18z0WQyyfMzeuOHbc9+jmFzI=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/scroll-view/scroll-view-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/scroll-view/scroll-view-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5500,7 +5665,7 @@
 			sB3BgcJ3jFo7Fk50Lr3yyiKtMbpXASzVBYLyBqfWol4=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/scroll-view/scroll-view.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/scroll-view/scroll-view.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5511,7 +5676,7 @@
 			7BtDCNAwtROjMZfWhsHAuiD+NHYbns/E3pAsWEEWR1M=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/search-bar/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/search-bar/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5522,7 +5687,7 @@
 			RNNfRfPWE0qrNY8yz9hd9EU3Pouh87j9c5L3mQrZW6Q=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/search-bar/search-bar-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/search-bar/search-bar-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5533,7 +5698,7 @@
 			7BxjKjHe8C8j5O+g5fwTubUIu7n2rUOxvgi+FEYISoE=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/search-bar/search-bar.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/search-bar/search-bar.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5544,7 +5709,7 @@
 			SV5y7ufJRQj/DmOmvW7Xoh+iL56P2psZZwmX/5qUNEA=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/segmented-bar/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/segmented-bar/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5555,18 +5720,18 @@
 			bDqVcN0mAcZUqqdtAe9zjM5ALeS1oi6aUgukAQPxXGE=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/segmented-bar/segmented-bar-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/segmented-bar/segmented-bar-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			whAc5qc6v5+BGLVjAXtMx+XKs6I=
+			zyApZLcbauiw3tjINicelMZmCsY=
 			</data>
 			<key>hash2</key>
 			<data>
-			3hGhmqin7b2djD2xzQJZCtTExLU82sAWhwWjYHkDpAw=
+			87NdEQYoDTmqRBNcys6nDbgw48tlbar5lrJovfldK3M=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/segmented-bar/segmented-bar.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/segmented-bar/segmented-bar.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5577,7 +5742,7 @@
 			EfaNGfcTIZEuTD1n9sxjexzOtJ0w2PKaDWUqUpeGGuE=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/slider/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/slider/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5588,7 +5753,7 @@
 			ZyVglbCFDnugf42p8jr2WESLD6+Edyobwdc1O7hR740=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/slider/slider-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/slider/slider-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5599,7 +5764,7 @@
 			9MXN8gBUTpgV4dBD1MnZnR4LSgQZsoywpQG8G+5n7PQ=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/slider/slider.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/slider/slider.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5610,7 +5775,7 @@
 			OtmANvtXaERBEEmD9odEn4KqqmX6QbttJIqngIFTzSI=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/styling/background-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/styling/background-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5621,18 +5786,18 @@
 			EgFpGoQA7W9Gbyjbtf0WlmG/h1nA4A22ofJMOtiMHS8=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/styling/background.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/styling/background.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9mgiUHq5wr+4t3eGU1QBB4nOp54=
+			Cn+naRRJWiKFTXwjhXRRmT1hfIU=
 			</data>
 			<key>hash2</key>
 			<data>
-			2EqWQKUZAWJ/Ag5R/nzPovUCN2R6VynjlSmx6MbKNrg=
+			nH5reEnRV2z/JZHi9v5Xs4RhZBEmEPAEoz/ESoBUhTQ=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/styling/converters.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/styling/converters.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5643,7 +5808,7 @@
 			mFV9SJ9Jk7N/P+GU1DdkMRnjK1Cy7s/ukWYiV1FeFCE=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/styling/css-animation-parser.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/styling/css-animation-parser.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5654,7 +5819,7 @@
 			6I2Nq+Ap+q7+D9+iOYUVr7acrONvrszAipszBSzDnKc=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/styling/css-selector-parser.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/styling/css-selector-parser.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5665,7 +5830,7 @@
 			/KqHiiBj0oxv8Lg8bahQgMguBGFjMrzLvf8C3l58OG0=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/styling/css-selector.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/styling/css-selector.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5676,7 +5841,7 @@
 			JIuzahP9HXgKVP9x+8ZCa0+YjP3vv9+8S08YczqpJkU=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/styling/font-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/styling/font-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5687,7 +5852,7 @@
 			eK7CSoWceCTcnbZs3dRnrwE1g/0S/VjtMpqRWMur0hE=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/styling/font.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/styling/font.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5698,7 +5863,7 @@
 			7i8B8hp2/CutPcHWViaMB9PV/xucd3ASVqHf7Z2J5ZQ=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/styling/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/styling/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5709,7 +5874,7 @@
 			Sg6kTHIjd+7A+AVhX4J4SCe4iuqF/RBGr9+gYyXIHJk=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/styling/style-property.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/styling/style-property.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5720,7 +5885,7 @@
 			khmg6Uo2vEyyTNBfqlLe/MI0sxNm/m8LgqsaM0BQ91A=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/styling/style-scope.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/styling/style-scope.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5731,18 +5896,18 @@
 			HbOaS3xhwsG1UySRY2Fz0vEjDvkC/KLJVT/0HxWi7Lw=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/styling/style.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/styling/style.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ff6bnUS7gRG8xUJx7mGaiEbS8hQ=
+			2itXMBcpny0QmkUfdbEc5PaNPvM=
 			</data>
 			<key>hash2</key>
 			<data>
-			/RPJu5jcCPxX9uYgenRJ3YaKYpOVyiF4khdZa4HR8Bc=
+			i+W6G0rqMZK5+4fBqiQb31qk47DB2iCVjB81TBGsg6o=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/styling/styling.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/styling/styling.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5753,7 +5918,7 @@
 			jOqdfuyNkD8g+K1leHjzQjh+86o0qjsGcsVKPfUPzSw=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/switch/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/switch/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5764,7 +5929,7 @@
 			JZS1zp+2lYQfab9rSrqHw0c88xTJgqjrPjjsDXttZP4=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/switch/switch-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/switch/switch-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5775,7 +5940,7 @@
 			mkshx0VB+Y90fYWH1iTGK1mY+JHmMQvBL2shUdOESDE=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/switch/switch.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/switch/switch.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5786,7 +5951,7 @@
 			TLZpL2uZ3pXMUY+eUwj/G3zTOfczG+RCC64i3VN28rk=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/tab-view/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/tab-view/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5797,29 +5962,29 @@
 			E5B4wRjTkSLqM1WrK0hjaxiACbUXBtceu7FvWUSYxX0=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/tab-view/tab-view-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/tab-view/tab-view-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MyABXfytO8IiZPcL9KyZMunxXEU=
+			iB8RCfLSLchnKqT+eSM/0NJHTFQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			0D+FZB+7dABqzi83nIrOP190dlRk07/yEb2419IXy2Y=
+			GAQzbU4VHN9O7jzZ66Dx4u7ar32/Ar5gkCY8+ZAl9pc=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/tab-view/tab-view.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/tab-view/tab-view.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HN3NiHlyU2SXru83JD+xnKJxxA0=
+			89IQnM38BOhP/2inLdnikgrMmBg=
 			</data>
 			<key>hash2</key>
 			<data>
-			4EvKMFS/jtZoOsckK1Jiy85+XumUFdZOHcHiPTHBgtI=
+			lsCokT7Mv5rxhaLG5bAqMoPHvN+NzKk1VKzuny6hLM8=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/text-base/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/text-base/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5830,7 +5995,7 @@
 			QOBwiZLMpjeGMPMFfM01911EtNEz76edhqqWNAG0KOQ=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/text-base/text-base-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/text-base/text-base-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5841,7 +6006,7 @@
 			w7VJsM0jec+zEGzh+y4QyA76DTfJQaKapTpWDbR3IGc=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/text-base/text-base-styler.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/text-base/text-base-styler.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5852,7 +6017,7 @@
 			3A/hHuHFoSZRHLPFnYWtsP80l/84lMnBewBpFUCA6wM=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/text-base/text-base.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/text-base/text-base.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5863,7 +6028,7 @@
 			Zl3H2OpmrYzh4dzd7lyuzmm3HqGOTR9ztpCOGahAXrk=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/text-field/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/text-field/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5874,7 +6039,7 @@
 			Rcmq83rWRkDn0Cl0uTimimCVxhotUToo0yg7P9KLslE=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/text-field/text-field-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/text-field/text-field-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5885,7 +6050,7 @@
 			rwXh/6MmLK0RupsCVUvFyPvgIgqNL7PeFlNq242LNiw=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/text-field/text-field.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/text-field/text-field.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5896,7 +6061,7 @@
 			s42X44t3QQmq8kMjlvEFAAUiAxAZEMBJLAV+MMVHNX8=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/text-view/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/text-view/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5907,7 +6072,7 @@
 			PlKlH0n4U4oUzc0IPwHiSnbHSRL3shXTJi8xKJ0fMlg=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/text-view/text-view-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/text-view/text-view-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5918,7 +6083,7 @@
 			biN2lopDw0Emf5F/L56nhPdUg73qQQd96M4f31YHLa8=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/text-view/text-view.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/text-view/text-view.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5929,7 +6094,7 @@
 			Xw69RIrtQf+TP60/8zCjWthHIhRhJma+SGjZvpWUTWQ=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/time-picker/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/time-picker/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5940,7 +6105,7 @@
 			O4AOtvFtuBifjdD36MbdRWXJed3NWJ+xbhvMQ7PY3zQ=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/time-picker/time-picker-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/time-picker/time-picker-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5951,7 +6116,7 @@
 			5pyNvVFDtf9eWQEQLI5bkBaONwBGsugX7ybx/zE5Iho=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/time-picker/time-picker.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/time-picker/time-picker.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5962,7 +6127,7 @@
 			TsYNlDy9zmOHLHH8svkSKipoyYZVL4jrnV4fd4ZJCHI=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/transition/fade-transition.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/transition/fade-transition.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5973,7 +6138,7 @@
 			W5T1G1+ajdktwYWyaCjNQ7gi+KQlmGZyRA5PGWBba4E=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/transition/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/transition/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5984,7 +6149,7 @@
 			go5JUT7ok/aj7AruZxnMhMJ8Oaf+EDpCkrDb13ESSas=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/transition/slide-transition.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/transition/slide-transition.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -5995,7 +6160,7 @@
 			zL802NBP5c5c84u1Wto69ZuA7lsZpIGglI6TVoLdi2Q=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/transition/transition.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/transition/transition.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6006,7 +6171,7 @@
 			GQm0ax/nazoo2x8+HD/WuQJ2k5/zimSGO65M2a16CoY=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/utils.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/utils.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6017,7 +6182,7 @@
 			3H0wZiLAhjTMcpX8fc7nzp7HOF/PKhQ67i5UPvUwQnw=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/web-view/package.json</key>
+		<key>app/tns_modules/tns-core-modules/ui/web-view/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6028,7 +6193,7 @@
 			cjGXHLtuM0uF2BGgmYW6G6wkGmpBPzh+JblOFkXZ8TM=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/web-view/web-view-common.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/web-view/web-view-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6039,7 +6204,7 @@
 			RcMRUhpOUbwqYMuMIzoBh2l9n0EEgBK9XwR3k0pp68I=
 			</data>
 		</dict>
-		<key>app/tns_modules/ui/web-view/web-view.js</key>
+		<key>app/tns_modules/tns-core-modules/ui/web-view/web-view.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6050,7 +6215,7 @@
 			jNoXhIZH/pT3t/DvPqSkroQZlC+IZBFRsocUa2nuKMI=
 			</data>
 		</dict>
-		<key>app/tns_modules/utils/debug-common.js</key>
+		<key>app/tns_modules/tns-core-modules/utils/debug-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6061,7 +6226,7 @@
 			mbN1acycpJ/WMXT6llG/k7ter+9dMgK12mVl0JEaWb0=
 			</data>
 		</dict>
-		<key>app/tns_modules/utils/debug.js</key>
+		<key>app/tns_modules/tns-core-modules/utils/debug.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6072,7 +6237,7 @@
 			NBAEgHEmzatW3812irqaZWK+YyhqbP4q9Bpsc3cLrYw=
 			</data>
 		</dict>
-		<key>app/tns_modules/utils/lazy.js</key>
+		<key>app/tns_modules/tns-core-modules/utils/lazy.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6083,7 +6248,7 @@
 			Ij3Yfb1poLoKS3pAS33OUwETIyZ9HFlYzU/Bg1LnKtg=
 			</data>
 		</dict>
-		<key>app/tns_modules/utils/module-merge.js</key>
+		<key>app/tns_modules/tns-core-modules/utils/module-merge.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6094,7 +6259,7 @@
 			jUfVn+Gr2ZSNODO0Q1OIGmyQI1h+cokvAYBT4VbBmf0=
 			</data>
 		</dict>
-		<key>app/tns_modules/utils/number-utils.js</key>
+		<key>app/tns_modules/tns-core-modules/utils/number-utils.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6105,7 +6270,7 @@
 			oiw7G5yHH/qmL/fMFmp4qU7LIt4W1xTbvqtU+0mBVds=
 			</data>
 		</dict>
-		<key>app/tns_modules/utils/package.json</key>
+		<key>app/tns_modules/tns-core-modules/utils/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6116,7 +6281,7 @@
 			Pa6jlSSI9K0rZYIYBL/yKQDBykHtz8iITXBfavd6vIY=
 			</data>
 		</dict>
-		<key>app/tns_modules/utils/types.js</key>
+		<key>app/tns_modules/tns-core-modules/utils/types.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6127,7 +6292,7 @@
 			d5lK1vS6OFtXUgMzY26mOnjMF4gJL2hiVmS1vs8gmhI=
 			</data>
 		</dict>
-		<key>app/tns_modules/utils/utils-common.js</key>
+		<key>app/tns_modules/tns-core-modules/utils/utils-common.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6138,7 +6303,7 @@
 			14EfGJB8QVYviTdWwc5KG/rOfHYMpPlo/oFbBMMKxAs=
 			</data>
 		</dict>
-		<key>app/tns_modules/utils/utils.js</key>
+		<key>app/tns_modules/tns-core-modules/utils/utils.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6149,7 +6314,7 @@
 			gW5ERtJ/8B4D+Sgj9wPYzMLr7fF8Yx1t29NJmESuQfM=
 			</data>
 		</dict>
-		<key>app/tns_modules/xhr/package.json</key>
+		<key>app/tns_modules/tns-core-modules/xhr/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6160,7 +6325,7 @@
 			6/y1KUhxCY13kJGs/fTLPmMcYvKwkDXmX5dnVZrYnoQ=
 			</data>
 		</dict>
-		<key>app/tns_modules/xhr/xhr.js</key>
+		<key>app/tns_modules/tns-core-modules/xhr/xhr.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6171,7 +6336,7 @@
 			PiphzFRqDvTjURfj/+1cUoEezjpVVrSMiWURJ/MFMhM=
 			</data>
 		</dict>
-		<key>app/tns_modules/xml/package.json</key>
+		<key>app/tns_modules/tns-core-modules/xml/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6182,15 +6347,15 @@
 			T9PbAqujlInnQriebgPp15vOutkH/6IS3XdpvQod628=
 			</data>
 		</dict>
-		<key>app/tns_modules/xml/xml.js</key>
+		<key>app/tns_modules/tns-core-modules/xml/xml.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cZuRlF6PBKAcVS0LmYzN+IzxI1I=
+			4qqIlK9DL77zY06+sgQwXTeChfE=
 			</data>
 			<key>hash2</key>
 			<data>
-			qlk0l+uGdPaQEeNWjPvYM3H5Wvv0/jUqUYEVQTDg64U=
+			yi+uxdzPQ51xYTCPpTi1+3GwKnpVlOv5GbhSJX1s/qU=
 			</data>
 		</dict>
 		<key>build.xcconfig</key>

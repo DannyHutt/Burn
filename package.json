@@ -6,12 +6,12 @@
   "nativescript": {
     "id": "org.nativescript.Burn",
     "tns-ios": {
-      "version": "2.4.0"
+      "version": "2.5.0"
     }
   },
   "dependencies": {
     "nativescript-theme-core": "^0.2.1",
-    "tns-core-modules": "2.4.4"
+    "tns-core-modules": "^2.5.1"
   },
   "devDependencies": {
     "nativescript-dev-android-snapshot": "^0.*.*"

@@ -4,6 +4,8 @@ var enums = require("ui/enums");
 var frame = require("ui/frame");
 var platform = require("platform");
 var application = require('application');
+var gestures = require("ui/gestures");
+
 
 var AppDelegate = UIResponder.extend({
     
@@ -73,12 +75,14 @@ function createViewModel() {
         viewModel.imgSrc2 = viewModel.blueDotPath;
         viewModel.imgSrc1 = viewModel.blueDotPath;
   
-
+    
         
-        // Need to create the spinning wheel that adds more to your reserve.
+
 
     // tap event
     viewModel.onTap = function() {
+        
+        
 
         /*
 

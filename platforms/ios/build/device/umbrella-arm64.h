@@ -490,7 +490,7 @@
 #import "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.2.sdk/System/Library/Frameworks/GameController.framework/Headers/GameController.h"
 #import "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.2.sdk/System/Library/Frameworks/CoreMotion.framework/Headers/CoreMotion.h"
 #import "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.2.sdk/usr/include/libkern/OSCacheControl.h"
-#import "/Users/dan/Dev/git/Burn/platforms/ios/../../lib/iOS/TNSWidgets.framework/Headers/TNSWidgets.h"
+#import "/Users/dan/Dev/git/Burn/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSWidgets.h"
 #import "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h"
 #import "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.2.sdk/System/Library/Frameworks/QuickLook.framework/Headers/QuickLook.h"
 #import "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.2.sdk/System/Library/Frameworks/ReplayKit.framework/Headers/ReplayKit.h"

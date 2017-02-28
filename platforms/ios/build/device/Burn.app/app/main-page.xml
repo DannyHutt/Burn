@@ -65,8 +65,23 @@ https://docs.nativescript.org/ui/components.
         <Image width="375" height="74" class="navigation" src="~/images/nav-596x90@2x.png.png" />-->
         
         <AbsoluteLayout id="mainLayout" class="body">
+
+            <!-- page background -->
             <Label text="" class="BG" />
-            <Image width="375" height="522" top="125" id="packBG" class="packBG" src="~/images/pack.png" />
+
+            <!-- debugging -->
+            <StackLayout id="debugLabels">
+                <label id="lblStartPosition" text="Start Position: " class="debugLabel" />
+                <label id="lblDragDirection" text="Drag Direction: " class="debugLabel" />
+                <label id="lblDragDistance" text="Drag Distance: " class="debugLabel" />
+                <label id="lblThresholdBroken" text="Threshold Broken: " class="debugLabel" />
+                <label id="lblAnimateTo" text="Animate To: " class="debugLabel" />
+            </StackLayout>
+
+            <!-- pack -->
+            <Image width="375" height="522" top="425" id="packBG" class="packBG pack" src="~/images/pack-20@2x.png" />
+            <Image width="56" height="456" top="494" left="160" id="cig" class="cig" src="~/images/tallButt@2x.png" />
+            <Image width="375" height="522" top="425" id="packFront" class="packFront pack" src="~/images/pack-front.png" />
         </AbsoluteLayout>
         
         
