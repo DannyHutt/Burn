@@ -4,6 +4,8 @@ var enums = require("ui/enums");
 var frame = require("ui/frame");
 var platform = require("platform");
 var application = require('application');
+var gestures = require("ui/gestures");
+
 
 var AppDelegate = UIResponder.extend({
     
@@ -73,9 +75,37 @@ function createViewModel() {
         viewModel.imgSrc2 = viewModel.blueDotPath;
         viewModel.imgSrc1 = viewModel.blueDotPath;
   
+    
+        
+
 
     // tap event
     viewModel.onTap = function() {
+        
+        
+
+        /*
+
+        DESIGN UPDATES:
+        -- changed the design to look like an actual pack of butts.
+        -- now the user will slide up to pull out a butt and then do a long press to begin smoking.
+        -- sliding down should put the unlit butt back into the pack
+        -- sliding down again should move the pack down on the screen and reveal additional information
+        -- not sure what to do about reserve packs or frequency vs butts per day.
+
+        -- need to create assets for new design:
+            - empty pack
+            - individual butts
+            - theme variations
+            - closed pack
+            - full pack
+
+        DEV UPDATES:
+        -- 
+
+        TESTING:
+
+        */
 
         if(this.counter > 0){
             // remove a blue dot

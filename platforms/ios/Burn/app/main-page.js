@@ -7,6 +7,7 @@ var view = require("ui/core/view");
 var stackModule = require("ui/layouts/stack-layout");
 var gestures = require("ui/gestures");
 var absoluteLayout = require("ui/layouts/absolute-layout");
+var enums = require('ui/enums');
 
 function loaded(args){
     var page = args.object;
@@ -15,39 +16,91 @@ function loaded(args){
 
     var topMin = 125;
     var topMax = 400;
+    var centerVal = (topMax + topMin) / 2;
 
     var packTop;
 
     mainLayout.on(gestures.GestureTypes.pan, function (args) {
 
-        // *********************************************
-        //  Just got this to work so the pack wont jump 
-        //  to the bottom when you touch it
-        // *********************************************
+        /* ******************************************************************
+
+         This can be broken in some edge cases and should be fixed.
+
+         EXAMPLE: 
+         If the user drags the pack below
+         the min (dragging up on the screen) and then 
+         quickly lets go and presses again for a second 
+         pan gesture before the pack has a chance to
+         get to the topMin position - it will have a 
+         curLoc value that is less than the topMin
+         so it will not fall into the 'changed' if block
+         and nothing will happen.
+
+         UPDATE:
+         in the lower position it should maybe work different than in the upper
+         position. or maybe they should both be independent.
+
+         the user probably shouldnt have to drag all the way to the center point
+         to make the animation start. maybe just a set number of pixels.
+
+        ******************************************************************** */
 
         var touchY = args.deltaY;
 
         if(args.state === 1){
             // this is the 'began' state
-            console.log('BEGAN');
+            console.log('Pan state: began');
             // get the current location
             packTop = absoluteLayout.AbsoluteLayout.getTop(myPack);
         }
 
+
         if(args.state === 2){
             // this is the 'changed' state
-            console.log('CHANGED');
-
+            console.log('Pan state: changed');
+            // we need to know the direction in case the user drags the view above the max or below the min
+            // in that case the pan should continue to move the view past the min or the max but still stop at the next one.
             var newTop = packTop + touchY;
+            //absoluteLayout.AbsoluteLayout.setTop(myPack, newTop);
             if(newTop <= topMax && newTop >= topMin){
                 absoluteLayout.AbsoluteLayout.setTop(myPack, newTop);
             }
             
         }
 
+
         if(args.state === 3){
             // this is the 'ended' state
-            console.log('ENDED');
+
+            console.log('Pan state: ended');
+
+            var curLoc = absoluteLayout.AbsoluteLayout.getTop(myPack);
+            var travelDist = curLoc - packTop;
+            var travelDir = travelDist>0?'down':'up';
+            // if the current location is not the min or the max then animate to one of them
+            if(curLoc !== topMin && curLoc !== topMax){
+                // check if the current location is greater than the center location
+                // if it is then move it to the max spot
+                // otherwise, move it to the min spot
+                console.log('current location: ',curLoc + ' centerVal: ',centerVal);
+                if(curLoc > centerVal){
+                    // animate to max
+                    var distance = topMax - curLoc;  
+                    myPack.animate({
+                        translate: {x: 0, y: distance},
+                        //duration: '',
+                        curve: enums.AnimationCurve.easeOut
+                    });
+                }else{
+                    // animate to min 
+                    var distance = topMin - curLoc;  
+                    myPack.animate({
+                        translate: {x: 0, y: distance},
+                        //duration: '',
+                        curve: enums.AnimationCurve.easeOut
+                    });
+                }
+            }
         }
 
         
