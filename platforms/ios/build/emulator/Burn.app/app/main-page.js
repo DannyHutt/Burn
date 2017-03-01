@@ -118,10 +118,11 @@ function loaded(args){
 
                     // animate to max
                     var distance = topMax - curLoc;  
+                    console.log('distance: ',distance);
                     var animationArray = [
-                        {target: cig, translate: {x: 0, y: distance}, curve: enums.AnimationCurve.easeOut}//,
-                        //{target: myPack, translate: {x: 0, y: 0},curve: enums.AnimationCurve.easeIn},
-                        //{target: packFront, translate: {x: 0, y: 0}, curve: enums.AnimationCurve.easeIn}
+                        {target: cig, translate: {x: 0, y: distance}, curve: enums.AnimationCurve.easeOut},
+                        {target: myPack, translate: {x: 0, y: 0},curve: enums.AnimationCurve.easeOut},
+                        {target: packFront, translate: {x: 0, y: 0}, curve: enums.AnimationCurve.easeOut}
                     ];
                     var animations = new animation.Animation(animationArray);
                     animations.play();
@@ -136,9 +137,9 @@ function loaded(args){
                     // animate to min 
                     var distance = topMin - curLoc;  
                     var animationArray = [
-                        {target: cig, translate: {x: 0, y: distance}, curve: enums.AnimationCurve.easeOut}//,
-                        //{target: myPack, translate: {x: 0, y: 0},curve: enums.AnimationCurve.easeIn},
-                        //{target: packFront, translate: {x: 0, y: 0}, curve: enums.AnimationCurve.easeIn}
+                        {target: cig, translate: {x: 0, y: distance}, curve: enums.AnimationCurve.easeOut},
+                        {target: myPack, translate: {x: 0, y: 500},curve: enums.AnimationCurve.easeIn},
+                        {target: packFront, translate: {x: 0, y: 500}, curve: enums.AnimationCurve.easeIn}
                     ];
                     var animations = new animation.Animation(animationArray);
                     animations.play();

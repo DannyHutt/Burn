@@ -20,7 +20,7 @@ function loaded(args){
     var packFront = page.getViewById('packFront');
     var mainLayout = page.getViewById('mainLayout');
 
-    // Debug labels
+    // Debug labels 
     var lblStartPos = page.getViewById('lblStartPosition');
     var lblDragDir = page.getViewById('lblDragDirection');
     var lblDragDist = page.getViewById('lblDragDistance');
